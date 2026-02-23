@@ -1,75 +1,143 @@
-# Weekly ToC Digest (week of 2026-02-16)
+# Weekly ToC Digest (week of 2026-02-23)
 
-Prioritizing papers related to neural time series, oscillations, and cross-species electrophysiology. Many entries related to clinical aspects or non-neural-focused studies were deprioritized. This week's selection prioritizes advancements in neural signal processing and data science applications related to neural timescales and electrophysiology. No highly relevant papers in this week's listings. All items are heavily down-weighted due to mismatch with core interests, such as methods in neural time-series, oscillations, and cross-species electrophysiology. Papers were triaged based on neural dynamics, physiological signal processing, and computational approaches. For this week, none of the papers specifically matched the prioritized interests on neural time series methods, oscillations, or spectral analysis, leading to all items being downweighted significantly.
+The majority of articles this week did not align closely with the interests specified by the user, focusing instead on clinical, behavioral, and public health topics. However, certain articles still held minor relevance due to their exploration of neural dynamics or electrophysiology. Papers that align best with your research interests include those that involve methods for neural time series, oscillations, and signal processing. Computational modeling in the context of neuroscience is key. Prioritize methods related to neural time series and physiological signal processing, down weight irrelevant topics like cancer or purely clinical studies. No highly relevant articles found based on user's interests in neural dynamics and computational modeling.
 
-**Included:** 4 (score ≥ 0.35)  
+**Included:** 8 (score ≥ 0.35)  
 **Scored:** 14 total items
 
 ---
 
-## [Predictive E-prop: A biologically inspired approach to train predictive coding-based recurrent spiking neural networks](https://www.biorxiv.org/content/10.64898/2026.02.12.705507v1?rss=1)
+## [Temporal Coding rather than Circuit Wiring allows Hippocampal CA3 Neurons to Dynamically Distinguish Different Cortical Inputs](https://www.biorxiv.org/content/10.64898/2026.02.20.707083v1?rss=1)
 *bioRxiv*  
 Score: **0.90**  
-Published: 2026-02-15T00:00:00+00:00
-Tags: neural networks, methods
+Published: 2026-02-20T00:00:00+00:00
+Tags: temporal coding, hippocampus, neuronal timescales
 
-The paper discusses training methods for spiking neural networks relevant for neural signal processing and data science.
+Focus on hippocampal neurons and temporal coding aligns with electrophysiological interests, avoiding a focus solely on fMRI or behavioral data.
 
 <details>
 <summary>RSS summary</summary>
 
-The predictive coding framework offers a compelling model for temporal signal processing in the cortex. Recent studies explored its implementation in spiking architectures using Hebbian plasticity rules or offline learning; however, a biologically inspired model that enables gradient-based minimization of prediction errors remains an open challenge. In this work, we demonstrate that the predictive coding objective can be optimized using the online and local nature of the e-prop learning algorith…
+Memory relies on associating and indexing multimodal information. How does this occur within single neurons? The hippocampus integrates multisensory information from medial (MEC) and lateral (LEC) entorhinal cortices to form environmental representations1-6, yet their synaptic dynamics, circuit organization, and integrative functions remain elusive. Contrary to canonical models emphasizing anatomical and functional segregation, our dual-color optogenetic7 circuit mapping revealed that both MEC a…
 
 </details>
 
 ---
 
-## [Multisession fNIRS-EEG data of Post-Stroke Motor Recovery. Recordings During Intact and Paretic Hand Movements](https://www.nature.com/articles/s41597-026-06803-5)
-*Scientific Data*  
+## [Convolutional neural network models describe the encoding subspace of local circuits in auditory cortex](https://www.nature.com/articles/s41593-026-02216-0)
+*Nature Neuroscience*  
+Score: **0.85**  
+Published: 2026-02-23T00:00:00+00:00
+Tags: methods, computational, neuroscience
+
+This paper uses deep-learning models to analyze neuronal subtypes in the auditory cortex, aligning with interests in computational neuroscience and neural encoding.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 23 February 2026; <a href="https://www.nature.com/articles/s41593-026-02216-0">doi:10.1038/s41593-026-02216-0</a></p>Wingert, Parida and colleagues measured tuning subspaces from deep-learning models trained on single neurons in auditory cortex. They show that subspaces distinguish functional properties between neuronal subtypes and describe a framework for sparse, efficient coding of natural sounds.
+
+</details>
+
+---
+
+## [Behavioral timescale synaptic plasticity: properties, elements and functions](https://www.nature.com/articles/s41593-026-02214-2)
+*Nature Neuroscience*  
+Score: **0.85**  
+Published: 2026-02-20T00:00:00+00:00
+Tags: synaptic plasticity, timescales
+
+Investigates synaptic plasticity on behavioral timescales, relevant to neuronal timescales and neural dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 20 February 2026; <a href="https://www.nature.com/articles/s41593-026-02214-2">doi:10.1038/s41593-026-02214-2</a></p>Understanding how brains learn and remember remains among the most important challenges in science. Recent studies suggest that a new form of synaptic plasticity provides a basis for future explorations ranging from biochemistry to cognition.
+
+</details>
+
+---
+
+## [Dynamics of mesoscale brain network during visual discrimination learning revealed by chronic, large-scale single-unit recording](https://elifesciences.org/articles/108083)
+*eLife*  
 Score: **0.80**  
-Published: 2026-02-14T00:00:00+00:00
-Tags: EEG, methods
+Published: 2026-02-23T00:00:00+00:00
+Tags: timescales, methods, electrophysiology
 
-Focuses on EEG and fNIRS data, contributing to cross-modal data analysis methods.
+Single-unit recording across multiple brain regions during learning processes is relevant for neural timescales and cross-species electrophysiology.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Scientific Data, Published online: 14 February 2026; <a href="https://www.nature.com/articles/s41597-026-06803-5">doi:10.1038/s41597-026-06803-5</a></p>Multisession fNIRS-EEG data of Post-Stroke Motor Recovery. Recordings During Intact and Paretic Hand Movements
+Associating unfamiliar stimuli with appropriate behavior through experience is crucial for survival. While task-relevant information was found to be distributed across multiple brain regions, how regional nodes in this distributed network reorganize their functional interactions throughout learning remains to be elucidated. Here, we performed chronic, large-scale single-unit recording across 10 cortical and subcortical regions using ultra-flexible microelectrode arrays in mice performing a visua…
 
 </details>
 
 ---
 
-## [Alpha oscillations track the projection of reactivated memories into conscious awareness](https://www.biorxiv.org/content/10.64898/2026.02.13.705747v1?rss=1)
+## [All-optical electrophysiology reveals behavior-dependent dynamics of excitation and inhibition in the hippocampus](https://www.cell.com/neuron/fulltext/S0896-6273(25)00996-1?rss=yes)
+*Neuron*  
+Score: **0.80**  
+Published: 2026-02-20T00:00:00+00:00
+Tags: optogenetics, voltage imaging, hippocampus
+
+Combines voltage imaging and optogenetics focusing on hippocampal neurons, relevant for electrophysiological methods.
+
+<details>
+<summary>RSS summary</summary>
+
+Yang et al. combine voltage imaging and optogenetics to demonstrate that locomotion coordinates excitatory and inhibitory inputs across four major cell types in hippocampal CA1. This state-dependent rebalancing alters firing patterns, theta-band membrane dynamics, and neuronal gain, illustrating how behavioral state shapes circuit-level processing.
+
+</details>
+
+---
+
+## [Inverted encoding of neural responses to audiovisual stimuli reveals super-additive multisensory enhancement](https://elifesciences.org/articles/97230)
+*eLife*  
+Score: **0.75**  
+Published: 2026-02-23T00:00:00+00:00
+Tags: methods, neuroscience, sensory
+
+The study of multisensory integration using neural encoding models is aligned with cross-modal signal processing and computational modeling in neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+A central challenge for the brain is how to combine separate sources of information from different sensory modalities to optimally represent objects and events in the external world, such as combining someone’s speech and lip movements to better understand them in a noisy environment. At the level of individual neurons, audiovisual stimuli often elicit super-additive interactions, where the neural response is greater than the sum of auditory and visual responses. However, investigations using el…
+
+</details>
+
+---
+
+## [A joint alpha power-phase dynamic shapes visual sensitivity](https://www.biorxiv.org/content/10.64898/2026.02.19.706926v1?rss=1)
+*bioRxiv*  
+Score: **0.75**  
+Published: 2026-02-20T00:00:00+00:00
+Tags: alpha oscillations, EEG, visual processing
+
+Links alpha-band oscillations to visual perception, relevant for spectral analysis interests.
+
+<details>
+<summary>RSS summary</summary>
+
+Perceptual experience is influenced by alpha-band oscillations (8-14 Hz) that dominate parietal and sensory cortices. However, there is uncertainty around the perceptual mechanisms that are affected by oscillatory power and phase. Previous work has linked power and phase to behaviour separately despite their theorised common effects via pulsed-inhibition, potentially misrepresenting or conflating their effects. Here we recorded brain activity using electroencephalography to investigate how alpha…
+
+</details>
+
+---
+
+## [Conditioned Graph Reconstruction of Brain Functional Network Connectivity Reveals Interpretable Latent Axes of Sex and Fluid Intelligence](https://www.biorxiv.org/content/10.64898/2026.02.20.707025v1?rss=1)
 *bioRxiv*  
 Score: **0.70**  
-Published: 2026-02-15T00:00:00+00:00
-Tags: oscillations, EEG
+Published: 2026-02-20T00:00:00+00:00
+Tags: functional connectivity, modeling, brain networks
 
-Discusses oscillations in relation to memory, pertinent to oscillatory dynamics and neural timescales.
-
-<details>
-<summary>RSS summary</summary>
-
-By definition, episodic memory is a conscious phenomenon. Memory traces reactivated by the hippocampus and reinstated in the sensory cortices need to enter conscious awareness for them to be re-experienced and overtly recalled. However, it remains unclear whether such reactivation in-and-of-itself ensures that memories will be overtly recalled. To investigate this, magnetoencephalography (MEG) recordings were analysed from thirty-one participants (18 female, 13 male) completing a video-word pair…
-
-</details>
-
----
-
-## [Computational origins of cortical brain circuits for social cognition](https://www.nature.com/articles/s41583-026-01028-2)
-*Nature Rev Neurosci*  
-Score: **0.40**  
-Published: 2026-02-16T00:00:00+00:00
-Tags: computational, neuroscience
-
-Explores computational neuroscience aspects relevant to understanding neural mechanisms, albeit focused on social cognition rather than electrophysiological methods or dynamics.
+Focus on brain network connectivity and modeling aligns with computational neuroscience interests.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Reviews Neuroscience, Published online: 16 February 2026; <a href="https://www.nature.com/articles/s41583-026-01028-2">doi:10.1038/s41583-026-01028-2</a></p>Brain activity in regions traditionally linked to social cognition in primates also supports analogous computational demands in non-social contexts. In this Perspective, Mahmoodi and Rushworth examine the computations required to navigate the social lives of human and non-human primates, arguing how shared neural mechanisms carryin…
+In studying the brains functional connectivity and its associations with clinically observed assessments, novel learning frameworks modeling its network properties in conjunction with assessment variables are crucial to uncover variable-specific patterns via meaningful encoding and reconstruction. We present a generative framework for modeling human brain functional connectivity features while retaining key network metrics and differences associated with demographic and cognitive variables. A co…
 
 </details>
 
