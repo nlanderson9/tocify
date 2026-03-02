@@ -1,143 +1,160 @@
-# Weekly ToC Digest (week of 2026-02-23)
+# Weekly ToC Digest (week of 2026-03-02)
 
-The majority of articles this week did not align closely with the interests specified by the user, focusing instead on clinical, behavioral, and public health topics. However, certain articles still held minor relevance due to their exploration of neural dynamics or electrophysiology. Papers that align best with your research interests include those that involve methods for neural time series, oscillations, and signal processing. Computational modeling in the context of neuroscience is key. Prioritize methods related to neural time series and physiological signal processing, down weight irrelevant topics like cancer or purely clinical studies. No highly relevant articles found based on user's interests in neural dynamics and computational modeling.
+No items matched user interests significantly for this week. Consider a focus on electrophysiology and computational neuroscience in future selections. Priority given to works involving electrophysiological methods, neuronal timescales, and cross-species data. Triaged based on focus on neural methods and physiological signal processing, with a higher priority on electrophysiological and computational neuroscience contributions.
 
-**Included:** 8 (score ≥ 0.35)  
-**Scored:** 14 total items
+**Included:** 9 (score ≥ 0.35)  
+**Scored:** 13 total items
 
 ---
 
-## [Temporal Coding rather than Circuit Wiring allows Hippocampal CA3 Neurons to Dynamically Distinguish Different Cortical Inputs](https://www.biorxiv.org/content/10.64898/2026.02.20.707083v1?rss=1)
+## [Oscillatory brain state-dependent stimulation with transcranial magnetic stimulation combined with electroencephalography](https://www.nature.com/articles/s41596-025-01309-7)
+*Nature Protocols*  
+Score: **0.95**  
+Published: 2026-02-27T00:00:00+00:00
+Tags: EEG, methods, oscillations
+
+This article focuses on neural signal processing, combining EEG and TMS, and aligns with interests in oscillations and physiological signal methodologies.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Protocols, Published online: 27 February 2026; <a href="https://www.nature.com/articles/s41596-025-01309-7">doi:10.1038/s41596-025-01309-7</a></p>An approach that couples the application of transcranial magnetic stimulation with brain oscillations to improve the effectiveness of long-term plasticity induction.
+
+</details>
+
+---
+
+## [Preserved Intrinsic Neural Timescale Organization with Hierarchical Variation in Autism Spectrum Disorder](https://www.biorxiv.org/content/10.64898/2026.02.27.708484v1?rss=1)
 *bioRxiv*  
 Score: **0.90**  
-Published: 2026-02-20T00:00:00+00:00
-Tags: temporal coding, hippocampus, neuronal timescales
+Published: 2026-02-27T00:00:00+00:00
+Tags: timescales, neuroscience, ASD
 
-Focus on hippocampal neurons and temporal coding aligns with electrophysiological interests, avoiding a focus solely on fMRI or behavioral data.
+Focus on intrinsic neural timescales, a key interest; links to ASD provides a rich neural and computational context.
 
 <details>
 <summary>RSS summary</summary>
 
-Memory relies on associating and indexing multimodal information. How does this occur within single neurons? The hippocampus integrates multisensory information from medial (MEC) and lateral (LEC) entorhinal cortices to form environmental representations1-6, yet their synaptic dynamics, circuit organization, and integrative functions remain elusive. Contrary to canonical models emphasizing anatomical and functional segregation, our dual-color optogenetic7 circuit mapping revealed that both MEC a…
+Intrinsic neural timescales (INTs) index the temporal decay of neural activity and form a cortical hierarchy from fast sensorimotor to slow transmodal regions. Altered INTs have been reported in autism spectrum disorder (ASD), but it remains unclear whether the hierarchical organization is preserved and how individual variability along this hierarchy relates to sensory traits. Using resting-state fMRI from 182 participants (67 ASD, 115 typically developed controls (TDC)), we estimated INT at eac…
 
 </details>
 
 ---
 
-## [Convolutional neural network models describe the encoding subspace of local circuits in auditory cortex](https://www.nature.com/articles/s41593-026-02216-0)
-*Nature Neuroscience*  
-Score: **0.85**  
-Published: 2026-02-23T00:00:00+00:00
-Tags: methods, computational, neuroscience
+## [Direct interaction of ribosomes with postsynaptic proteins gives rise to a privileged local synaptic translatome](https://www.biorxiv.org/content/10.64898/2026.02.27.708433v1?rss=1)
+*bioRxiv*  
+Score: **0.75**  
+Published: 2026-02-27T00:00:00+00:00
+Tags: synaptic, ribosomes, neuroscience
 
-This paper uses deep-learning models to analyze neuronal subtypes in the auditory cortex, aligning with interests in computational neuroscience and neural encoding.
+Investigation of postsynaptic mechanisms relevant to neural computation and synaptic dynamics.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 23 February 2026; <a href="https://www.nature.com/articles/s41593-026-02216-0">doi:10.1038/s41593-026-02216-0</a></p>Wingert, Parida and colleagues measured tuning subspaces from deep-learning models trained on single neurons in auditory cortex. They show that subspaces distinguish functional properties between neuronal subtypes and describe a framework for sparse, efficient coding of natural sounds.
+Ribosomes and thousands of mRNAs are localized near synapses to support local protein synthesis. Little is known, however, about how ribosomes are positioned and maintained in dendritic spines- the primary postsynaptic sites of excitatory neurotransmission. Here, using proximity labeling-mass spectrometry, we mapped the interactome of postsynaptic ribosomes, and discovered an unexpected interaction with AMPA receptor complex proteins. Co-immunoprecipitation and crosslinking mass spectrometry usi…
 
 </details>
 
 ---
 
-## [Behavioral timescale synaptic plasticity: properties, elements and functions](https://www.nature.com/articles/s41593-026-02214-2)
-*Nature Neuroscience*  
-Score: **0.85**  
-Published: 2026-02-20T00:00:00+00:00
-Tags: synaptic plasticity, timescales
+## [Optogenetic Modeling of Wake-Like Transcriptional Progression in Human SH-SY5Y Neuronal Cells](https://www.biorxiv.org/content/10.64898/2026.02.27.708551v1?rss=1)
+*bioRxiv*  
+Score: **0.60**  
+Published: 2026-03-01T00:00:00+00:00
+Tags: optogenetics, neural dynamics
 
-Investigates synaptic plasticity on behavioral timescales, relevant to neuronal timescales and neural dynamics.
+Although focused on transcriptional changes, the study uses optogenetics to induce neuronal activation, which is relevant to neural signal processing.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 20 February 2026; <a href="https://www.nature.com/articles/s41593-026-02214-2">doi:10.1038/s41593-026-02214-2</a></p>Understanding how brains learn and remember remains among the most important challenges in science. Recent studies suggest that a new form of synaptic plasticity provides a basis for future explorations ranging from biochemistry to cognition.
+Sleep deprivation induces extensive transcriptional remodeling in the brain, yet it remains unclear how much of this response arises directly from sustained neuronal excitation versus systemic and behavioral confounds. Here we establish a reductionist human neuronal cell model to isolate the cell-autonomous consequences of prolonged depolarization. Controlled optogenetic stimulation of human SH-SY5Y neuronal cells elicited scalable calcium influx and robust induction of canonical activity-depend…
 
 </details>
 
 ---
 
-## [Dynamics of mesoscale brain network during visual discrimination learning revealed by chronic, large-scale single-unit recording](https://elifesciences.org/articles/108083)
-*eLife*  
-Score: **0.80**  
-Published: 2026-02-23T00:00:00+00:00
-Tags: timescales, methods, electrophysiology
+## [Improved spatial memory in a modular network mimicking the prefrontal-thalamo-hippocampal triangular circuit](https://www.biorxiv.org/content/10.64898/2026.02.27.708561v1?rss=1)
+*bioRxiv*  
+Score: **0.60**  
+Published: 2026-02-28T00:00:00+00:00
+Tags: neural modeling, timescales, memory
 
-Single-unit recording across multiple brain regions during learning processes is relevant for neural timescales and cross-species electrophysiology.
+This paper studies a network model relevant to neuronal timescales and integration, aligning with cross-species electrophysiology interests.
 
 <details>
 <summary>RSS summary</summary>
 
-Associating unfamiliar stimuli with appropriate behavior through experience is crucial for survival. While task-relevant information was found to be distributed across multiple brain regions, how regional nodes in this distributed network reorganize their functional interactions throughout learning remains to be elucidated. Here, we performed chronic, large-scale single-unit recording across 10 cortical and subcortical regions using ultra-flexible microelectrode arrays in mice performing a visua…
+The hippocampus (HPC), prefrontal cortex (PFC), and thalamic nuclei, such as reuniens (Re), form a reciprocally connected circuit that plays a critical role in processing hippocampus-dependent memory. Accumulating evidence suggests that this triangular modular circuit is crucial for performing cognitive tasks that require context-dependent memory, which belong to a class of behavioral tasks difficult for animals to learn. Experiments are gradually revealing what behavioral information these brai…
 
 </details>
 
 ---
 
-## [All-optical electrophysiology reveals behavior-dependent dynamics of excitation and inhibition in the hippocampus](https://www.cell.com/neuron/fulltext/S0896-6273(25)00996-1?rss=yes)
+## [The neuronal clock network in the polar key species Antarctic krill (Euphausia superba)](https://www.biorxiv.org/content/10.64898/2026.02.26.708226v1?rss=1)
+*bioRxiv*  
+Score: **0.50**  
+Published: 2026-03-01T00:00:00+00:00
+Tags: circadian, oscillations
+
+Focuses on circadian rhythms and neuronal mechanisms, which relate to oscillatory dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+Organisms are exposed to predictable daily and seasonal environmental oscillations. Biological clocks enable organisms to anticipate these changes and coordinate physiology and behaviour accordingly. While circadian mechanisms are well studied in terrestrial model organisms, little is known about the neuronal organisation of biological clocks in ecologically important species, especially in the marine environment. Antarctic krill (Euphausia superba) is central to the functioning of the Southern …
+
+</details>
+
+---
+
+## [Bayesian surprise tracks the strength of perceptual insight](https://www.biorxiv.org/content/10.64898/2026.02.26.708200v1?rss=1)
+*bioRxiv*  
+Score: **0.40**  
+Published: 2026-02-28T00:00:00+00:00
+Tags: Bayesian modeling, perception
+
+Explores Bayesian models of perception, relevant to computational modeling but lacks direct application to neural timescales.
+
+<details>
+<summary>RSS summary</summary>
+
+Suddenly finding the solution to a problem after a period of impasse often comes with a feeling of insight. This subjective experience is proposed to arise as a consequence of prediction errors. Accordingly, previous studies have revealed that more incorrect initial predictions result in more intense insights. Crucially however, prominent models of Bayesian inference suggest levels of computationally-defined surprise are not a simple feature of distance between predictions and inputs, but also t…
+
+</details>
+
+---
+
+## [Neuronal p38α knockout protects against neurological consequences following repetitive mild traumatic brain injury](https://www.biorxiv.org/content/10.64898/2026.02.26.708089v1?rss=1)
+*bioRxiv*  
+Score: **0.40**  
+Published: 2026-02-28T00:00:00+00:00
+Tags: neuroprotection, inflammation
+
+Focuses on inflammation and neural protection, relevant if signal processing or modeling is explored in methods.
+
+<details>
+<summary>RSS summary</summary>
+
+Mild traumatic brain injuries (mTBI) can substantially impact quality of life, and repetitive mTBIs (rmTBI) can amplify injury effects compared to a single injury. However, effective clinical treatments remain elusive, largely due to an incomplete understanding of the underlying injury mechanisms. Neuroinflammation has emerged as a key contributor to worse functional outcomes after mTBI/rmTBI. While microglia are traditionally viewed as primary mediators of post-injury inflammation, accumulating…
+
+</details>
+
+---
+
+## [Synthetic serum markers enable noninvasive monitoring of gene expression in primate brains](https://www.cell.com/neuron/fulltext/S0896-6273(26)00003-6?rss=yes)
 *Neuron*  
-Score: **0.80**  
-Published: 2026-02-20T00:00:00+00:00
-Tags: optogenetics, voltage imaging, hippocampus
+Score: **0.40**  
+Published: 2026-02-27T00:00:00+00:00
+Tags: methods, neural dynamics
 
-Combines voltage imaging and optogenetics focusing on hippocampal neurons, relevant for electrophysiological methods.
-
-<details>
-<summary>RSS summary</summary>
-
-Yang et al. combine voltage imaging and optogenetics to demonstrate that locomotion coordinates excitatory and inhibitory inputs across four major cell types in hippocampal CA1. This state-dependent rebalancing alters firing patterns, theta-band membrane dynamics, and neuronal gain, illustrating how behavioral state shapes circuit-level processing.
-
-</details>
-
----
-
-## [Inverted encoding of neural responses to audiovisual stimuli reveals super-additive multisensory enhancement](https://elifesciences.org/articles/97230)
-*eLife*  
-Score: **0.75**  
-Published: 2026-02-23T00:00:00+00:00
-Tags: methods, neuroscience, sensory
-
-The study of multisensory integration using neural encoding models is aligned with cross-modal signal processing and computational modeling in neuroscience.
+This paper introduces innovative techniques for monitoring neural activities noninvasively, matching interests in physiological signal processing.
 
 <details>
 <summary>RSS summary</summary>
 
-A central challenge for the brain is how to combine separate sources of information from different sensory modalities to optimally represent objects and events in the external world, such as combining someone’s speech and lip movements to better understand them in a noisy environment. At the level of individual neurons, audiovisual stimuli often elicit super-additive interactions, where the neural response is greater than the sum of auditory and visual responses. However, investigations using el…
-
-</details>
-
----
-
-## [A joint alpha power-phase dynamic shapes visual sensitivity](https://www.biorxiv.org/content/10.64898/2026.02.19.706926v1?rss=1)
-*bioRxiv*  
-Score: **0.75**  
-Published: 2026-02-20T00:00:00+00:00
-Tags: alpha oscillations, EEG, visual processing
-
-Links alpha-band oscillations to visual perception, relevant for spectral analysis interests.
-
-<details>
-<summary>RSS summary</summary>
-
-Perceptual experience is influenced by alpha-band oscillations (8-14 Hz) that dominate parietal and sensory cortices. However, there is uncertainty around the perceptual mechanisms that are affected by oscillatory power and phase. Previous work has linked power and phase to behaviour separately despite their theorised common effects via pulsed-inhibition, potentially misrepresenting or conflating their effects. Here we recorded brain activity using electroencephalography to investigate how alpha…
-
-</details>
-
----
-
-## [Conditioned Graph Reconstruction of Brain Functional Network Connectivity Reveals Interpretable Latent Axes of Sex and Fluid Intelligence](https://www.biorxiv.org/content/10.64898/2026.02.20.707025v1?rss=1)
-*bioRxiv*  
-Score: **0.70**  
-Published: 2026-02-20T00:00:00+00:00
-Tags: functional connectivity, modeling, brain networks
-
-Focus on brain network connectivity and modeling aligns with computational neuroscience interests.
-
-<details>
-<summary>RSS summary</summary>
-
-In studying the brains functional connectivity and its associations with clinically observed assessments, novel learning frameworks modeling its network properties in conjunction with assessment variables are crucial to uncover variable-specific patterns via meaningful encoding and reconstruction. We present a generative framework for modeling human brain functional connectivity features while retaining key network metrics and differences associated with demographic and cognitive variables. A co…
+Lee, Romac, et al. develop NHP-RMAs, synthetic serum markers for monitoring of transgene expression in nonhuman primates. These reporters cross the blood-brain barrier, providing a longitudinal, circuit-specific readout of gene expression via simple blood tests. Peak serum signals correlate strongly with AAV-induced mRNA and protein levels in the brain.
 
 </details>
 
