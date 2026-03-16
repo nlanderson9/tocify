@@ -1,194 +1,262 @@
-# Weekly ToC Digest (week of 2026-03-09)
+# Weekly ToC Digest (week of 2026-03-16)
 
-A total of 51 RSS items were reviewed. Highlighted papers focus on electrophysiological recording quality, songbird neural dynamics modeling, and network activity differences in social decision-making, aligning with the user's interests in neural and physiological data analysis methods. Selected based on methodological and computational neuroscience focus, specifically involving electrophysiology and signal processing approaches relevant to neural and physiological time series, which align with the user's interests. Prioritizing papers on neural/physiological time series analysis and oscillations. Papers were triaged based on relevance to methods for neural/physiological time series and interests in electrophysiology and computational neuroscience.
+Focus on cross-species electrophysiology, methods for neural time series, and oscillations/aperiodic dynamics. Prioritized papers emphasize neural time series analysis and signal processing methods, specifically those related to electrophysiology. Down-weighted purely clinical and unrelated biological studies. Items prioritized based on alignment with neural dynamics and signal processing methods. Focusing on neural dynamics and computational neuroscience, prioritizing electrophysiology and physiological signal processing.
 
-**Included:** 11 (score ≥ 0.35)  
-**Scored:** 11 total items
+**Included:** 15 (score ≥ 0.35)  
+**Scored:** 18 total items
 
 ---
 
-## [A flexible quality metric for electrophysiological recordings across brain regions and species](https://www.biorxiv.org/content/10.64898/2026.03.06.710130v1?rss=1)
+## [Opening the Black Box of Neural Computation from Neural Recordings with Gain-Modulated Linear Dynamical System](https://www.biorxiv.org/content/10.64898/2026.03.12.711252v1?rss=1)
 *bioRxiv*  
 Score: **0.90**  
-Published: 2026-03-09T00:00:00+00:00
-Tags: methods, electrophysiology
+Published: 2026-03-16T00:00:00+00:00
+Tags: methods, neural dynamics, computation
 
-Focus on quality metrics for electrophysiological recordings across species directly aligns with interests in cross-species electrophysiology and signal processing.
+This paper discusses neural computation models using dynamical systems, relevant for neural time series analysis and modeling neural dynamics.
 
 <details>
 <summary>RSS summary</summary>
 
-The increasing size of electrophysiological datasets has heightened the need for quality metrics that automatically reject neurons whose activity was recorded with low sensitivity or specificity. One key approach estimates artifactual contamination by assuming that each neuron has a refractory period (RP), a brief time interval following each action potential when further activity cannot occur. However, existing methods cannot be applied without prior knowledge of the neurons' RP durations, limi…
+Inferring computational mechanisms from neural recordings is a central goal in systems neuroscience. Recent developments have identified low-rank recurrent neural networks (RNNs) as an effective tool for fitting observed neural activity and extracting neural dynamics. However, we show that accurate activity fitting alone does not guarantee mechanistic validity: even well-fitted low-rank RNNs can yield misleading circuit interpretations in the absence of ground-truth model settings on synthetic d…
 
 </details>
 
 ---
 
-## [Distinct beta burst motifs exhibit opposing error relationships during motor adaptation](https://www.biorxiv.org/content/10.64898/2026.03.06.710026v1?rss=1)
-*bioRxiv*  
+## [Teaching multimodal LLMs to comprehend 12-lead electrocardiographic images](https://www.nature.com/articles/s41746-026-02551-3)
+*npj Digital Med*  
 Score: **0.90**  
-Published: 2026-03-06T00:00:00+00:00
-Tags: oscillations, MEG, beta-band
+Published: 2026-03-16T00:00:00+00:00
+Tags: ECG, signal processing, methods
 
-The study focuses on beta-band oscillations during motor adaptation using MEG, involving oscillations, and waveform variability.
+Focus on advanced methods in signal processing for ECG, aligning with interest in physiological signal processing.
 
 <details>
 <summary>RSS summary</summary>
 
-Beta-band activity (13-30 Hz) is a hallmark of human movement, yet a unifying account of its functional role remains unresolved. Although typically described as a sustained oscillation, beta activity is increasingly recognised to consist of transient bursts. More recently, beta bursts have been shown to exhibit heterogeneous waveforms. Here, we ask whether variability in burst shape corresponds to separable computational roles during motor adaptation. Using high-precision MEG, we recorded neural…
+<p>npj Digital Medicine, Published online: 16 March 2026; <a href="https://www.nature.com/articles/s41746-026-02551-3">doi:10.1038/s41746-026-02551-3</a></p>Teaching multimodal LLMs to comprehend 12-lead electrocardiographic images
 
 </details>
 
 ---
 
-## [Rebound Relays and Inhibitory Vetoes Stabilize Sparse Sequential Activity in HVC](https://www.biorxiv.org/content/10.64898/2026.03.07.710036v1?rss=1)
-*bioRxiv*  
-Score: **0.85**  
-Published: 2026-03-09T00:00:00+00:00
-Tags: modeling, neural dynamics
-
-Involves computational modeling of neural circuits in songbirds, relevant to neural dynamics and timescale analysis.
-
-<details>
-<summary>RSS summary</summary>
-
-Brains build behavior by chaining actions and perceptions into precisely timed sequences, an ability central to speech, skilled movement, and memory, yet the circuit logic that propagates sequences remains unclear. Songbird HVC captures this problem: premotor HVCRA neurons burst once per motif, while basal ganglia-projecting HVCX neurons burst 2-4 times across the same motif. We developed a biophysically grounded HVC network as linked microcircuits encoding sub-syllabic segments. The model highl…
-
-</details>
-
----
-
-## [Mouse strain and network-level activity differences underlie social decision-making](https://www.biorxiv.org/content/10.64898/2026.03.06.710206v1?rss=1)
-*bioRxiv*  
-Score: **0.75**  
-Published: 2026-03-09T00:00:00+00:00
-Tags: neural networks, decision-making
-
-Involves network-level activity analysis and decision-making circuits, intersecting with interests in cross-species neural dynamics.
-
-<details>
-<summary>RSS summary</summary>
-
-Adaptive social behavior requires balancing self-interest with the welfare of others, a core axiom of social decision-making that determines whether actions are selfish or prosocial. Although the medial prefrontal cortex (mPFC) has been implicated in prosocial behavior, the broader cortical-subcortical networks that arbitrate between selfish and prosocial actions remain poorly understood. Moreover, most studies of social decision-making (at both the single-region and circuit levels) have focused…
-
-</details>
-
----
-
-## [From Head to Toe: Efficient Somatosensory Mapping with Fast Stimulation and Multivariate Pattern Analysis](https://www.biorxiv.org/content/10.64898/2026.03.05.709759v1?rss=1)
-*bioRxiv*  
-Score: **0.75**  
-Published: 2026-03-07T00:00:00+00:00
+## [A human EEG dataset to study cognitive flexibility during auditory discrimination under real-world distractors](https://www.nature.com/articles/s41597-026-07041-5)
+*Scientific Data*  
+Score: **0.90**  
+Published: 2026-03-14T00:00:00+00:00
 Tags: EEG, methods, signal processing
 
-This paper discusses the use of EEG and multivariate pattern analysis for somatosensory evoked potentials, focusing on neural signal processing and data science methods.
+The dataset involves human EEG data, relevant for neural time series analysis in real-world conditions, which aligns with interests in electrophysiology and data science applications.
 
 <details>
 <summary>RSS summary</summary>
 
-Background: Somatosensory evoked potentials (SEPs) measured with electroencephalography (EEG) are widely used to study cortical responses to touch but most research has limited the focus on few body parts, typically a finger, and applied time-consuming testing protocols. Multivariate pattern analysis (MVPA) provides a complementary approach that may increase sensitivity and allow faster stimulation, yet its relationship to classical SEP analysis in somatosensory research remains largely unexplor…
+<p>Scientific Data, Published online: 14 March 2026; <a href="https://www.nature.com/articles/s41597-026-07041-5">doi:10.1038/s41597-026-07041-5</a></p>A human EEG dataset to study cognitive flexibility during auditory discrimination under real-world distractors
 
 </details>
 
 ---
 
-## [Linking neural manifolds to circuit structure in recurrent networks](https://www.cell.com/neuron/fulltext/S0896-6273(25)01003-7?rss=yes)
-*Neuron*  
+## [Capturing Spatially Organized Oscillatory Cliques as Signatures of Neuronal Assemblies](https://www.biorxiv.org/content/10.64898/2026.03.14.711812v1?rss=1)
+*bioRxiv*  
+Score: **0.85**  
+Published: 2026-03-16T00:00:00+00:00
+Tags: oscillations, LFP, neural dynamics
+
+Focuses on oscillatory neural dynamics using local field potentials, which is highly related to oscillations and physiological signal processing.
+
+<details>
+<summary>RSS summary</summary>
+
+State-of-the-art neural recording technologies now enable dense sampling of neuronal activity, demonstrating meaningful spiking variability from moment to moment. Yet spiking activity is sparse by nature and allows only partial access to collective neuronal dynamics. Local field potentials (LFPs) provide complementary information by capturing coordinated activity from large neuronal populations, but methods to characterize the fine-scale spatio-temporal organization of LFPs are lacking. Starting…
+
+</details>
+
+---
+
+## [Coronary artery disease diagnosis with signal processing and machine learning of heart sound signals: a systematic review](https://www.nature.com/articles/s41746-026-02530-8)
+*npj Digital Med*  
+Score: **0.85**  
+Published: 2026-03-16T00:00:00+00:00
+Tags: signal processing, machine learning, ECG
+
+Includes signal processing and machine learning aspects relevant to physiological data.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>npj Digital Medicine, Published online: 16 March 2026; <a href="https://www.nature.com/articles/s41746-026-02530-8">doi:10.1038/s41746-026-02530-8</a></p>Coronary artery disease diagnosis with signal processing and machine learning of heart sound signals: a systematic review
+
+</details>
+
+---
+
+## [Spatially targeted inhibitory rhythms differentially affect neuronal integration](https://elifesciences.org/articles/95562)
+*eLife*  
+Score: **0.85**  
+Published: 2026-03-13T00:00:00+00:00
+Tags: oscillations, neural integration, rhythms
+
+Study explores how different rhythmic inhibitory patterns affect neuronal integration, directly relevant to oscillations and aperiodic dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+Pyramidal neurons form dense recurrently connected networks with multiple types of inhibitory interneurons. A major differentiator between interneuron subtypes is whether they synapse onto perisomatic or dendritic regions. They can also engender local inhibitory rhythms, beta (12–35 Hz) and gamma (40–80 Hz). The interaction between the rhythmicity of inhibition and its spatial targeting on the neuron may determine how it regulates neuronal integration. Thus, we sought to understand how rhythmic …
+
+</details>
+
+---
+
+## [Telehealth Infrastructure for Cancer Care in the United States](https://www.nature.com/articles/s41597-026-07063-z)
+*Scientific Data*  
+Score: **0.80**  
+Published: 2026-03-16T00:00:00+00:00
+Tags: computational, data infrastructure
+
+Mentions data infrastructure which could imply computational aspects, although not directly related to neural dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Scientific Data, Published online: 16 March 2026; <a href="https://www.nature.com/articles/s41597-026-07063-z">doi:10.1038/s41597-026-07063-z</a></p>Telehealth Infrastructure for Cancer Care in the United States
+
+</details>
+
+---
+
+## [Online supervised learning of temporal patterns in biological neural networks under feedback control](https://www.pnas.org/doi/abs/10.1073/pnas.2521560123?af=R)
+*PNAS*  
+Score: **0.80**  
+Published: 2026-03-12T07:00:00+00:00
+Tags: neural networks, learning, dynamics
+
+Explores neural network dynamics and learning, which aligns well with interests in neuronal timescales and computational neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+Proceedings of the National Academy of Sciences, Volume 123, Issue 11, March 2026. <br />SignificanceReservoir computing is a machine learning paradigm that exploits the transient dynamics of high-dimensional nonlinear systems. Although it was originally inspired by the mammalian brain and widely explored in physical systems, its ...
+
+</details>
+
+---
+
+## [Circuit response to neuromodulation characterized with simultaneous deep brain stimulation and precision neuroimaging in humans](https://www.nature.com/articles/s41593-026-02228-w)
+*Nature Neuroscience*  
 Score: **0.75**  
-Published: 2026-03-06T00:00:00+00:00
-Tags: neural circuitry, neural manifolds, theory
+Published: 2026-03-13T00:00:00+00:00
+Tags: neuromodulation, neuroimaging, DBS
 
-The paper uses theoretical approaches to relate neural manifolds to circuit structure, aligning with computational neuroscience interests.
+This paper uses multimodal data combining neuroimaging and neuromodulation, which may include neural dynamic data, useful for computational modeling of physiological time series.
 
 <details>
 <summary>RSS summary</summary>
 
-Neural population activity can be described either by low-dimensional dynamics on neural manifolds or by single-neuron selectivities. Using a theoretical approach, Pezon et al. relate these two statistical descriptions to circuit structure in recurrent networks. Their results reveal both degeneracies and specific constraints in how circuit structure shapes neural activity.
+<p>Nature Neuroscience, Published online: 13 March 2026; <a href="https://www.nature.com/articles/s41593-026-02228-w">doi:10.1038/s41593-026-02228-w</a></p>Using a 3-T MRI-compatible deep brain stimulation (DBS) system, Ren at al. densely sampled longitudinal, multimodal neuroimaging data from patients with Parkinson’s disease across multiple stimulation conditions spanning a year, mapping circuit-specific DBS-induced responses.
 
 </details>
 
 ---
 
-## [A Novel Rapidly Manufacturable Flexible Subdural Electrode Array for Intraoperative Mapping of Cortical Activity](https://www.biorxiv.org/content/10.64898/2026.03.05.709791v1?rss=1)
+## [Reconstitution of the Spinal Cord Injury Microenvironment in Adult Neural Stem Cell-Derived Organoids](https://www.biorxiv.org/content/10.64898/2026.03.14.711818v1?rss=1)
 *bioRxiv*  
 Score: **0.70**  
-Published: 2026-03-07T00:00:00+00:00
-Tags: electrophysiology, methods
+Published: 2026-03-16T00:00:00+00:00
+Tags: neural dynamics, neural stem cells, organoids
 
-Focuses on the development of flexible subdural electrodes for cortical activity mapping, relevant for advancing electrophysiological methods.
+Dissects niche components post-injury, relevant for cross-species electrophysiology and neural network modeling.
 
 <details>
 <summary>RSS summary</summary>
 
-Flexible and biocompatible neurointerfaces are crucial elements for intraoperative monitoring and chronic neural recordings. However, existing fabrication methods often involve complex cleanroom processes, limiting rapid prototyping and customization. In this study, we present a fast, low-cost method for manufacturing a flexible subdural electrode array based on polydimethylsiloxane (PDMS) and gold conductive layer. The fabrication process utilizes a laser cutter for both mask generation and dir…
+Following spinal cord injury, endogenous neural stem cells (NSCs) derived from ependymal cells become activated but fail to functionally regenerate the tissue, largely because the injury microenvironment constrains their differentiation toward glial fates. Dissecting how specific niche components drive these outcomes has remained challenging in vivo, and current neural organoid models predominantly recapitulate embryonic neurodevelopment rather than the adult injury context. Here we describe neu…
 
 </details>
 
 ---
 
-## [Regional specialization in prefrontal cortex manifests in the reliability of task progression codes](https://www.cell.com/neuron/fulltext/S0896-6273(26)00048-6?rss=yes)
-*Neuron*  
+## [Thalamic reticular neurons provide cell type-specific modulation of sound processing in the auditory thalamus](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003693)
+*PLOS Biol*  
 Score: **0.70**  
-Published: 2026-03-06T00:00:00+00:00
-Tags: neural representation, task phases
+Published: 2026-03-12T14:00:00+00:00
+Tags: auditory processing, neuronal circuits, inhibition
 
-It discusses neural representation in task phases, relevant to neural timescales and data representation.
+Research focuses on neural circuitry modulation, important for understanding cross-species electrophysiology and auditory processing networks.
 
 <details>
 <summary>RSS summary</summary>
 
-Guidera et al. found that single units in rat dmPFC and OFC code reliably for progression through a spatial alternation task at action- (dmPFC) or outcome- (OFC) related task phases, consistent with the known functional specializations of these areas. Reliable representations of progression are well suited to support task-phase-specific computations.
+<p>by Solymar Rolón-Martínez, Austin J. Mendoza, Christopher F. Angeloni, Nathan W. Vogler, Audrey C. Drotos, Mark Aizenberg, Ruoyi Chen, Kaylie Vu, Julie S. Haas, Maria N. Geffen</p> Inhibition plays an important role in controlling the flow and processing of auditory information throughout the central auditory pathway, yet how inhibitory circuits shape auditory processing in the medial geniculate body (MGB), the key region in the auditory thalamus, is poorly understood. The MGB gates the flow …
 
 </details>
 
 ---
 
-## [Modulatory effects of ketamine on EEG source-based resting state connectivity in treatment resistant depression](https://www.nature.com/articles/s41398-026-03928-4)
-*Trans Psychiatry*  
-Score: **0.70**  
-Published: 2026-03-06T00:00:00+00:00
-Tags: EEG, connectivity, neural dynamics
-
-This paper involves EEG connectivity analysis, aligning with interests in physiological signal processing and neural dynamics.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Translational Psychiatry, Published online: 06 March 2026; <a href="https://www.nature.com/articles/s41398-026-03928-4">doi:10.1038/s41398-026-03928-4</a></p>Modulatory effects of ketamine on EEG source-based resting state connectivity in treatment resistant depression
-
-</details>
-
----
-
-## [Modeling Multi-Modal Brain Connectomes for Brain Disorder Diagnosis via Graph Diffusion Optimal Transport Network](https://www.biorxiv.org/content/10.64898/2026.03.05.709693v1?rss=1)
+## [Rewiring of the three-dimensional genome encodes regenerative potential in the adult central nervous system](https://www.biorxiv.org/content/10.64898/2026.03.12.711224v1?rss=1)
 *bioRxiv*  
 Score: **0.65**  
-Published: 2026-03-07T00:00:00+00:00
-Tags: connectome, data science, neuroscience
+Published: 2026-03-16T00:00:00+00:00
+Tags: neural regeneration, genome dynamics
 
-Discusses computational modeling of brain connectivity, focusing on multi-modal data integration and network analysis, aligned with computational neuroscience interests.
+Genome organization and neural regeneration are indirectly linked to brain dynamics, though not directly on neural time series itself.
 
 <details>
 <summary>RSS summary</summary>
 
-Network analysis of human brain connectivity provides a fundamental framework for identifying the neurobiological mechanisms that cause cognitive variations and neurological disorders. However, existing diagnostic models often treat structural connectivity (SC) as a fixed or optimal topological scaffold for functional connectivity (FC). This consequently overlooks the higher-order dependencies between brain regions that are critical for characterizing pathological alterations. Moreover, the dist…
+The failure of adult central nervous system neurons to regenerate after injury has been attributed to transcriptional and epigenetic barriers, but whether three-dimensional genome organization constitutes an independent regulatory layer encoding regenerative potential remains unknown. Here we present the first genome-wide map of chromatin compartments, topologically associating domains, and loops across postnatal development, adult homeostasis, and spinal cord injury in the mouse motor cortex. P…
 
 </details>
 
 ---
 
-## [Disruption of a selective vesicle pool upon retrograde amnesia dissociates memory at presynaptic terminals](https://www.pnas.org/doi/abs/10.1073/pnas.2514875123?af=R)
-*PNAS*  
-Score: **0.50**  
-Published: 2026-03-05T08:00:00+00:00
-Tags: memory, neuronal timescales
+## [Rescuing functional defects in a zebrafish model of CDKL5 deficiency disorder: Contribution to the identification of new therapeutic compounds](https://www.biorxiv.org/content/10.64898/2026.03.12.711124v1?rss=1)
+*bioRxiv*  
+Score: **0.60**  
+Published: 2026-03-16T00:00:00+00:00
+Tags: neurodevelopment, cross-species
 
-Focuses on memory mechanisms at the presynaptic level, contributing to understanding neuronal timescales.
+Cross-species model focusing on neurological disorders, tangentially related to cross-species electrophysiology.
 
 <details>
 <summary>RSS summary</summary>
 
-Proceedings of the National Academy of Sciences, Volume 123, Issue 10, March 2026. <br />SignificanceWhat determines memory stability? We show that distinct presynaptic vesicle populations underlie the labile and consolidated memories, which are simultaneously formed following odor-shock associative learning in fruit flies. These distinct ...
+Mutations in the CDKL5 gene cause CDKL5 deficiency disorder (CDD), a severe neurodevelopmental encephalopathy characterized by a broad range of symptoms, including early-onset seizures, profound motor impairment and dysmorphic facial features. Current treatment options remain limited and largely focus on seizure management, which is often challenging to control, underscoring the critical need for new effective therapies. To identify potential novel candidate molecules for the treatment of CDD, w…
+
+</details>
+
+---
+
+## [Electroencephalographic Biomarkers of Relaxation: A Systematic Review and Meta-analysis](http://ieeexplore.ieee.org/document/11433577)
+*J Cogn Neurosci*  
+Score: **0.50**  
+Published: 2026-03-12T13:16:37+00:00
+Tags: EEG, oscillations, biomarkers
+
+Discusses EEG oscillations which relate to interests in spectral parameterization.
+
+<details>
+<summary>RSS summary</summary>
+
+Alpha oscillations (8–13 Hz), which are prominent in human EEG, have long been considered a neural marker of relaxation. However, the extent to which different frequency bands and electrode positions of the EEG reflect relaxation remains unclear. This systematic review and meta-analysis assessed the associations between EEG components and concurrently measured the reference indices of relaxation in healthy adults. A comprehensive database search and screening employing preset criteria identified…
+
+</details>
+
+---
+
+## [Neural and Behavioral Dynamics of Predictive Speech Planning](http://ieeexplore.ieee.org/document/11433575)
+*J Cogn Neurosci*  
+Score: **0.40**  
+Published: 2026-03-12T13:16:37+00:00
+Tags: EEG, dynamics, speech
+
+Includes EEG data, relevant to neural dynamics and predictions.
+
+<details>
+<summary>RSS summary</summary>
+
+Timing and prediction are fundamental components of conversational dynamics, particularly in the estimation of turn-taking. While neural markers of predictive processing have been proposed in comprehension, their counterparts in speech production remain less well understood. In this study, we investigated these mechanisms using a combined EEG and behavioral approach with an oral sentence completion task. Participants viewed images that prompted them to produce a word completing a subsequently he…
 
 </details>
 
