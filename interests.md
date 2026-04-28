@@ -2,99 +2,78 @@
 # ingest ToCs and push links to papers relevant to me
 
 # interests seed
-<!-- 
-## scoring block
-Scoring calibration:
-Score ≥ 0.80 ONLY if the item clearly involves electrophysiology or physiological time series
-  (EEG/MEG/LFP/iEEG/ECoG/neuronal spiking) OR aperiodic/1/f, oscillations, waveform shape,
-  spectral parameterization, or neuronal timescales — OR introduces a general time-series/signal
-  processing method that would transfer to those data.
-
-If it is primarily about drugs/behavior/psychiatric symptoms without neural/physio time-series analysis,
-  cap score at 0.40.
-
-If it is primarily microbiology/immunology/metabolism/genetics without neural dynamics methods,
-  cap score at 0.25. -->
 
 ## keywords
-EEG
-electroencephalography
-MEG
-magnetooencephalography
-LFP
-local field potential
-iEEG
-ECoG
-electrocorticography
-neural oscillations
-aperiodic activity
-neural timescales
-ECG
-electrocorticography
-working memory
-attention
-cognitive control
-respiration waveform
-specparam
-spectral parameterization
-fooof
-bycycle
-neural data science
-computational neuroscience
-neural computation
-aging and cognition
+mental imagery
+visual imagery
+imagery
+perception
+visualization
+aphantasia
+anendophasia
+introspection
+imagery and perception
+functional connectivity
+intrinsic functional connectivity
+resting-state functional connectivity
+network neuroscience
+brain networks
+precision imaging
+precision functional mapping
+individual-level neuroimaging
+individual differences
+individual variability
+within-subject
+individual-specific
+MRI
+fMRI
+high-resolution fMRI
+task fMRI
+resting-state fMRI
+naturalistic cognition
+episodic memory
+autobiographical memory
+memory retrieval
+memory encoding
+retrieval success
+memory-guided cognition
+parietal memory network
+salience network
+default mode network
+transmodal association cortex
+association networks
+hippocampus
+medial temporal lobe
+parietal cortex
+mind-wandering
+representational similarity analysis
+multivoxel pattern analysis
+decoding
+subsequent memory
+memory development
+aging and memory
+cognitive neuroscience
+neuroimaging methods
 
 ## narrative
-My research focuses on large-scale neural and physiological dynamics using computational and data-science approaches across species and recording modalities. I work extensively with heterogeneous datasets (EEG, LFP, iEEG, behavioral and physiological signals), emphasizing open science, reproducible methods, and scalable analysis tools for neural time series.
+My research focuses primarily on mental imagery, functional connectivity, and precision imaging. I am especially interested in how internally generated representations are supported by large-scale brain networks, how imagery and perception overlap or diverge in association cortex, and how individual-specific functional organization can be measured using precision neuroimaging approaches.
 
-A central theme of my work is developing and applying methods to better characterize neural oscillations and aperiodic (1/f-like) activity. My lab pioneered approaches to analyzing oscillatory waveform shape and spectral parameterization, demonstrating that nonsinusoidal features and aperiodic structure provide insight into synaptic physiology, excitation–inhibition balance, cognitive function, and development. We develop and release open-source Python tools for neural signal processing and apply them to large longitudinal and cross-species datasets to link brain dynamics with cognition, behavior, and disease.
+A major theme of my work is understanding brain organization at the level of the individual. I prioritize studies using MRI and fMRI that investigate precision functional mapping, intrinsic or resting-state functional connectivity, task-based network organization, and individual variability in cognitive and neural architecture. I am especially interested in papers that clarify how distributed networks are organized within individuals and how this organization supports cognition.
 
-I study how neural oscillations, aperiodic activity, and neuronal timescales support computation and information transfer in brain networks. Using invasive and noninvasive electrophysiology, computational modeling, and large-scale data integration, my work shows how these features relate to working memory, attention, development, and aging. I am particularly interested in theoretical and methodological advances that improve interpretation of neural and physiological time series, enable biomarker discovery, and connect brain dynamics to cognition and clinical outcomes.
+Memory research is also highly relevant to my interests, especially episodic memory, retrieval, and memory-guided cognition. I am particularly drawn to work on the parietal memory network, hippocampal-cortical interactions, autobiographical memory, and the relationship between internal representations and behavior. Research on memory is most relevant when it connects to mental imagery, functional connectivity, network organization, or precision neuroimaging.
 
-I prioritize research that introduces new analytic methods, theoretical frameworks, or empirical findings relevant to neural dynamics, physiological signal analysis, and cross-scale brain–behavior relationships. I am generally not interested in fMRI/BOLD unless it directly connects to electrophysiological dynamics or time-series methods, or novel AI / LLM / machine learning.
+I also value work on transmodal association networks, mind-wandering, introspection, and related domains when it is grounded in cognitive neuroscience and neuroimaging. Methodological papers are especially relevant when they improve measurement of individual differences, network structure, representational content, or connectivity in human neuroimaging.
 
-Some of my paper titles include:
-* Automated cognome construction and semi-automated hypothesis generation
-* Oscillatory dynamics coordinating human frontal networks in support of goal maintenance
-* Age-related changes in 1/f neural electrophysiological noise
-* Alpha phase dynamics predict age-related visual working memory decline
-* Nonsinusoidal beta oscillations reflect cortical pathophysiology in Parkinson's disease
-* Inferring synaptic excitation/inhibition balance from field potentials
-* Setd5 haploinsufficiency alters neuronal network connectivity and leads to autistic-like behaviors in mice
-* Characteristics of waveform shape in Parkinson’s disease detected with scalp electroencephalography
-* Field potential 1/f activity in the subcallosal cingulate region as a candidate signal for monitoring deep brain stimulation for treatment resistant depression
-* Cycle-by-cycle analysis of neural oscillations
-* Complex Oscillatory Waves Emerging from Cortical Organoids Model Early Human Brain Network Development
-* EEG Power Spectral Slope differs by ADHD status and stimulant medication exposure in early childhood
-* Memantine effects on EEG measures of putative excitatory/inhibitory balance in schizophrenia
-* NitroSynapsin ameliorates hypersynchronous neural network activity in Alzheimer hiPSC models
-* Linked sources of neural noise contribute to age-related cognitive decline
-* Homeostatic mechanisms may shape the type and duration of oscillatory modulation
-* Electrophysiological frequency band ratio measures conflate periodic and aperiodic neural activity
-* Parameterizing neural power spectra into periodic and aperiodic components
-* Neuronal timescales are functionally dynamic and shaped by cortical microarchitecture
-* Longitudinal changes in aperiodic and periodic activity in electrophysiological recordings in the first seven months of life
-* Enhancing oscillations in intracranial electrophysiological recordings with data-driven spatial filters
-* Modality-specific tracking of attention and sensory statistics in the human electrophysiological spectral exponent
-* Automated meta-analysis of the event-related potential (ERP) literature
-* Spectral parameterization for studying neurodevelopment: How and why. Dev Cogn Neurosci (2022).
-* Aperiodic neural activity is a better predictor of schizophrenia than neural oscillations
-* Neurophysiological signatures of cortical micro-architecture
-* Clinical EEG slowing induced by electroconvulsive therapy is better described by increased frontal aperiodic activity
-* Magnetic seizure therapy and electroconvulsive therapy increase aperiodic activity
-* Development of neuronal timescales in human cortical organoids and rat hippocampus dissociated cultures
-* Changes in electrophysiological aperiodic activity during cognitive control in Parkinson’s disease
-* Resting-state alpha and mu rhythms change shape across development but lack diagnostic sensitivity for ADHD and autism
-* Time-resolved aperiodic and oscillatory dynamics during human visual memory encoding
-* Differential representations of spatial location by aperiodic and alpha oscillatory activity in working memory
-* Functional connectivity is dominated by aperiodic, rather than oscillatory, coupling
-* Cannabidiol blood metabolite levels after cannabidiol treatment are associated with broadband EEG changes and improvements in visuomotor and non-verbal cognitive abilities in boys with autism requiring higher levels of support
-* Dissociating contributions of theta and alpha oscillations from aperiodic neural activity in human visual working memory
-* Pharmacological manipulation of nested oscillations in human iPSC-derived 2D neuronal networks
-* Dynamic network communication as a unifying neural basis for cognition, development, aging, and disease
-* Brain oscillations and the importance of waveform shape
-* The logic of developing neocortical circuits in health and disease
-* Methodological considerations for studying neural oscillations
-* From mechanisms to markers: novel non-invasive EEG proxy markers of the neural excitation and inhibition system in humans
-* The data science future of neuroscience theory
-* Processes and Measurements: a Framework for Understanding Neural Oscillations in Field Potentials
+I am generally less interested in work that is primarily molecular, pharmacological, or clinical without a clear connection to cognitive neuroscience, functional brain organization, mental imagery, memory, or neuroimaging methodology.
+
+## example paper titles
+* Situating the salience and parietal memory networks in the context of multiple parallel distributed networks using precision functional mapping
+* Individual variability in neural representations of mind-wandering
+* The human social cognitive network contains multiple regions within the amygdala
+* Talk this way: The effect of prosodically conveyed semantic information on memory for novel words.
+* Intrinsic functional connectivity delineates transmodal language functions
+* Targeting intracranial electrical stimulation to network regions defined within individuals causes network-level effects
+* Progressive verbal apraxia of reading
+* Mental imagery and perception overlap within transmodal association networks
+* The Use of Introspective Reports to Predict Subsequent Memory: Implementing Machine Learning for Judgment-of-Learning Paradigms
+* The Impact of Delay on Retrieval Success in the Parietal Memory Network
