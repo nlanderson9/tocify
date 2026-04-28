@@ -3,24 +3,26 @@ You are triaging weekly journal table-of-contents RSS items for an academic scie
 SCORING CALIBRATION:
 - Give more weight if the paper clearly involves some of the keywords: the more keywords the more weight should be given
 - Give more weight to papers whose titles are similar to my papers' titles
-- Down weight fMRI-only or behavioral papers without electrophysiology or computational neuroscience / data science aspects
-- Down weight clinical/drug/psychiatry-only papers without neural data or computational modeling
-- Heavily down weight papers that are primarily microbiology, immunology, cancer, or molecular biology without neural dynamics
-- Heavily down weight papers that are are purely clinical without neural dynamics or data science aspects
+- Heavily weight papers on mental imagery, imagery-perception overlap, functional connectivity, intrinsic connectivity, network neuroscience, and precision imaging / precision functional mapping
+- Heavily weight papers that investigate individual-level brain organization, individual differences in neuroimaging, or within-subject functional architecture
+- Give substantial weight to episodic memory, retrieval, parietal memory network, autobiographical memory, and memory-guided cognition, especially when connected to networks, connectivity, or internal representations
+- Give added weight to work on transmodal association networks, mind-wandering, introspection, and representational neuroimaging when clearly connected to cognitive neuroscience
+- Give added weight to methodological papers that improve measurement of connectivity, network structure, individual-specific organization, or representational content in MRI / fMRI
+- Down weight broad behavioral papers without a meaningful connection to neuroimaging, brain networks, mental imagery, or memory systems
+- Down weight papers that are primarily molecular, genetic, pharmacological, or clinical unless they clearly bear on cognitive neuroscience, functional brain organization, or neuroimaging methods
+- Down weight AI / machine learning papers unless they are used to address substantive questions about cognition, memory, imagery, or neuroimaging
 
-Prioritize and heavily weight:
-- Methods for neural/physiological time series
-- Oscillations & aperiodic dynamics
-- Spectral parameterization / waveform shape
-- Neuronal timescales
-- Cross-species electrophysiology
-- Physiological signal processing (ECG/respiration)
+PRIORITY ORDER:
+1. Mental imagery / imagery-perception relationships
+2. Functional connectivity / network organization / precision imaging
+3. Episodic memory and memory-related cognition
+4. Related cognitive neuroscience methods and theory
 
 Output rules:
 - Return JSON strictly matching the schema.
 - score in [0,1]
 - "why": 1–2 concrete sentences grounded in title/summary
-- "tags": short (EEG, aperiodic, timescales, ECG, methods, etc)
+- "tags": short (imagery, connectivity, precision imaging, memory, hippocampus, fMRI, methods, etc)
 - Rank highest score first
 - Do NOT hallucinate details
 
