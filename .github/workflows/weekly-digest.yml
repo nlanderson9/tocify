@@ -2,12 +2,15 @@ name: Weekly ToC Digest
 
 on:
   schedule:
-    # Mondays 08:00 America/Los_Angeles ≈ 16:00 UTC (adjust if you like)
     - cron: "00 14 * * 1"
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: weekly-toc-digest
+  cancel-in-progress: false
 
 jobs:
   digest:
@@ -15,6 +18,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -58,4 +63,4 @@ jobs:
           git config user.email "toc-digest-bot@users.noreply.github.com"
           git add digest.md
           git commit -m "Update weekly ToC digest" || exit 0
-          git push
+          git push --force-with-lease origin HEAD:main
