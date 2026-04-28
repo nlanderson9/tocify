@@ -1,177 +1,313 @@
-# Weekly ToC Digest (week of 2026-04-27)
+# Weekly ToC Digest (week of 2026-04-28)
 
-Papers were evaluated based on their relevance to neural time series, oscillations, signal processing, etc. Most items from clinical/psychiatric areas and unrelated biological fields were heavily downweighted. Prioritized methods and technologies related to neural and physiological data processing, with an emphasis on electrophysiology and computational approaches. Prioritized items based on relevance to neural dynamics and computational neuroscience. This week's feed contains several articles not aligned with your interests in neural/physiological time series analysis and related computational methods. None of the items involve oscillations, spectral parameterization, or electrophysiology directly, resulting in uniformly low scores.
+This week's items were triaged based on specific relevance to neural dynamics and computational aspects as per the user's focus. Most clinical and purely microbiological items were down-weighted. The provided items were triaged based on their relevance to neural dynamics, physiological signal processing, and computational neuroscience. Most items were found to be irrelevant based on user interests, primarily falling into clinical or microbiological categories without neural dynamics. Focused on relevance to neural dynamics, electrophysiology, and computational neuroscience aspects found in the recent submissions. Papers that primarily address clinical or microbiological topics without addressing neural dynamics were heavily down-weighted. The selected items focus on neural dynamics, electrophysiology, and signal processing, aligning closely with methodological interests in neuroscience, particularly in time series analysis and oscillatory dynamics.
 
-**Included:** 10 (score ≥ 0.35)  
-**Scored:** 18 total items
-
----
-
-## [A cortico-subthalamic circuit rapidly engages and releases inhibition of specific movements depending on the environmental context](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003635)
-*PLOS Biol*  
-Score: **0.85**  
-Published: 2026-04-24T14:00:00+00:00
-Tags: neural circuits, electrophysiology, basal ganglia
-
-Focus on intracranial recordings and basal ganglia circuitry engaging response inhibition aligns with interest in electrophysiology and neural pathways.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>by Cheol Soh, Mario Hervault, Nathan H. Chalkley, Kien Huynh, Qiang Zhang, Ergun Y. Uc, Jeremy D. W. Greenlee, Jan R. Wessel</p> Response inhibition is an important cognitive control mechanism that enables flexible behavior by stopping inappropriate actions. Intracranial recordings across species have identified a neural circuit that implements response inhibition via the subthalamic nucleus of the basal ganglia. However, this work has been limited to simple tasks, in which unequivocal, salie…
-
-</details>
+**Included:** 18 (score ≥ 0.35)  
+**Scored:** 28 total items
 
 ---
 
-## [Brain motion is driven by mechanical coupling with the abdomen](https://www.nature.com/articles/s41593-026-02279-z)
-*Nature Neuroscience*  
-Score: **0.80**  
+## [The Rhythm of Normality: A Comprehensive Normative Database for TMS-EEG Metrics with Reliability Characterization](https://www.biorxiv.org/content/10.64898/2026.04.23.720403v1?rss=1)
+*bioRxiv*  
+Score: **1.00**  
 Published: 2026-04-27T00:00:00+00:00
-Tags: physiological, imaging
+Tags: TMS-EEG, neural dynamics, methods
 
-Involves physiological processes relevant to neural dynamics and employs imaging methods that can relate to signal processing.
+This study focuses on TMS-EEG metrics, is highly relevant to neural dynamics, and offers a normative database for analyzing cortical excitability and connectivity.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 27 April 2026; <a href="https://www.nature.com/articles/s41593-026-02279-z">doi:10.1038/s41593-026-02279-z</a></p>Using two-photon imaging in mice, Garborg et al. show that brain movement within the skull is driven by abdominal muscle contractions through mechanical coupling with the abdomen. Simulations suggest that this brain motion could contribute to cerebrospinal fluid circulation.
+Background: Transcranial Magnetic Stimulation combined with electroencephalography (TMS-EEG) offers unique insights into cortical excitability and connectivity, yet current analyses are primarily limited to group-level inferences with little validation of individual reliability and feature redundancy. Objective: To construct a comprehensive, open-access, and reliable normative dataset of TMS-EEG features that enables individual-level comparison. Methods: We aggregated TMS-EEG data recorded over …
 
 </details>
 
 ---
 
-## [Comparative Mapping of Functional and Structural Homologies in the Pig and Human Brain](https://www.biorxiv.org/content/10.64898/2026.04.22.720235v1?rss=1)
+## [Vesicular acidification modulates the synaptic current: a hybrid diffusion reaction model analysis](https://www.biorxiv.org/content/10.64898/2026.04.23.720425v1?rss=1)
+*bioRxiv*  
+Score: **0.90**  
+Published: 2026-04-28T00:00:00+00:00
+Tags: neural dynamics, electrophysiology, models
+
+The study uses hybrid modeling to analyze synaptic current modulation, directly engaging with neuronal dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+Glutamate synaptic vesicles co-release protons, producing a brief acidification of the synaptic cleft that could modulate AMPA receptor (AMPARs) operation. To evaluate the extent of receptor acidification, we develop a diffusion reaction model that couples vesicle-evoked proton and glutamate transients to AMPAR dynamics. Our simulations reveal that the rapid diffusion of protons and glutamate within the flat-cylindrical synaptic cleft leads to a mixture of protonated, singly glutamate-bound and …
+
+</details>
+
+---
+
+## [LINE-1 Retrotransposon Activation and 5-Gene Dysregulation as a Common Pathological Signature in Post-Traumatic and Status Epilepticus Models of Epilepsy.](https://www.biorxiv.org/content/10.64898/2026.04.23.720518v1?rss=1)
+*bioRxiv*  
+Score: **0.90**  
+Published: 2026-04-27T00:00:00+00:00
+Tags: epilepsy, neural dynamics, electrophysiology
+
+This paper investigates molecular shifts linked with epilepsy models and integrates electrophysiological perspectives on neural dynamics, aligning with the user's research focus.
+
+<details>
+<summary>RSS summary</summary>
+
+The transition from an initial brain insult to chronic epilepsy remains a critical challenge in clinical neuroscience, often involving complex molecular shifts that are difficult to capture through single-gene analysis. This study investigated the existence of a convergent pathway of genomic instability across two distinct etiological models: iron-induced (FeCl3) post-traumatic epilepsy (PTE) and lithium-pilocarpine-induced (LiCl-Pilo) status epilepticus (SE). By integrating Electrophysiology (E…
+
+</details>
+
+---
+
+## [From MEG to low-density EEG: Reliable estimation of brain natural frequencies and their modulation across eyes-open and eyes-closed states](https://www.biorxiv.org/content/10.64898/2026.04.23.720415v1?rss=1)
+*bioRxiv*  
+Score: **0.90**  
+Published: 2026-04-27T00:00:00+00:00
+Tags: methods, oscillations, signal processing
+
+This paper explores methods for estimating brain natural frequencies, focusing on neural oscillations, which is highly relevant to my interests in neural dynamics and signal processing.
+
+<details>
+<summary>RSS summary</summary>
+
+Neural oscillations are central to brain function and communication, yet they are typically characterized in terms of spectral power within predefined frequency bands, potentially obscuring their underlying functional organization. An alternative framework focuses on oscillatory frequency rather than power, revealing that each brain region exhibits a characteristic, or natural, frequency that can be estimated at the voxel level using a data-driven approach. Although this framework has been succe…
+
+</details>
+
+---
+
+## [Comparison scanning generalized eigendecomposition separates temporal dynamics of alpha oscillations during inhibition of spatialized acoustic distractors.](https://www.biorxiv.org/content/10.64898/2026.04.23.720427v1?rss=1)
+*bioRxiv*  
+Score: **0.85**  
+Published: 2026-04-27T00:00:00+00:00
+Tags: oscillations, dynamics, timescales
+
+This paper addresses the time-varying dynamics of alpha oscillations, relevant to my interest in neuronal timescales and aperiodic dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+Lateralized alpha-band oscillations are thought to reflect distractor inhibition through suppression of cortical regions processing spatially-localized distracting stimuli. Standard lateralization indices (LI) quantify hemispheric asymmetries in spectral power over large time windows, while characterizations of the time-varying dynamics of alpha-mediated distractor inhibition are lacking. Here we evaluate comparison scanning generalized eigendecomposition (csGED), a multivariate signal processin…
+
+</details>
+
+---
+
+## [Functional organization of the human visual system at birth and across late gestation](https://www.cell.com/neuron/fulltext/S0896-6273(26)00267-9?rss=yes)
+*Neuron*  
+Score: **0.80**  
+Published: 2026-04-28T00:00:00+00:00
+Tags: neural dynamics, visual system, development
+
+The research reveals the structured organization of visual pathways, implicating dynamics in physiological signal processing.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Biotechnology, Published online: 28 April 2026; <a href="https://www.nature.com/articles/s41587-026-03145-w">doi:10.1038/s41587-026-03145-w</a></p>The first-of-its-kind genetic medicine treats a rare and profound otoferlin-related hearing loss, and will be made available by Regeneron for free in the United States.
+
+</details>
+
+---
+
+## [Predictive pursuit emerges in high-dimensional recurrent neural networks](https://www.biorxiv.org/content/10.64898/2026.04.23.720457v1?rss=1)
 *bioRxiv*  
 Score: **0.80**  
-Published: 2026-04-25T00:00:00+00:00
-Tags: cross-species, electrophysiology, brain mapping
+Published: 2026-04-27T00:00:00+00:00
+Tags: recurrent neural networks, computational neuroscience, behavior
 
-This study directly concerns cross-species electrophysiology, which aligns well with interests in comparative neural dynamics.
+The study involves recurrent neural networks to explore cognitive predictions and behaviors, relevant to dynamic neural processes, supporting the user's computational neuroscience interest.
 
 <details>
 <summary>RSS summary</summary>
 
-Comparative mapping of functional and structural homologies across humans, small animals, and nonhuman primates has been extensively pursued due to its strong translational relevance. However, these experimental models possess inherent limitations in fully recapitulating the complexity of human cortical organization. The porcine model has recently emerged as a promising alternative, given its neuroanatomical and physiological similarities to the human brain. Despite these advantages, systematic …
+Tracking dynamic moving objects in the external world is ethologically important for many organisms. Recent experiments have examined neural dynamics supporting such behaviors by employing visually-guided pursuit in freely moving rodents, yet computational principles underlying this cognitive process are not well understood. To address this, we developed a recurrent neural network model for examining the predictive behaviors and computations that emerge during pursuit. We demonstrate that the mo…
 
 </details>
 
 ---
 
-## [Sex-specific effects of exercise on motor coordination and extended basal ganglia physiology.](https://www.biorxiv.org/content/10.64898/2026.04.24.720719v1?rss=1)
+## [The prefrontal cortex controls memory organization in the hippocampus](https://www.nature.com/articles/s41593-026-02231-1)
+*Nature Neuroscience*  
+Score: **0.75**  
+Published: 2026-04-28T00:00:00+00:00
+Tags: neural dynamics, memory, prefrontal cortex
+
+Investigating control mechanisms of neural organization implicates significant insights into brain dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 28 April 2026; <a href="https://www.nature.com/articles/s41593-026-02231-1">doi:10.1038/s41593-026-02231-1</a></p>Related memories are sometimes encoded in overlapping neurons. The authors show that the prefrontal cortex controls this type of memory organization in the hippocampus through direct projections to the medial entorhinal cortex.
+
+</details>
+
+---
+
+## [Subthreshold Asynchronous States and Computations in Biophysically Detailed Populations of Neurons](https://www.biorxiv.org/content/10.64898/2026.04.22.720183v1?rss=1)
+*bioRxiv*  
+Score: **0.75**  
+Published: 2026-04-27T00:00:00+00:00
+Tags: neuronal dynamics, computational, asynchronous states
+
+The exploration of subthreshold dynamics in neuronal populations offers insights into neuronal computation, aligning well with interests in physiological time series and computation.
+
+<details>
+<summary>RSS summary</summary>
+
+Spikes are metabolically costly to generate and transmit, and spiking rates should be kept to a minimum for efficient coding. How low can the spike rate go? We show that computations and asynchronous states based on excitatory/inhibitory balance can exist without firing any spikes through self-sustaining subthreshold voltage fluctuations in networks of biophysically detailed Hodgkin-Huxley neurons. This novel subthreshold asynchronous state, which we call subthreshold voltage chaos, can be contr…
+
+</details>
+
+---
+
+## [Genoarchitecture and input–output organization of the mouse basal ganglia and thalamic parafascicular nucleus](https://www.nature.com/articles/s41593-026-02253-9)
+*Nature Neuroscience*  
+Score: **0.70**  
+Published: 2026-04-28T00:00:00+00:00
+Tags: neural dynamics, basal ganglia, organization
+
+The analysis of the input-output relationship in the basal ganglia offers valuable insights into neural dynamics and organization.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 28 April 2026; <a href="https://www.nature.com/articles/s41593-026-02253-9">doi:10.1038/s41593-026-02253-9</a></p>The authors investigate the transcriptomic and connectivity organization of the basal ganglia and parafascicular nucleus. The analyses suggest that combinatorial gene expression underlies the modular and cell-type-specific basal ganglia input–output networks.
+
+</details>
+
+---
+
+## [Theory of mind predicts conversational success in early right hemisphere stroke recovery](https://www.biorxiv.org/content/10.64898/2026.04.23.720418v1?rss=1)
 *bioRxiv*  
 Score: **0.70**  
-Published: 2026-04-24T00:00:00+00:00
-Tags: basal ganglia, neural activity, exercise
+Published: 2026-04-27T00:00:00+00:00
+Tags: cognitive neuroscience, neural recovery, stroke
 
-Examines neural activity influenced by exercise across basal ganglia, relevant to neural signal modulation and physiology.
+This research connects cognitive processes related to conversation success and neural recovery, contributing insights into neural engagement post-stroke, which is tangentially relevant to dynamics.
 
 <details>
 <summary>RSS summary</summary>
 
-Exercise broadly affects the basal ganglia, brain structures involved in motor coordination. Exercise-induced changes in these regions can improve pathological conditions such as Parkinson's disease and substance use disorders. Importantly, biological sex is a significant factor in the effects of exercise and in the presentation of these basal ganglia-related conditions. Here, we find surprising sex differences in exercise's influence over motor coordination and neural activity across three exte…
+Those living with right hemisphere damage (RHD) often struggle with engaging in aspects of conversation that require understanding what a speaker means. There is growing evidence that conversation relies on deducing the speaker's perspective, an ability known as theory of mind (ToM). However, whether conversation deficits after RHD relate to ToM deficits is unknown. Here, we related individual differences in conversational success to ToM in 33 speakers during the early stages of RHD (median 5 da…
 
 </details>
 
 ---
 
-## [Cell-type-specific parallel pathways in the canonical cortical microcircuit](https://www.biorxiv.org/content/10.64898/2026.04.23.720412v1?rss=1)
+## [Resting State Somatomotor Functional Brain Networks using Empirical Mode Decomposition and Hilbert Transformation](https://www.biorxiv.org/content/10.64898/2026.04.23.719165v1?rss=1)
 *bioRxiv*  
-Score: **0.68**  
-Published: 2026-04-24T00:00:00+00:00
-Tags: cortical circuits, connectivity, electrophysiology
+Score: **0.70**  
+Published: 2026-04-27T00:00:00+00:00
+Tags: signal processing, methods, resting state
 
-Study focuses on cortical microcircuit connectivity, relevant to neuronal timescales and electrophysiology.
+Utilizing advanced signal processing methods aligns with my interest in physiological signal processing and neural dynamics.
 
 <details>
 <summary>RSS summary</summary>
 
-Information processing in the cortex depends on the integration of bottom-up and top-down signals through recurrent microcircuits spanning layers. Although the canonical microcircuit provides a framework for this integration, how these interactions are implemented at synapse resolution remains unclear. Here, we use large-volume electron microscopy reconstructions of mouse primary visual cortex to map the intralaminar and interlaminar connectivity of intratelencephalic (IT) neurons in layers 2/3 …
+The goal of the resting-state functional connectivity studies is to determine the inherent dynamics of the brain networks while the body is at rest. These networks get differentially activated when the brain is involved in various tasks such as processing of sensory inputs, initiating motor activities, or various cognitive tasks. Resting state functional connectivity networks are commonly revealed by determining Pearson Correlation Coefficients of the Blood Oxygenation Level Dependent (BOLD) sig…
 
 </details>
 
 ---
 
-## [Learning temporal structure engages hippocampus and guides value-based behaviour](https://www.biorxiv.org/content/10.64898/2026.04.24.720548v1?rss=1)
-*bioRxiv*  
+## [Changes in neuronal communication and synaptic plasticity during visual processing](https://www.cell.com/neuron/fulltext/S0896-6273(26)00267-9?rss=yes)
+*Neuron*  
 Score: **0.65**  
-Published: 2026-04-24T00:00:00+00:00
-Tags: hippocampus, neural learning, timescales
+Published: 2026-04-28T00:00:00+00:00
+Tags: synaptic plasticity, neural dynamics, communication
 
-Involves temporal learning structures and their neural basis, relevant to interest in neuronal timescales.
+The paper explores neuronal communication during processing, highlighting fundamental aspects of synaptic and neural dynamics.
 
 <details>
 <summary>RSS summary</summary>
 
-The ability to learn and exploit structured relationships between events is fundamental to adaptive behaviour and episodic-like memory, yet the neural mechanisms that support such learning remain poorly understood. Progress has been limited by the difficulty of dissociating relational structure from sensory cues, value, and motor output in experimentally tractable tasks. Here we introduce a temporally structured olfactory task for mice that isolates relational structure from cue identity and rew…
+Ayzenberg and Arcaro characterize the functional organization of the human visual system at birth and across the last trimester of gestation. They find that the neonate visual system can already be segregated into three hierarchically organized visual pathways: ventral, lateral, and dorsal. They also find developmental differences between pathways, with the dorsal visual pathway being more mature than the others.
 
 </details>
 
 ---
 
-## [Cheese3D enables sensitive detection and analysis of whole-face movement in mice](https://www.nature.com/articles/s41593-026-02262-8)
-*Nature Neuroscience*  
+## [Exposure to naturalistic occlusion promotes generalized, human-like robustness in deep neural networks](https://www.biorxiv.org/content/10.64898/2026.04.23.720370v1?rss=1)
+*bioRxiv*  
 Score: **0.60**  
 Published: 2026-04-27T00:00:00+00:00
-Tags: methods, neural, physiological
+Tags: methods, DNNs, learning
 
-Presents a method for physiological measurement that may involve neural processes and signal inference.
+This paper addresses learning and robustness which can indirectly relate to neural processes, though it is more focused on deep learning rather than electrophysiology.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 27 April 2026; <a href="https://www.nature.com/articles/s41593-026-02262-8">doi:10.1038/s41593-026-02262-8</a></p>The authors developed Cheese3D, a hardware–software framework for precise and sensitive measurement of whole-face movements in mice that enables quantitative inference of neural and physiological processes.
+Human object recognition is robust to challenging conditions, such as when one's view of an object is fragmented due to an occluding foreground object. In comparison, deep neural networks (DNNs) are typically more susceptible to occlusion, suggesting that human vision relies on distinct mechanisms. Here, we investigated the role of visual diet in the emergence of these mechanisms by asking whether human-like robustness might arise in DNNs when trained with image datasets that better reflect the …
 
 </details>
 
 ---
 
-## [A social readout of circuit imbalance](https://www.nature.com/articles/s41583-026-01048-y)
-*Nature Rev Neurosci*  
+## [Identifying genetic risk loci associated with aquaporin 4-positive neuromyelitis optica spectrum disorder: a genome-wide association study](https://www.thelancet.com/journals/laneur/article/PIIS1474-4422(26)00084-0/fulltext?rss=yes)
+*Lancet Digital Health*  
+Score: **0.50**  
+Published: 2026-05-01T00:00:00+00:00
+Tags: genetics, neurology
+
+The identification of genetic risk factors indirectly connects to mechanisms affecting neuronal conditions.
+
+<details>
+<summary>RSS summary</summary>
+
+AQP4-positive NMOSD is more genetically similar to systemic autoimmune diseases than to multiple sclerosis, despite sharing overlapping clinical phenotypes. Specifically, a polymorphism associated with reduced complement C4 was identified as the biggest disease genetic risk factor, which has been shown to facilitate the development of autoantibody-producing B cells. Our findings also support a pathogenic role of HLA-restricted CD4+ T cells, owing to both a genome-wide significant association of …
+
+</details>
+
+---
+
+## [FPGA realization of fractional-order chaotic oscillators using ABM and EFORK methods](https://www.nature.com/articles/s41598-026-49712-8)
+*Scientific Reports*  
+Score: **0.50**  
+Published: 2026-05-05T00:00:00+00:00
+Tags: oscillators, dynamics, signal processing
+
+The paper discusses oscillators, significant to aperiodic dynamics and signal processing methodologies.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Scientific Reports, Published online: 05 May 2026; <a href="https://www.nature.com/articles/s41598-026-49712-8">doi:10.1038/s41598-026-49712-8</a></p>FPGA realization of fractional-order chaotic oscillators using ABM and EFORK methods
+
+</details>
+
+---
+
+## [A neural substrate for resistance to change in the ventral hippocampus](https://www.biorxiv.org/content/10.64898/2026.04.22.720018v1?rss=1)
+*bioRxiv*  
 Score: **0.50**  
 Published: 2026-04-27T00:00:00+00:00
-Tags: circuit imbalance, neuronal dynamics, timescales
+Tags: neural dynamics, hippocampus, mechanisms
 
-Focuses on neuronal timescales and circuit dynamics, relevant for understanding excitation-inhibition balance in circuits.
+Investigating neural mechanisms in the hippocampus relates to broader interests in neural dynamics, though the focus isn't primarily on methods or signals.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Reviews Neuroscience, Published online: 27 April 2026; <a href="https://www.nature.com/articles/s41583-026-01048-y">doi:10.1038/s41583-026-01048-y</a></p>In this Journal Club, Baolin Guo highlights a 2011 study that linked altered excitation–inhibition balance in prefrontal circuits to social dysfunction in mice.
+Strong prior beliefs can render individuals resistant to change, even when outcomes contradict expectations, yet the neural mechanisms supporting such stability remain poorly understood. Here we show that the ventral hippocampus (vCA1) actively stabilizes inferred contextual state (belief) during aversive memory extinction in a behavior-dependent manner. Using in vivo calcium imaging, we identify a subset of vCA1 neurons that exhibit selective reductions in activity when expected aversive outcom…
 
 </details>
 
 ---
 
-## [A self-organized pencil beam that can be used for fast volumetric imaging](https://www.nature.com/articles/s41592-026-03094-x)
-*Nature Methods*  
+## [TikTok is a valuable data source for tracking the opioid crisis](https://www.nature.com/articles/s41746-026-02654-x)
+*npj Digital Med*  
 Score: **0.40**  
 Published: 2026-04-27T00:00:00+00:00
-Tags: imaging, methods
+Tags: data science, social media
 
-Involves imaging technology useful for neural dynamics study and signal processing.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Nature Methods, Published online: 27 April 2026; <a href="https://www.nature.com/articles/s41592-026-03094-x">doi:10.1038/s41592-026-03094-x</a></p>We observed that a stable self-localized ultrafast pencil beam can emerge inside a standard multimode fiber near the critical power. This beam enables fast, high-resolution, volumetric imaging of intact tissues and real-time tracking of protein uptake in a human blood–brain barrier model.
-
-</details>
-
----
-
-## [Intranasal CRISPR- lipid nanoparticles targeting MAPK9 reduce neuroinflammation after traumatic brain injury](https://www.biorxiv.org/content/10.64898/2026.04.25.720847v1?rss=1)
-*bioRxiv*  
-Score: **0.40**  
-Published: 2026-04-26T00:00:00+00:00
-Tags: neuronal inflammation, CRISPR, brain injury
-
-Includes aspects of targeting neural circuits and inflammation that might intersect with computational neuroscience in neural damage contexts.
+Although it uses data science techniques, the focus on social media data doesn't relate closely to my neuroscience interests.
 
 <details>
 <summary>RSS summary</summary>
 
-Traumatic brain injury (TBI) triggers a sustained neuroinflammatory response driven by activated microglia, which contributes to secondary injury and long-term neurological dysfunction. Therapeutic reprogramming of microglial activation from a pro-inflammatory (M1-like) to a reparative (M2-like) phenotype represents a promising strategy; however, the lack of cell-specific targeting within an injured brain has limited clinical translation. Here, we developed a targeted gene-editing nanotherapy to…
+<p>npj Digital Medicine, Published online: 27 April 2026; <a href="https://www.nature.com/articles/s41746-026-02654-x">doi:10.1038/s41746-026-02654-x</a></p>TikTok is a valuable data source for tracking the opioid crisis
 
 </details>
 
