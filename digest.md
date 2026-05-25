@@ -1,195 +1,239 @@
-# Weekly ToC Digest (week of 2026-05-18)
+# Weekly ToC Digest (week of 2026-05-25)
 
-The following papers were triaged based on their relevance to the user's interests in cognitive neuroscience, functional connectivity, memory systems, and imagery. This week's highlights focus on advancements in imaging techniques, neural connectivity studies, and memory-related research related to cognitive neuroscience. No relevant papers were found that directly matched the user's interests and keywords. Triaged weekly journal items for an academic scientist focusing on cognitive neuroscience, mental imagery, and functional connectivity. No relevant papers found based on the user's specific interests in neuroimaging and cognitive systems, all papers significantly downweighted or irrelevant. No relevant items matched the specified interests in mental imagery, connectivity, memory, or cognitive neuroscience methods.
+Reviewing items for relevance to cognitive neuroscience, mental imagery, and memory systems yields few pertinent articles in this batch. Most papers relate to clinical issues, which may be less relevant for an academic perspective focused on neuroimaging and cognitive processes. Triaged items based on specified interests and keywords, prioritizing mental imagery, functional connectivity, episodic memory, and relevant cognitive neuroscience methods. This week's journal articles primarily focus on connections to cognitive neuroscience, including functional connectivity, memory, and imaging methodologies. Relevant articles discuss neural representation linked to behavior, memory-guided cognition, and brain network organization. Higher priority is given to works that align closely with the user’s interests in imagery and connectivity. No papers were found that directly aligned with the user's interests in cognitive neuroscience, particularly those involving imagery, connectivity, or memory
 
-**Included:** 11 (score ≥ 0.35)  
-**Scored:** 14 total items
+**Included:** 14 (score ≥ 0.35)  
+**Scored:** 21 total items
 
 ---
 
-## [Hippocampal ripples evoke a stereotyped cortical response followed by spindle-mediated network synchronization.](https://www.biorxiv.org/content/10.64898/2026.05.14.725103v1?rss=1)
+## [Perirhinal input to auditory cortex supports memory-guided sensory perception](https://www.science.org/doi/abs/10.1126/sciadv.aed4808?af=R)
+*Science Advances*  
+Score: **1.00**  
+Published: 2026-05-22T07:00:00+00:00
+Tags: memory, auditory, connectivity, neuroimaging
+
+This study directly addresses memory-guided perception, linking sensory processing with memory systems, which aligns with the research interests in memory-related cognition.
+
+<details>
+<summary>RSS summary</summary>
+
+Science Advances, Volume 12, Issue 21, May 2026. <br />
+
+</details>
+
+---
+
+## [CRISPR/Cas9-based knockout screening revealed GSK3β as a key regulator for structural plasticity of axon initial segment](https://www.biorxiv.org/content/10.64898/2026.05.21.726787v1?rss=1)
 *bioRxiv neuroscience*  
-Score: **0.85**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: memory, functional connectivity, hippocampus, neuroscience
+Score: **0.80**  
+Published: 2026-05-22T00:00:00
+Tags: neuroplasticity, connectivity, individual differences, methods
 
-This paper investigates hippocampal-cortical dynamics during sleep, providing insight into memory consolidation processes — a core aspect of the user's focus on episodic memory.
+This article discusses structural plasticity, relevant to individual differences in brain organization, which could provide insights into functional architecture.
 
 <details>
 <summary>RSS summary</summary>
 
-Hippocampal sharp-wave ripples (SWRs) are thought to play a key role in systems memory consolidation by broadcasting reactivated memory content to distributed cortical networks while we sleep. Elucidating how this hippocampal-cortical dialogue unfolds at the brain-wide level is therefore essential to understanding how sleep transforms new experiences into lasting memories. Here we combined simultaneous hippocampal intracranial EEG and 21-channel scalp EEG during overnight sleep to characterize t…
+The axon initial segment (AIS) undergoes structural plasticity and refines neuronal excitability, yet the underlying mechanisms remain unclear. We here developed an in vivo CRISPR/Cas9 knockout platform using an all-in-one triple-guide RNA vector introduced via electroporation and employed this approach to seek molecules that regulate the developmental shortening of AIS in the chicken nucleus magnocellularis. We have targeted fourteen molecules associated with microtubules and found that knockou…
 
 </details>
 
 ---
 
-## [Precision fMRI reveals densely interdigitated network patches with conserved motifs in the lateral prefrontal cortex](https://www.cell.com/neuron/fulltext/S0896-6273(26)00280-1?rss=yes)
-*Neuron in press*  
-Score: **0.85**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: connectivity, precision imaging, fMRI
+## [Fixation duration on natural scenes is explained by memory encoding not processing demand](https://www.nature.com/articles/s41593-026-02285-1)
+*Nature Neuroscience*  
+Score: **0.75**  
+Published: 2026-05-25T00:00:00+00:00
+Tags: memory, cognition, visual perception, functional connectivity
 
-This paper discusses precision fMRI techniques that reveal unique functional network organization, aligning with the user's interest in connectivity and imaging precision.
+This study explores how memory encoding influences visual fixation duration, making it relevant to understanding cognition and memory systems in relation to visual perception.
 
 <details>
 <summary>RSS summary</summary>
 
-Ladwig et al. use precision fMRI methods to show that the lateral prefrontal cortex of individuals features a mosaic of functionally dissociable network patches rather than a single, broad, and functionally flexible region, as suggested by group-averaged data.
+<p>Nature Neuroscience, Published online: 25 May 2026; <a href="https://www.nature.com/articles/s41593-026-02285-1">doi:10.1038/s41593-026-02285-1</a></p>By combining magnetoencephalography and eye tracking, this study sheds light on why people fixate on some parts of natural scenes longer than others. Rather than visual complexity, fixation durations are affected by memory encoding.
 
 </details>
 
 ---
 
-## [Gait speed and surface stiffness interactively modulate selected muscle- but not joint-synergy recruitment during compliant-surface walking](https://www.biorxiv.org/content/10.64898/2026.05.13.725018v1?rss=1)
+## [Regional reconfiguration of functional brain networks during childhood and adolescence: evaluating age and sex effect](https://www.biorxiv.org/content/10.64898/2026.05.21.726818v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.75**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: cognition, neuroscience
+Published: 2026-05-22T00:00:00
+Tags: functional connectivity, individual differences, neuroimaging
 
-Though slightly outside the main interests, this study touches on how movement dynamics relate to cognitive and memory-related processes, as they require integration of sensory and motor information.
+Evaluating age and sex effects on brain networks is crucial for understanding individual-level brain organization, a core interest of the researcher.
 
 <details>
 <summary>RSS summary</summary>
 
-Kilosort 2.0 is a widely adopted spike sorting algorithm recognized for its efficiency and accuracy on planar electrode arrays, such as Neuropixels. To adapt its robust architecture to emerging three-dimensional (3D) neural probes, we present Kilosort 2.0-3D, a modified version that leverages 3D spatial information. Our modification specifically redefines the spatial processing components of Kilosort 2.0 to operate in 3D space while leaving the core template-matching process unchanged. By using …
+Introduction: While global topological properties of brain networks reach relative maturity early in development, functional reconfigurations at the regional level continue throughout adolescence to support cognitive maturation. However, regional age and sex-specific developmental patterns of functional reconfiguration remain incompletely understood. Methods: We analyzed resting-state fMRI data from 528 participants aged 5-21 years from the Human Connectome Project in Development. Three regional…
 
 </details>
 
 ---
 
-## [fMRI at ultra-high field: From acquisition to interpretation](https://www.cell.com/neuron/fulltext/S0896-6273(26)00320-X?rss=yes)
-*Neuron in press*  
-Score: **0.75**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: fMRI, precision imaging, methods
-
-This article reviews fMRI techniques at ultra-high fields, which could enhance precision imaging and functional connectivity studies relevant to the user's research focus.
-
-<details>
-<summary>RSS summary</summary>
-
-Functional MRI is increasingly performed at 7T, which offers higher spatial resolution and promises to enable investigation of intracortical circuits. Here, Goense and Nothnagel discuss the advantages, opportunities, and challenges of this technology.
-
-</details>
-
----
-
-## [Long-term memory reorganization of navigational episodes](https://www.nature.com/articles/s41562-026-02472-x)
-*Nature Human Behaviour*  
+## [Intracerebral recordings in humans reveal gradual emergence of musical beat representation across the dorsal auditory pathway](https://www.biorxiv.org/content/10.64898/2026.05.22.727121v1?rss=1)
+*bioRxiv neuroscience*  
 Score: **0.70**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: memory, episodic memory, cognition
+Published: 2026-05-22T00:00:00
+Tags: neuroimaging, music, connectivity
 
-This study examines how navigational memory is restructured over time, engaging themes of episodic memory which are of significant interest to the user.
+This study relates to sensory processing and representation in the brain, which connects to cognitive neuroscience interests, although it is less directly tied to core interests.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Human Behaviour, Published online: 18 May 2026; <a href="https://www.nature.com/articles/s41562-026-02472-x">doi:10.1038/s41562-026-02472-x</a></p>In this Article, Iggena et al. show that memories of real-world navigational episodes do not simply fade but are continuously reshaped over decades through shifting contributions of episode-related spatial representations and episode-independent spatial schemas.
+When experiencing music, humans readily perceive and move along with a periodic beat. This ability has been proposed to rely on an enhanced representation of the beat periodicity in brain activity. However, whether this beat representation is achieved in sensory areas or whether it involves associative brain regions remains debated. Here, we addressed this question using intracerebral depth electrodes implanted in 13 human individuals to record local field potentials directly inside the brain. P…
 
 </details>
 
 ---
 
-## [Machine learning-based decoding of emotional valence from electrophysiological signals in the monkey brain](https://www.biorxiv.org/content/10.64898/2026.05.13.724152v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.65**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: emotions, neuroimaging, machine learning
+## [Conniving With Continuations: Representing Goals in a Domain‐Specific Language of Thought](https://onlinelibrary.wiley.com/doi/10.1111/tops.70054?af=R)
+*Topics in Cognitive Science*  
+Score: **0.70**  
+Published: 2026-05-21T11:00:15+00:00
+Tags: cognition, methods, mental representations
 
-This study uses machine learning to decode emotional states which may offer insights into connectivity patterns related to emotional memory functions in cognitive neuroscience.
+The title suggests a focus on cognitive representation, which aligns with cognitive neuroscience themes about mental processing and goal representation.
 
 <details>
 <summary>RSS summary</summary>
 
-Understanding how the brain operates in naturalistic settings requires methods that go beyond conventional repeated-measurement approaches, necessitating the development of single-trial neural activity analysis. Recent advances in machine learning offer new opportunities for analyzing brain electrophysiological signals. Here, we recorded surface electrocorticography (ECoG) and intracranial local field potentials (LFPs) from emotion-related brain regions in a monkey performing a Pavlovian conditi…
+Topics in Cognitive Science, EarlyView.
 
 </details>
 
 ---
 
-## [Predicting categorical and continuous Alzheimer’s disease outcomes from a single MRI scan](https://www.nature.com/articles/s43587-026-01121-2)
-*Nature Aging*  
-Score: **0.65**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: neuroimaging, Alzheimer's, methods
-
-The paper focuses on using MRI for predicting outcomes in Alzheimer's, involving functional brain organization and neuroimaging methodologies pertinent to the user's interests.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Nature Aging, Published online: 18 May 2026; <a href="https://www.nature.com/articles/s43587-026-01121-2">doi:10.1038/s43587-026-01121-2</a></p>The authors developed a multitask deep learning framework integrating domain knowledge with large pretrained models that effectively predicts Alzheimer’s disease diagnosis, cognitive scores and future cognitive decline using only baseline MRI and demographics.
-
-</details>
-
----
-
-## [Open-eyed meditation suppresses functional connectivity in EEG across a broad frequency range](https://www.biorxiv.org/content/10.64898/2026.05.13.724915v1?rss=1)
-*bioRxiv neuroscience*  
+## [Hippocampal NOP Receptor Activation Impairs Object Recognition Memory Acquisition](https://onlinelibrary.wiley.com/doi/10.1002/hipo.70104?af=R)
+*Hippocampus*  
 Score: **0.60**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: function connectivity, meditation, neuroscience
+Published: 2026-05-23T05:05:03+00:00
+Tags: memory, hippocampus, functional connectivity
 
-Focusing on how meditation alters functional connectivity provides insight into practices that affect memory and mental imagery, aligning with interests in cognitive neuroscience methods.
+The focus on hippocampal mechanisms related to object recognition memory aligns with individual differences in neuroimaging and episodic memory.
 
 <details>
 <summary>RSS summary</summary>
 
-Humans adapt walking to different speeds and compliant surfaces, but whether gait speed and surface stiffness shape joint kinematics and muscle activity independently or interactively remains unclear. We reanalyzed an open variable-stiffness treadmill dataset collected at three speeds and four stiffness levels. Tensor decomposition extracted joint and muscle synergies and condition-specific recruitment coefficients. Stride length and stride time were modulated by speed and stiffness without inte…
+Hippocampus, Volume 36, Issue 3, May 2026.
 
 </details>
 
 ---
 
-## [Tractometry reproducibility and generalizability across scanners, scanner models, and acquisition protocols](https://www.biorxiv.org/content/10.64898/2026.05.13.723388v1?rss=1)
+## [Transdiagnostic psychopathology dimensions and cognitive functioning after traumatic brain injury: an application of the HiTOP-TBI model](https://www.tandfonline.com/doi/full/10.1080/13803395.2026.2674222?ai=z4&mi=3fqos0&af=R)
+*Journal of Clinical and Experimental Neuropsychology*  
+Score: **0.60**  
+Published: 2026-05-21T06:07:33+00:00
+Tags: cognitive functioning, traumatic brain injury, individual differences
+
+This article connects cognitive functioning post-injury, likely addressing individual differences and cognitive assessments, a key area within cognitive neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+. <br />
+
+</details>
+
+---
+
+## [Hippocampal astrocytes contribute to encoding context-specific aversive stimuli to regulate fear-related behavior](https://www.biorxiv.org/content/10.64898/2026.05.22.727208v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.55**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: methods, connectivity, neuroimaging
+Published: 2026-05-24T00:00:00+00:00
+Tags: memory, hippocampus, cognition, functional connectivity
 
-This methodological paper is significant for understanding the reproducibility of neuroimaging analyses, essential for advancing individual-specific connectivity studies.
+This study examines the role of astrocytes in fear memory, connecting to broader themes of memory-guided behavior and brain networks.
 
 <details>
 <summary>RSS summary</summary>
 
-Diffusion-weighted magnetic resonance imaging (dMRI)-based tractometry enables the quantification of white matter tissue properties in living humans while preserving anatomical specificity. Although tractometry is highly reproducible when the same scanner and acquisition protocol are used, its generalizability across scanners and protocols remains unclear. To address this gap, we performed a traveling-head experiment involving five subjects to evaluate tractometry across progressively different …
+In contextual fear conditioning, subjects learn to associate a neutral environment with an aversive stimulus and exhibit fear responses to that context, signaling danger. Neuronal activity in hippocampal-amygdala circuits has been shown extensively to underlie the conditioning and recall of contextual fear memories, yet the direct contribution of astrocytes to integrating stimulus and contextual information in this task remains unknown. In this study, we monitor astrocyte activity in real time i…
 
 </details>
 
 ---
 
-## [A computational account of how positive performance bias supports cognitive effort](https://www.biorxiv.org/content/10.64898/2026.05.13.725021v1?rss=1)
-*bioRxiv neuroscience*  
+## [The concurrent relationship of specific and detailed turning points and young adults’ depressive symptoms: the moderating role of recollective experience](https://www.tandfonline.com/doi/full/10.1080/09658211.2026.2671999?ai=z4&mi=3fqos0&af=R)
+*Memory*  
 Score: **0.50**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: cognition, neuroimaging
+Published: 2026-05-24T03:45:23+00:00
+Tags: memory, depression, cognition
 
-This research examines cognitive biases that influence effort-related decisions, relevant to how individual differences might affect cognitive processes and underlying brain networks.
+Exploring the relationship between memory and depressive symptoms may link to cognitive neuroscience interests, although it lacks a strong neuroimaging focus.
 
 <details>
 <summary>RSS summary</summary>
 
-The willingness to exert cognitive effort is essential but is constrained by the subjective cost of effort. Although effortful tasks are often avoided, positive bias about ones own performance may help sustain engagement with cognitive demands. Here, participants completed an effort-based decision-making task and reported trial-by-trial predictions of their own performance, allowing us to quantify performance prediction error (PPE) as the discrepancy between subjective and objective accuracy. Th…
+. <br />
 
 </details>
 
 ---
 
-## [Task context is broadly encoded in the human brain](https://www.biorxiv.org/content/10.64898/2026.05.14.724660v1?rss=1)
-*bioRxiv neuroscience*  
+## [Interacting effects of human presence and landscape modification on birds and mammals](https://www.science.org/doi/abs/10.1126/science.adq3396?af=R)
+*Science*  
 Score: **0.50**  
-Published: 2026-05-18T00:00:00+00:00
-Tags: cognitive control, neuroscience
+Published: 2026-05-21T06:00:10+00:00
+Tags: behavior, environmental modification
 
-Understanding how task context affects brain representations may enhance knowledge about individual cognitive strategies, aligning with the interests in individual differences in neuroimaging.
+While this is not directly related to neuroimaging or cognition, it may touch on behavior influenced by environmental factors, relevant for understanding contextual influences on mental processes.
 
 <details>
 <summary>RSS summary</summary>
 
-Cognitive control depends on the task context as a top-down modulatory influence on ongoing processing. Cognitive neuroscience theories of cognitive control have associated the maintenance of context, and its deployment as a control signal, with neural populations in the dorsolateral prefrontal cortex (DLPFC). Importantly, however, the way information about the task context is propagated and used throughout the brain remains largely unspecified. A longstanding hypothesis is that neural represent…
+Science, Volume 392, Issue 6800, Page 879-884, May 2026. <br />
 
 </details>
+
+---
+
+## [Spatial memory transforms for days to decades](https://www.nature.com/articles/s41562-026-02483-8)
+*Nature Human Behaviour*  
+Score: **0.50**  
+Published: 2026-05-21T00:00:00+00:00
+Tags: memory, cognition, spatial memory
+
+This paper explores the evolution of spatial memory over extended time periods, relevant to understanding memory processes and representations.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Human Behaviour, Published online: 21 May 2026; <a href="https://www.nature.com/articles/s41562-026-02483-8">doi:10.1038/s41562-026-02483-8</a></p>We investigated memory for real-world navigational episodes across delays of up to three decades. Our data reveal that real-world spatial memory is continuously reshaped over the years through a shifting combination of episode-dependent spatial representations and episode-independent schematic knowledge that follow distinct trajectories over…
+
+</details>
+
+---
+
+## [Activity in barrel cortex related to tactile delay eyeblink conditioning](https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhag060/8690673?rss=1)
+*Cerebral Cortex*  
+Score: **0.40**  
+Published: 2026-05-22T00:00:00+00:00
+Tags: conditioning, learning, cortex
+
+The article addresses learning and memory processes through conditioning, relevant to cognitive processes but less focused on imagery or connectivity.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>While implicit learning is thought to be responsible to generate conditioned responses (CRs) in Pavlovian delay paradigms, like delay eye blink conditioning (DEBC), explicit memory processes may be involved to learn the same contingencies, but store them for other purposes. Here, we investigated the engagement of the cortex in the supposedly non-cortical learning paradigm DEBC, using a single whisker deflection in head-fixed mice…
+
+</details>
+
+---
+
+## [Dyadic coregulation of everyday prospective memory: the role of physical and psychological closeness in romantic couples across adulthood](https://www.tandfonline.com/doi/full/10.1080/09658211.2026.2675581?ai=z4&mi=3fqos0&af=R)
+*Memory*  
+Score: **0.40**  
+Published: 2026-05-20T10:43:26+00:00
+Tags: memory, prospective memory
+
+This paper addresses everyday memory within interpersonal contexts, contributing insights into memory processes with potential implications for cognitive neuroscience.
 
 ---
