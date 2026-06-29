@@ -1,171 +1,246 @@
-# Weekly ToC Digest (week of 2026-06-22)
+# Weekly ToC Digest (week of 2026-06-29)
 
-The following items were reviewed based on their relevance to mental imagery, functional connectivity, episodic memory, and cognitive neuroscience methods. Most items related to clinical psychological interventions and behavioral studies were downweighted due to lack of direct connection to neuroimaging or cognitive neuroscience, while others presented valuable insights into the neural mechanisms linked to memory and decision-making. No relevant papers found relating to user interests in mental imagery, functional connectivity, episodic memory, or cognitive neuroscience methods. The following items have been triaged based on the relevance to the user's interests in cognitive neuroscience, mental imagery, functional connectivity, and related methods. Items focusing on memory and cognitive processes have been prioritized. No items directly related to the user’s interests were found this week. Most papers either discuss engineering, molecular biology, or unrelated social issues with no fo
+No significant papers were found that align closely with the user's interests and keywords. Most submissions were either outside the field of cognitive neuroscience or lacked a methodological focus relevant to imaging, memory, or mental imagery. Triage completed based on user's interests in neuroimaging, memory systems, and functional brain organization. No relevant items were found focusing on the primary user's interests in mental imagery, functional connectivity, or related cognitive neuroscience methods. Triaged journal articles based on relevance to user interests in mental imagery, cognitive neuroscience, and related fields. No user keywords were provided but prioritization was followed based on interest themes outlined.
 
-**Included:** 10 (score ≥ 0.35)  
-**Scored:** 14 total items
-
----
-
-## [Objective quality assessment for precision functional MRI data](https://www.cell.com/neuron/fulltext/S0896-6273(26)00412-5?rss=yes)
-*Neuron in press*  
-Score: **1.00**  
-Published: 2026-06-22T00:00:00+00:00
-Tags: precision imaging, connectivity, neuroimaging methods
-
-This paper introduces a new method for assessing fMRI data quality, crucial for precision mapping of brain networks. Its focus on network structure is highly relevant to individual-level brain organization.
-
-<details>
-<summary>RSS summary</summary>
-
-Lynch et al. introduce the network similarity index (NSI), a tool for assessing whether individual fMRI datasets contain enough coherent brain network structure for precision mapping applications. This work provides an objective framework for evaluating data quality, guiding additional data collection, and improving confidence in individualized brain maps.
-
-</details>
+**Included:** 14 (score ≥ 0.35)  
+**Scored:** 24 total items
 
 ---
 
-## [Diencephalic integrity explains aspects of hippocampal amnesia](https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhag069/8711650?rss=1)
-*Cerebral Cortex*  
-Score: **1.00**  
-Published: 2026-06-19T00:00:00+00:00
-Tags: memory, hippocampus, connectivity
-
-This paper examines the role of the broader hippocampal-diencephalic network in episodic memory, directly aligning with interests in memory-guided cognition and the implications for hippocampal function.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Research on amnesia has been fundamental in establishing the role of the human hippocampus in memory. Even though other structures within the hippocampal-diencephalic-cingulate network also play a role in episodic memory, studies of hippocampal amnesia often ignore the importance of changes in this broader network. In a large cohort of patients (<span style="font-style: italic;">n</span> = 38) with hippocampal damage due to autoi…
-
-</details>
-
----
-
-## [Neural and Navigational Features Influencing the Novelty Induced Benefits on Episodic Memory](https://onlinelibrary.wiley.com/doi/10.1002/hipo.70109?af=R)
-*Hippocampus*  
-Score: **0.94**  
-Published: 2026-06-18T14:35:12+00:00
-Tags: memory, navigation, hippocampus
-
-This research discusses how navigational novelty interacts with episodic memory, pertinent to understanding underlying neural mechanisms and memory processes.
-
-<details>
-<summary>RSS summary</summary>
-
-Hippocampus, Volume 36, Issue 4, July 2026.
-
-</details>
-
----
-
-## [Distinct roles of hippocampus and neocortex in symbolic compositional generalization](https://www.cell.com/neuron/fulltext/S0896-6273(26)00416-2?rss=yes)
-*Neuron in press*  
+## [When Can Brain Connectivity Track the Working Mind? A Large-Scale Benchmark of Dynamic Functional Connectivity Across Cognitive Paradigms](https://www.biorxiv.org/content/10.64898/2026.06.28.735101v1?rss=1)
+*bioRxiv neuroscience*  
 Score: **0.90**  
-Published: 2026-06-22T00:00:00+00:00
-Tags: memory, connectivity, neuroimaging
+Published: 2026-06-29T00:00:00+00:00
+Tags: connectivity, functional connectivity, neuroimaging
 
-The study explores hippocampal and neocortical roles in generating meaning from symbols, highlighting network interactions and individual differences in cognitive processing.
+The paper evaluates dynamic functional connectivity methods, crucial for understanding cognitive engagement through neural dynamics, directly aligning with interests in functional connectivity.
 
 <details>
 <summary>RSS summary</summary>
 
-Using fMRI and neural geometry analyses, the authors investigate the neural representations underlying compositional generalization, the process of combining symbols to generate novel meanings. Their findings reveal how hippocampal, prefrontal, parietal, and visual areas differ in the geometry and dimensionality of their neural representations when inferring the meaning of novel composites.
+Dynamic functional connectivity (dFC), the time-varying reconfiguration of brain network interactions, has become a widely adopted method for studying how neural dynamics reflect ongoing cognition. Yet a fundamental question remains unresolved: can dFC reliably track when a person is cognitively engaged, and if not, why does it fail? Here, we address this question through a large-scale benchmark of seven widely used dFC methods, evaluating how well each predicts task presence across 16 fMRI data…
 
 </details>
 
 ---
 
-## [Sleep to forget: active control of consolidation and forgetting by slow-wave sleep dynamics](https://www.biorxiv.org/content/10.64898/2026.06.15.732460v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.88**  
-Published: 2026-06-19T00:00:00+00:00
-Tags: memory, sleep, cognition
+## [Single-cell multiomics of neuron activation reveals context-specific genetics of brain disorders](https://www.science.org/doi/abs/10.1126/science.adw3949?af=R)
+*Science*  
+Score: **0.90**  
+Published: 2026-06-25T07:00:00+00:00
+Tags: connectivity, cognitive neuroscience, functional organization
 
-This study investigates how sleep dynamics relate to memory consolidation and forgetting, which connects directly with mental imagery and episodic memory processes.
+This paper directly investigates neuron activation, which is pivotal for understanding functional connectivity and its genetics, correlating with user interests in cognitive neuroscience.
 
 <details>
 <summary>RSS summary</summary>
 
-Facial color is associated with the perceptual evaluation of emotions, and compared with faces with original facial or greenish color, reddish angry faces are often judged as having higher emotion intensity. Although perceptual modulation by the relationship between anger and red has also been reported from the perspective of electroencephalography (EEG), how variations in perceived emotional intensity are reflected in brain activity remains unclear. This study investigated whether EEG activity …
+This systematic review and meta-analysis evaluates the diagnostic accuracy of serum carbohydrate antigen 19.9 (CA19.9) level to identify patients with intraductal papillary mucinous neoplasm at high risk of high-grade dysplasia and invasive carcinoma.
 
 </details>
 
 ---
 
-## [Tunable Bessel beam two-photon fluorescence microscopy for high-speed volumetric imaging of brain dynamics](https://elifesciences.org/articles/110228)
-*eLife neuroscience*  
+## [The physiological foundation of extinction improvement by tDCS over the ventromedial prefrontal cortex (vmPFC) in healthy humans: an fMRI study](https://www.nature.com/articles/s41398-026-04190-4)
+*Translational Psychiatry*  
 Score: **0.85**  
-Published: 2026-06-19T00:00:00+00:00
-Tags: methods, imaging, connectivity
+Published: 2026-06-26T00:00:00+00:00
+Tags: fMRI, methods, cognitive neuroscience
 
-This methodological advancement in imaging holds significant potential for enhancing studies in cognitive neuroscience and understanding brain dynamics.
+The study explores tDCS effects on vmPFC, connecting to functional brain organization and cognitive processes, aligning closely with user interests.
 
 <details>
 <summary>RSS summary</summary>
 
-High-speed volumetric imaging of the brain is essential for linking diverse cellular events to tissue-level functions. However, the brain’s structural and dynamic heterogeneity—spanning microns to millimeters and milliseconds to hours—requires imaging techniques with tunable spatiotemporal resolution, flexible 3D sampling, and compatibility with targeted perturbations. Here, we present tunable Bessel beam two-photon fluorescence microscopy (tBessel-TPFM), a compact, low-cost, and versatile platf…
+<p>Translational Psychiatry, Published online: 26 June 2026; <a href="https://www.nature.com/articles/s41398-026-04190-4">doi:10.1038/s41398-026-04190-4</a></p>The physiological foundation of extinction improvement by tDCS over the ventromedial prefrontal cortex (vmPFC) in healthy humans: an fMRI study
 
 </details>
 
 ---
 
-## [Spatiotemporal proteomics elucidates trafficking and localization of Neuroligins to the axon initial segment plasma membrane](https://www.biorxiv.org/content/10.64898/2026.06.18.733123v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.82**  
-Published: 2026-06-19T00:00:00+00:00
-Tags: connectivity, neuroscience, methods
-
-This study on neural architecture may improve understanding of synaptic dynamics affecting connectivity, though primarily molecular, it connects to network neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-Neuronal development and function rely on precise sorting of membrane proteins to distinct neuronal domains, yet the underlying mechanisms remain incompletely understood. Here, we investigated the trafficking of two highly homologous NLGNs (NLGN1 and 2) which distinctly localize and function at excitatory and inhibitory synapses. By using spatiotemporal proteomics, genetic engineering and microscopy in CNS cultured neurons and organotypic slices, we dissected the itinerary of biosynthetic NLGNs,…
-
-</details>
-
----
-
-## [Potential mechanisms and functional significance of aperiodic neural activity](https://www.nature.com/articles/s41562-026-02503-7)
-*Nature Human Behaviour*  
+## [Comparative efficacy of dual- vs. single-node tACS in amnestic mild cognitive impairment: behavioral and EEG evidence](https://www.nature.com/articles/s41398-026-04019-0)
+*Translational Psychiatry*  
 Score: **0.80**  
-Published: 2026-06-22T00:00:00+00:00
-Tags: cognitive neuroscience, connectivity, neuroimaging
+Published: 2026-06-26T00:00:00+00:00
+Tags: memory, methods, cognitive neuroscience
 
-This review discusses the significance of aperiodic neural activity in brain function, connecting neural dynamics to cognitive control and processing, relevant to understanding memory systems.
+This paper discusses transcranial alternating current stimulation (tACS) which ties into cognitive enhancement methods related to attention and memory.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Human Behaviour, Published online: 22 June 2026; <a href="https://www.nature.com/articles/s41562-026-02503-7">doi:10.1038/s41562-026-02503-7</a></p>In this Review, Preston, Smith and Voytek examine aperiodic neural activity in the brain and how measuring aperiodic activity can shed light on brain function and disease.
+Multi-brain neurofeedback offers new possibilities for guiding social interaction by capturing and modulating interpersonal neural dynamics in real time. We propose a hierarchical framework where neurofeedback targets shared sensory dynamics (signal), socio-cognitive processes (functional), or social outcomes (system). We highlight key methodological challenges and potential real-world therapeutic and pedagogical applications.
 
 </details>
 
 ---
 
-## [Focal astrocyte Kir4.1 loss drives seizures, spreading depolarizations and postictal impairments](https://www.biorxiv.org/content/10.64898/2026.06.15.732359v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.68**  
-Published: 2026-06-19T00:00:00+00:00
-Tags: connectivity, neuroscience
+## [Higher-order thalamic bursts are drivers of attention control](https://www.cell.com/neuron/fulltext/S0896-6273(26)00417-4?rss=yes)
+*Neuron in press*  
+Score: **0.75**  
+Published: 2026-06-26T00:00:00+00:00
+Tags: connectivity, attention, cognitive neuroscience
 
-While this paper addresses astrocytic function in seizures, it indirectly relates to network organization given its implications for brain function and connectivity.
+This paper examines thalamic activity in cognition, fitting into the theme of functional connectivity and individual differences in attentional processes.
 
 <details>
 <summary>RSS summary</summary>
 
-Astrocytic dysfunction is increasingly recognised as an important contributor to epileptogenesis and seizure dynamics. Kir4.1 potassium channels expressed in astrocytes play a critical role in activity-dependent extracellular potassium buffering, and their loss may impair network stability and promote pathological hyperexcitability. In epilepsy, seizures can be accompanied by spreading depolarizations (SDs), propagating waves of neuronal and glial depolarization. While seizure-associated SDs hav…
+Higher-order thalamic nuclei are critical in cognition and generate spike sequences termed bursts. The role of bursts in cognition is unknown. We found that pulvinar bursts are attention-modulated, predict behavior, and influence the cortex. Pulvinar electrical microstimulation triggered bursts that enhanced target detection, revealing mechanistic thalamic control over the cortex and behavior.
 
 </details>
 
 ---
 
-## [Decoding Chronic Pain States from Distributed Intracranial Recordings](https://www.biorxiv.org/content/10.64898/2026.06.16.732555v1?rss=1)
-*bioRxiv neuroscience*  
+## [Conditioned accumbal dopamine transients forecast individual preference for drug versus natural rewards and compulsive behavior](https://www.nature.com/articles/s41593-026-02331-y)
+*Nature Neuroscience*  
+Score: **0.70**  
+Published: 2026-06-26T00:00:00+00:00
+Tags: reward, dopamine, behavior, cognitive neuroscience
+
+This study explores the neural mechanisms of reward processing, focusing on individual differences, which can be relevant in understanding cognitive neuroscience, although it is more behaviorally oriented.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 26 June 2026; <a href="https://www.nature.com/articles/s41593-026-02331-y">doi:10.1038/s41593-026-02331-y</a></p>Pascoli et al. show that nucleus accumbens dopamine transients evoked by reward-predictive cues encode subjective reward value in mice, predicting individual preference for drugs over natural rewards and forecasting vulnerability to compulsive drug-seeking behavior.
+
+</details>
+
+---
+
+## [Disinformation elicits learning biases](https://elifesciences.org/articles/106073)
+*eLife neuroscience*  
+Score: **0.65**  
+Published: 2026-06-26T00:00:00+00:00
+Tags: memory, cognitive biases, learning
+
+This study explores learning processes potentially connected to cognitive biases and memory retrieval, appealing to user’s interests in memory-related cognition.
+
+<details>
+<summary>RSS summary</summary>
+
+In open societies, disinformation is often considered a threat to the very fabric of democracy. However, we know little about how disinformation exerts its impact, especially its influence on individual learning processes. Guided by the notion that disinformation exerts its pernicious effects by capitalizing on learning biases, we ask which aspects of learning from potential disinformation align with ideal ‘Bayesian’ principles, and which exhibit biases deviating from these standards. To this en…
+
+</details>
+
+---
+
+## [Frequency-dependent modulation of foveal contrast sensitivity by fine-scale exogenously triggered attention](https://elifesciences.org/articles/108788)
+*eLife neuroscience*  
+Score: **0.60**  
+Published: 2026-06-29T00:00:00+00:00
+Tags: attention, imagery, neuroimaging
+
+The study investigates mechanisms of attention that enhance visual sensitivity, related to perceptual processes, which touch upon mental imagery concepts.
+
+<details>
+<summary>RSS summary</summary>
+
+Exogenous attention is a rapid, involuntary mechanism that automatically reallocates processing resources toward salient stimuli. It enhances visual sensitivity in the vicinity of the salient stimulus, both in extrafoveal regions and within the high-acuity foveola. While the spatial frequencies (SFs) modulated by exogenous attention in extrafoveal vision are well characterized, it remains unknown how this mechanism operates within the foveola, which can resolve SFs up to 30 cycles per degree (CP…
+
+</details>
+
+---
+
+## [A multimodal instruction dataset and benchmark for ultrasound understanding](https://www.nature.com/articles/s41746-026-02930-w)
+*npj Digital Medicine*  
+Score: **0.55**  
+Published: 2026-06-26T00:00:00+00:00
+Tags: methods, learning, education
+
+This paper relates to methods in cognitive training, although not directly tied to user interests, it discusses instructional methodologies which may enhance cognitive learning.
+
+<details>
+<summary>RSS summary</summary>
+
+This quality improvement study examines the delivery of long-acting antiretroviral therapy for HIV in the flexible care setting of a drop-in clinic serving people experiencing homelessness.
+
+</details>
+
+---
+
+## [Noninvasive decoding of typed sentences from human brain activity](https://www.nature.com/articles/s41593-026-02303-2)
+*Nature Neuroscience*  
+Score: **0.50**  
+Published: 2026-06-29T00:00:00+00:00
+Tags: neuroimaging, cognitive neuroscience, representation
+
+This paper focuses on decoding brain activity into readable text, showcasing advanced techniques in neuroimaging which could relate to cognitive representation.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 29 June 2026; <a href="https://www.nature.com/articles/s41593-026-02303-2">doi:10.1038/s41593-026-02303-2</a></p>Here the authors introduce Brain2Qwerty, a deep learning model that decodes typed sentences from non-invasive brain activity with character error rate down to 18%. This opens a pathway for non-invasive communication neuroprostheses.
+
+</details>
+
+---
+
+## [The mitochondrial unfolded protein response in human microglia disrupts neuronal–glial communication and promotes senescence](https://www.nature.com/articles/s41593-026-02320-1)
+*Nature Neuroscience*  
+Score: **0.50**  
+Published: 2026-06-26T00:00:00+00:00
+Tags: microglia, aging, communication
+
+The study relates to microglial function and brain aging, which connects to neural connectivity but lacks direct relevance to imagery or memory systems.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 26 June 2026; <a href="https://www.nature.com/articles/s41593-026-02320-1">doi:10.1038/s41593-026-02320-1</a></p>Mitochondrial proteotoxic stress rewires methionine and lipid metabolism in human microglia, driving cellular senescence and disrupting neuronal–glial communication, revealing a mechanism linking mitochondrial dysfunction to brain aging and neurodegeneration.
+
+</details>
+
+---
+
+## [Interpretable abstractions of artificial neural networks predict behavior and neural activity during human information gathering](https://www.nature.com/articles/s41593-026-02342-9)
+*Nature Neuroscience*  
+Score: **0.50**  
+Published: 2026-06-26T00:00:00+00:00
+Tags: machine learning, neural activity
+
+While the paper discusses neural activity in the context of information gathering, it focuses on machine learning interpretations rather than cognitive neuroscience principles directly related to mental imagery or network connectivity.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 26 June 2026; <a href="https://www.nature.com/articles/s41593-026-02342-9">doi:10.1038/s41593-026-02342-9</a></p>D’Ambrogio et al. combine deep learning and symbolic regression to report an interpretable equation of how humans value information. The equation predicts choices and neural activity in anterior insula, cingulate cortex and midbrain nuclei.
+
+</details>
+
+---
+
+## [Adaptive deep brain stimulation in Parkinson disease: clinical implementation and outlook](https://www.nature.com/articles/s41582-026-01239-2)
+*Nature Reviews Neurology*  
 Score: **0.40**  
-Published: 2026-06-22T00:00:00+00:00
-Tags: neuroimaging, pain, individual differences
+Published: 2026-06-29T00:00:00+00:00
+Tags: neuroimaging, methods, deep brain stimulation
 
-While the study of neural signatures of chronic pain can illuminate individual differences in brain organization, it primarily focuses on clinical aspects rather than cognitive neuroscience themes.
+Discusses the application of deep brain stimulation, linking neurostimulation methods to practical neuroscience, but less focused on core user interests.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Reviews Neurology, Published online: 29 June 2026; <a href="https://www.nature.com/articles/s41582-026-01239-2">doi:10.1038/s41582-026-01239-2</a></p>Adaptive deep brain stimulation (DBS) promises to revolutionize the treatment of Parkinson disease with neuromodulation, and regulatory approval has enabled its use in clinical practice. This Clinical Outlook considers the principles behind adaptive DBS, current clinical recommendations and practical considerations in its implementation, …
+
+</details>
+
+---
+
+## [Striatal control of amygdalar acetylcholine release during salience-associated processing](https://www.nature.com/articles/s41593-026-02353-6)
+*Nature Neuroscience*  
+Score: **0.40**  
+Published: 2026-06-26T00:00:00+00:00
+Tags: salience, acetylcholine, cognitive processing
+
+The exploration of how salience processing is controlled provides interesting insights into cognitive mechanisms but does not directly address user-specific interests in imagery or memory systems.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 26 June 2026; <a href="https://www.nature.com/articles/s41593-026-02353-6">doi:10.1038/s41593-026-02353-6</a></p>Amygdalar acetylcholine signals dynamically represent salience. Chen et al. show that striatal D1 and D2 neurons oppositely control these signals via basal forebrain cholinergic pathways to shape salience-associated learning.
+
+</details>
 
 ---
