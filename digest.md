@@ -1,9 +1,9 @@
-# Weekly ToC Digest (week of 2026-07-06)
+# Weekly ToC Digest (week of 2026-07-13)
 
-The following articles have been triaged based on their relevance to the user's interests in cognitive neuroscience, mental imagery, functional connectivity, and memory-related processes. This week's items were triaged with a focus on relevant themes around memory, connectivity, and cognitive neuroscience. Few items directly matched the user's specific interests. No relevant papers specifically addressing the user's keywords or interests in cognitive neuroscience, neuroimaging, or related methods were identified this week. Most papers were outside the relevant domains. No relevant items found this week based on the provided interests and keywords.
+This week's items primarily focused on cognitive processes related to memory, working memory mechanisms, and the neurological implications of different types of memory tasks. The selected papers have been triaged based on relevance to cognitive neuroscience, particularly focusing on imagery, functional connectivity, memory systems, and neuroimaging methods. The following items have been scored based on the specified criteria related to mental imagery, functional connectivity, memory, and cognitive neuroscience methods. This week's entries mainly focused on various fields, with limited direct relevance to core neuroscience concerns such as functional and intrinsic connectivity, mental imagery, and episodic memory. Most entries either pertained to molecular biology or AI, which did not significantly address the central cognitive neuroscience themes the user is interested in.
 
-**Included:** 9 (score ≥ 0.35)  
-**Scored:** 12 total items
+**Included:** 21 (score ≥ 0.35)  
+**Scored:** 35 total items
 
 ---
 
@@ -11,9 +11,9 @@ The following articles have been triaged based on their relevance to the user's 
 *Journal of Cognitive Neuroscience*  
 Score: **1.00**  
 Published: 2026-08-01T00:00:00+00:00
-Tags: memory, hippocampus, connectivity
+Tags: memory, hippocampus, fMRI, connectivity
 
-This paper directly addresses episodic memory and the hippocampal processes involved in balancing episode-specific details with semantic details, which aligns perfectly with the user's focus on memory-related cognition and neural mechanisms.
+The study explicitly examines hippocampal reactivation and how it affects episodic memory by balancing detail and gist, which is directly relevant to topics of memory and cognitive processes.
 
 <details>
 <summary>RSS summary</summary>
@@ -24,18 +24,52 @@ This paper directly addresses episodic memory and the hippocampal processes invo
 
 ---
 
-## [The Role of Visual Imagery in Face Recognition and Confidence Revisited: New Evidence from Aphantasia, Sampling Context Effects, and a Meta-Analysis](https://www.biorxiv.org/content/10.64898/2026.07.01.734716v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.90**  
-Published: 2026-07-06T00:00:00+00:00
-Tags: imagery, cognition, face recognition
+## [Synergistic Short-Term Synaptic Plasticity Mechanisms for Working Memory](https://direct.mit.edu/jocn/article/38/8/1554/136624/Synergistic-Short-Term-Synaptic-Plasticity)
+*Journal of Cognitive Neuroscience*  
+Score: **0.80**  
+Published: 2026-08-01T00:00:00+00:00
+Tags: working memory, plasticity, cognitive neuroscience
 
-The focus on visual imagery, especially in the context of face recognition and differences such as aphantasia, provides strong relevance to the user's interest in mental imagery and perception.
+This paper deals with mechanisms supporting working memory encoding and is tied closely to internal cognitive processes, enhancing its relevance in understanding cognitive neuroscience.
 
 <details>
 <summary>RSS summary</summary>
 
-The absence of voluntary visual imagery, known as aphantasia, offers a unique lens into the role of visual imagery in visual memory processes such as face recognition. While aphantasics often report difficulties, behavioral differences in standard tasks have generally been small. One possibility is that the contribution of visual imagery becomes apparent only when face recognition is especially demanding. We compared age- and gender-matched aphantasics and typical imagers on the more challenging…
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Working memory (WM) is essential for almost every cognitive task. The neural and synaptic mechanisms supporting the rapid encoding and maintenance of memories in diverse tasks are the subject of an ongoing debate. The traditional view of WM as stationary persistent firing of selective neuronal populations has given room to newer ideas regarding mechanisms that support a more dynamic maintenance of multiple items. Various computat…
+
+</details>
+
+---
+
+## [Functional connectivity changes in obsessive-compulsive disorder following exposure and response prevention](https://www.nature.com/articles/s41398-026-04192-2)
+*Translational Psychiatry*  
+Score: **0.80**  
+Published: 2026-07-11T00:00:00+00:00
+Tags: connectivity, OCD, cognition, therapy
+
+This paper discusses changes in functional connectivity related to exposure therapy, linking it to cognitive changes and implications for understanding obsessions, relevant to cognitive neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 11 July 2026; <a href="https://www.nature.com/articles/s41398-026-04192-2">doi:10.1038/s41398-026-04192-2</a></p>Functional connectivity changes in obsessive-compulsive disorder following exposure and response prevention
+
+</details>
+
+---
+
+## [The combinatorial innexin code of heterochannel electrical synapses governs synaptic function and is maintained by distinct cellular mechanisms](https://www.pnas.org/doi/abs/10.1073/pnas.2602614123?af=R)
+*PNAS Neuroscience*  
+Score: **0.80**  
+Published: 2026-07-09T07:00:00+00:00
+Tags: connectivity, neuroimaging
+
+This paper delves into electrical synapses which could relate to functional connectivity, a key area of interest.
+
+<details>
+<summary>RSS summary</summary>
+
+Proceedings of the National Academy of Sciences, Volume 123, Issue 28, July 2026. <br />SignificanceThis study identifies previously uncharacterized organizational principles of electrical synapses, describes their functional significance, and elucidates mechanisms underlying their regulation and plasticity. Contrary to the prevailing ...
 
 </details>
 
@@ -43,11 +77,11 @@ The absence of voluntary visual imagery, known as aphantasia, offers a unique le
 
 ## [Endogenous Theta as a Function of Task Load and Working Memory Capacity: Revisiting the Role of Slower Frequencies in Theta–Gamma Coupling](https://direct.mit.edu/jocn/article/38/8/1589/136268/Endogenous-Theta-as-a-Function-of-Task-Load-and)
 *Journal of Cognitive Neuroscience*  
-Score: **0.80**  
+Score: **0.75**  
 Published: 2026-08-01T00:00:00+00:00
 Tags: working memory, connectivity, theta-gamma coupling
 
-This study explores the role of theta and gamma oscillations in working memory, which directly ties into functional connectivity and network organization, important aspects of the user's research focus.
+Researching theta-gamma coupling's implications in working memory retention connects directly to functional brain organization and cognitive performance.
 
 <details>
 <summary>RSS summary</summary>
@@ -58,86 +92,103 @@ This study explores the role of theta and gamma oscillations in working memory, 
 
 ---
 
-## [Metacontrol on Demand: Task-induced Shifts in Metacontrol States Reflected in Aperiodic Neural Activity](https://direct.mit.edu/jocn/article/38/8/1606/135532/Metacontrol-on-Demand-Task-induced-Shifts-in)
+## [Distinct Patterns of Directed Brain Connectivity in Focused Attention, Open Monitoring, and Loving Kindness Meditation: An Electroencephalographic Granger Causality Study with Long-term Meditators](https://direct.mit.edu/jocn/article/38/8/1527/136267/Distinct-Patterns-of-Directed-Brain-Connectivity)
 *Journal of Cognitive Neuroscience*  
-Score: **0.75**  
-Published: 2026-08-01T00:00:00+00:00
-Tags: cognitive flexibility, neural activity, metacontrol
-
-The paper discusses how task demands affect metacontrol states, relevant to cognitive flexibility and adaptability, which connects with the user's broader interests in cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Metacontrol refers to the dynamic regulation between persistence and flexibility, enabling adaptive behavior across varying task demand. This study investigated whether metacontrol states induced by two creativity tasks, Remote Associates Test to bias persistence and Alternate Uses Task to bias flexibility, would modulate behavioral and neural responses in a global/local perceptual task. We recorded EEG and analyzed aperiodic neu…
-
-</details>
-
----
-
-## [High-order brain interactions during ketamine-induced state changes: A functional marker of response in late-life treatment-resistant depression?](https://www.nature.com/articles/s41398-026-04212-1)
-*Translational Psychiatry*  
 Score: **0.70**  
-Published: 2026-07-04T00:00:00+00:00
-Tags: cognition, memory, connectivity, functional connectivity
+Published: 2026-08-01T00:00:00+00:00
+Tags: connectivity, meditation, attention
 
-This study examines high-order brain interactions, which could relate to neural mechanisms in cognition and memory, relevant to the user's focus.
+This study investigates brain connectivity patterns during meditation, which can tie into mental imagery and attentional processes, making it relevant for cognitive neuroscience.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>npj Digital Medicine, Published online: 04 July 2026; <a href="https://www.nature.com/articles/s41746-026-02959-x">doi:10.1038/s41746-026-02959-x</a></p>Conversational artificial intelligence for pre-procedural patient preparation: implementation, validation and patient satisfaction
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>The present study applied spectral Granger causality (GC) analysis to EEG recordings obtained during focused attention meditation (FAM), open monitoring meditation (OMM), and loving kindness meditation (LKM) in highly experienced meditators. The aim of the investigation was to characterize distinct connectivity signatures associated with each meditation style by examining the strength, frequency, and direction of interregional in…
 
 </details>
 
 ---
 
-## [Neural mechanisms of fear memory precision and generalization: from auditory cortex to amygdala](https://www.nature.com/articles/s41398-026-04249-2)
-*Translational Psychiatry*  
-Score: **0.65**  
-Published: 2026-07-04T00:00:00+00:00
-Tags: memory, neuroimaging, cognitive neuroscience
+## [FUNCTIONAL FRAGMENTATION AND STRUCTURAL DRIVERS OF THALAMO-CORTICAL CIRCUITS IN TEMPORAL LOBE EPILEPSY](https://www.biorxiv.org/content/10.64898/2026.07.07.737072v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.70**  
+Published: 2026-07-11T00:00:00
+Tags: connectivity, network, neuroimaging
 
-Focuses on memory mechanisms in the auditory cortex and amygdala, contributing to the understanding of memory-guided cognition and neural connectivity.
+This paper examines functional connectivity in temporal lobe epilepsy, a condition closely related to cognitive dysfunction, linking structural drivers to network laminations.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Translational Psychiatry, Published online: 04 July 2026; <a href="https://www.nature.com/articles/s41398-026-04249-2">doi:10.1038/s41398-026-04249-2</a></p>Neural mechanisms of fear memory precision and generalization: from auditory cortex to amygdala
+Objective. In temporal lobe epilepsy (TLE), the thalamus acts as a nexus in a pathophysiological network that implicates mesiotemporal, subcortical, and neocortical regions. Studying a large multimodal and multicentre dataset, we profiled thalamic, hippocampal, and neocortical functional connectivity (FC), assessed structural mediators, and examined clinical associations. Methods. We studied resting-state FC alongside structural and diffusion MRI data in 250 unilateral TLE patients and 259 healt…
 
 </details>
 
 ---
 
-## [Author Correction: A route for cerebrospinal fluid flow through leptomeningeal arterial–venous overlaps enables macromolecule and fluid shunting](https://www.nature.com/articles/s41593-026-02385-y)
-*Nature Neuroscience*  
-Score: **0.50**  
-Published: 2026-07-06T00:00:00+00:00
-Tags: cerebrospinal fluid, neuroscience
+## [Common and rare genetic variant associations with cognitive performance across development in British birth cohorts](https://www.nature.com/articles/s41562-026-02491-8)
+*Nature Human Behaviour*  
+Score: **0.70**  
+Published: 2026-07-10T00:00:00+00:00
+Tags: cognition, genetics, individual differences
 
-This correction might relate to broader implications for brain function and cerebrospinal fluid dynamics, even though it doesn't directly connect to cognitive mechanisms predicted by the user.
+This paper examines genetic associations with cognitive performance, which connects to cognitive neuroscience and individual differences in neuroimaging relevant to the user's focus.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 06 July 2026; <a href="https://www.nature.com/articles/s41593-026-02385-y">doi:10.1038/s41593-026-02385-y</a></p>Author Correction: A route for cerebrospinal fluid flow through leptomeningeal arterial–venous overlaps enables macromolecule and fluid shunting
+<p>Nature Human Behaviour, Published online: 10 July 2026; <a href="https://www.nature.com/articles/s41562-026-02491-8">doi:10.1038/s41562-026-02491-8</a></p>Associations between polygenic indices and cognitive ability in children increase with age while rare damaging variant associations attenuate, with differential effects across the cognitive ability distribution.
 
 </details>
 
 ---
 
-## [An open dataset of cerebral tau deposition in young healthy adults based on [18F]MK6240 positron emission tomography](https://www.nature.com/articles/s41597-026-07656-8)
-*Scientific Data*  
-Score: **0.50**  
-Published: 2026-07-04T00:00:00+00:00
-Tags: neuroimaging, tau, individual differences
+## [Spatial Grouping Modulates the Link between Individual Alpha Frequency and Temporal Integration Windows in Crowding](https://direct.mit.edu/jocn/article/38/8/1501/136405/Spatial-Grouping-Modulates-the-Link-between)
+*Journal of Cognitive Neuroscience*  
+Score: **0.60**  
+Published: 2026-08-01T00:00:00+00:00
+Tags: visual perception, alpha frequency, cognitive neuroscience
 
-The dataset's focus on tau deposition links to cognitive declines and could inform on individual differences in neuroimaging.
+The research connects alpha frequency with visual processing and perception, which relates indirectly to cognitive neuroscience but lacks the depth in connectivity or memory.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Scientific Data, Published online: 04 July 2026; <a href="https://www.nature.com/articles/s41597-026-07658-6">doi:10.1038/s41597-026-07658-6</a></p>GLORIF1, a global river flow dataset created by integrating process-based modelling and machine learning
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Previous research has linked endogenous alpha oscillations (∼7–13 Hz) to temporal integration windows in visual perception, with higher individual alpha frequency predicting improved temporal segregation. Here, we investigated whether alpha-rhythmic temporal integration is a factor in visual crowding and whether this relationship is mediated by spatial grouping mechanisms. Forty-seven participants performed a Vernier discriminati…
+
+</details>
+
+---
+
+## [Comparing Harmonization Approaches for Protocol-Related Variability in Multisite Diffusion MRI Data](https://www.biorxiv.org/content/10.64898/2026.07.07.737018v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.60**  
+Published: 2026-07-11T00:00:00
+Tags: methods, neuroimaging, precision imaging
+
+The study addresses methodological issues important for neuroimaging, optimizing harmonization across multisite data crucial for precision functional mapping.
+
+<details>
+<summary>RSS summary</summary>
+
+Diffusion MRI (dMRI) enables assessment of white matter microstructural abnormalities in Alzheimer's disease (AD), and multisite datasets enable more robust modeling of non-biological variation that can confound analyses. The Alzheimer's Disease Neuroimaging Initiative (ADNI) includes over 10 dMRI protocols, necessitating robust methods to model protocol-related variability when pooling data. Here, we compared three harmonization approaches: (1) mixed-effects models, (2) ComBat-GAM, and (3) eHar…
+
+</details>
+
+---
+
+## [Neural circuits for valence updating in social memory](https://www.science.org/doi/abs/10.1126/science.adx8231?af=R)
+*Science*  
+Score: **0.60**  
+Published: 2026-07-09T07:00:00+00:00
+Tags: memory, neuroimaging, cognition
+
+Explores neural circuits linked to memory, specifically social memory, which intersects with cognitive neuroscience themes.
+
+<details>
+<summary>RSS summary</summary>
+
+Science, Volume 393, Issue 6807, July 2026. <br />
 
 </details>
 
@@ -145,16 +196,169 @@ The dataset's focus on tau deposition links to cognitive declines and could info
 
 ## [Neural Correlates of Local and Global Prediction Errors Show Similar Linear Age-related Decline But Differential Associations with Working Memory](https://direct.mit.edu/jocn/article/38/8/1576/135928/Neural-Correlates-of-Local-and-Global-Prediction)
 *Journal of Cognitive Neuroscience*  
-Score: **0.40**  
+Score: **0.50**  
 Published: 2026-08-01T00:00:00+00:00
-Tags: prediction error, working memory, age-related processes
+Tags: prediction errors, cognitive aging, working memory
 
-The exploration of prediction errors and working memory ties into cognitive processes but lacks a focus on mental imagery or intrinsic connectivity, hence a lower relevance score.
+Exploring age-related declines in prediction error processing ties into cognitive aging and could indirectly influence memory-related cognitive neuroscience perspectives.
 
 <details>
 <summary>RSS summary</summary>
 
 <span class="paragraphSection"><div class="boxTitle">Abstract</div>Senescence is accompanied by decreased weighting of sensory inputs and increased reliance on predictions, resulting in the attenuation of prediction errors in older age. However, little is known about how the attenuation develops across adulthood. To delineate the age-related trajectory of the attenuation of hierarchical predictive processing, here, we recorded electroencephalography from a cohort of 406 healthy participants (146…
+
+</details>
+
+---
+
+## [Encoding and Retrieval in Parallel: ERP Correlates of Continuous Recognition Memory for Natural Scenes](https://www.biorxiv.org/content/10.64898/2026.07.07.736108v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.50**  
+Published: 2026-07-11T00:00:00
+Tags: memory, cognition, ERP
+
+This paper explores dual processes in memory encoding and retrieval, relevant to episodic memory and cognitive representation across natural scenes.
+
+<details>
+<summary>RSS summary</summary>
+
+Human long-term memory for visual scenes is remarkably robust, yet the neural mechanisms supporting memory encoding and retrieval remain poorly understood when both processes must operate at the same time. For instance, this might happen when we encounter a familiar place while simultaneously forming new memories of this encounter. We investigated electrophysiological correlates of visual recognition memory using a continuous recognition task (CRT), in which participants judged a continuous stre…
+
+</details>
+
+---
+
+## [Optimizing MR-based gaze-decoding for eyes-closed eye-tracking in fMRI](https://www.biorxiv.org/content/10.64898/2026.07.07.736972v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.50**  
+Published: 2026-07-11T00:00:00
+Tags: methods, neuroimaging, cognition
+
+The development of MR-based gaze tracking during eyes-closed states addresses key limitations in fMRI studies, improving methods for studying cognition.
+
+<details>
+<summary>RSS summary</summary>
+
+Eye movements provide valuable insights into human cognition and are a critical variable in numerous functional magnetic resonance imaging (fMRI) studies. Yet, when the eyes are closed, camera-based eye-tracking is unavailable, making studies of eyes-closed states challenging. Here, we address this gap through MR-based gaze decoding with DeepMReye, a deep learning framework for camera-free reconstruction of gaze behavior from the MR-signal of the eyes. We first show that fine-tuning DeepMReye us…
+
+</details>
+
+---
+
+## [Top-down influences on neural music processing: preference, enjoyment and familiarity influence neural tracking and brain rhythms differently](https://www.biorxiv.org/content/10.64898/2026.07.10.737714v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.50**  
+Published: 2026-07-11T00:00:00
+Tags: cognition, music, neural dynamics
+
+Investigating the neural basis of music processing provides insights into cognitive architectures, potentially tying music perception to emotional and memory systems.
+
+<details>
+<summary>RSS summary</summary>
+
+Music enjoyment and familiarity are closely related but often confounded in studies of neural music processing. Here, we investigated their distinct contributions to cortical oscillatory activity and neural tracking of music using electroencephalography (EEG). Thirty-two participants listened to self-selected all-time favourite songs, recent favourite songs, and tempo-matched songs from disliked genres. This novel paradigm dissociated familiarity from enjoyment by including highly enjoyed songs …
+
+</details>
+
+---
+
+## [Galectin-3 drives tau-associated neuroinflammation, white matter degeneration and proteomic dysregulation](https://www.biorxiv.org/content/10.64898/2026.07.07.736964v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.50**  
+Published: 2026-07-10T00:00:00+00:00
+Tags: neuroinflammation, tau pathology, cognition
+
+While focused on molecular mechanisms, this paper discusses tau pathology which may link to cognitive decline and neuroimaging work surrounding neuroinflammation, though it is primarily molecular.
+
+<details>
+<summary>RSS summary</summary>
+
+Tau pathology is a central driver of neurodegeneration, yet the molecular mechanisms linking tau accumulation to neuroinflammation, metabolic failure, and white matter degeneration remain incompletely understood. Galectin-3 (Gal3) is an inflammation-associated lectin expressed by activated microglia and has been implicated in neurodegenerative disease progression. Here, we investigated whether Gal3 modulates tau-driven pathology across cellular, molecular, and systems levels. Using the P301S tau…
+
+</details>
+
+---
+
+## [Aberrant recovery of timescale-aligned amplitude balance links to symptoms and cognition in schizophrenia](https://www.nature.com/articles/s41398-026-04278-x)
+*Translational Psychiatry*  
+Score: **0.50**  
+Published: 2026-07-10T00:00:00+00:00
+Tags: cognition, mental health
+
+While focused on schizophrenia, the linkage between amplitude balance and cognition may provide insights into cognitive neuroscience frameworks.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 10 July 2026; <a href="https://www.nature.com/articles/s41398-026-04278-x">doi:10.1038/s41398-026-04278-x</a></p>Aberrant recovery of timescale-aligned amplitude balance links to symptoms and cognition in schizophrenia
+
+</details>
+
+---
+
+## [Human Gaze Behaviors Track Abstract Stimulus Categories](https://direct.mit.edu/jocn/article/38/8/1513/135929/Human-Gaze-Behaviors-Track-Abstract-Stimulus)
+*Journal of Cognitive Neuroscience*  
+Score: **0.40**  
+Published: 2026-08-01T00:00:00+00:00
+Tags: visual cognition, gaze behavior, cognitive neuroscience
+
+Although tracking gaze behaviors can inform on perception and cognitive processes, it falls short of directly addressing neuroimaging or memory systems in the context of the user’s interests.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Categorization, or the ability to group stimuli according to behavioral relevance, is a cornerstone of abstract cognition. Neurophysiological studies in nonhuman primates have revealed that category-selective signals are robustly encoded in oculomotor structures, including the lateral intraparietal area and superior colliculus, and that this encoding produces small, uninstructed eye movements that reflect learned category distinc…
+
+</details>
+
+---
+
+## [Simple Geometric Recentering Rivals Deep Sequence Models for Cross-Session EEG Motor-Imagery Decoding](https://www.biorxiv.org/content/10.64898/2026.07.07.736991v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.40**  
+Published: 2026-07-11T00:00:00
+Tags: imagery, EEG, motor
+
+This comparative study on motor-imagery decoding could contribute valuable insights on the relationship between imagery and motor processes in the brain.
+
+<details>
+<summary>RSS summary</summary>
+
+A large and growing body of work applies increasingly complex deep architectures to EEG motor-imagery (MI) decoding, yet rarely tests whether that complexity is justified against a strong, simple geometric baseline under identical conditions. We report a controlled benchmark across eight public MI datasets (3-128 channels, 2-3 classes, single- and multi-session) that holds the feature representation fixed and varies only the decoder. The central method - a compact tangent-space pipeline on the S…
+
+</details>
+
+---
+
+## [From heterogeneity to translation: data‑driven subtyping of autism in a multilevel framework](https://www.nature.com/articles/s41398-026-04243-8)
+*Translational Psychiatry*  
+Score: **0.40**  
+Published: 2026-07-11T00:00:00+00:00
+Tags: autism, individual differences, data-driven
+
+The focus on data-driven subtyping in autism could relate to individual differences in brain organization but lacks a direct connection to neuroimaging or cognitive neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 11 July 2026; <a href="https://www.nature.com/articles/s41398-026-04243-8">doi:10.1038/s41398-026-04243-8</a></p>From heterogeneity to translation: data‑driven subtyping of autism in a multilevel framework
+
+</details>
+
+---
+
+## [Reward pursuit during a translational reward task correlates with anhedonia reductions following rTMS in patients with major depressive disorder](https://www.nature.com/articles/s41398-026-04248-3)
+*Translational Psychiatry*  
+Score: **0.40**  
+Published: 2026-07-10T00:00:00+00:00
+Tags: cognition, depression, neuroimaging
+
+Touches on reward systems in depression, relevant to cognitive functions but lacks strong ties to imaging techniques or deeper neural mechanisms.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 10 July 2026; <a href="https://www.nature.com/articles/s41398-026-04248-3">doi:10.1038/s41398-026-04248-3</a></p>Reward pursuit during a translational reward task correlates with anhedonia reductions following rTMS in patients with major depressive disorder
 
 </details>
 
