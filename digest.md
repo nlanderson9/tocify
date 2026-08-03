@@ -1,9 +1,26 @@
-# Weekly ToC Digest (week of 2026-07-27)
+# Weekly ToC Digest (week of 2026-08-03)
 
-Reviewed papers from cognitive neuroscience focusing on mental imagery, functional connectivity, and memory-related cognition. This week's submissions primarily focus on cognitive functions, neural connections, and neuroscience methods, with one item showing interest in episode memory. Most items do not align closely with the user's specified interests in neuroimaging, but several relevant articles stand out. The selected papers focus on cognitive neuroscience, particularly mental imagery, functional connectivity, and memory-related cognition. There are few relevant items this week, with most focusing on methodological advancements in cognitive science and cognitive neuroscience applications. No papers directly relevant to the user's stated interests in mental imagery, connectivity, or cognitive neuroscience were found this week.
+Focused primarily on topics relating to cognitive neuroscience, particularly mental imagery, connectivity, and episodic memory. Papers relevant to cognitive neuroscience were prioritized, focusing largely on mental imagery, functional connectivity, and memory-related cognition. Papers primarily related to molecular biology or clinical findings with limited cognitive relevance have been downweighted. This week's RSS feed primarily features studies lacking direct relevance to the user's interests in cognitive neuroscience, neuroimaging, and memory. A few items on functional neural circuits and individual differences in cognitive profiles stand out, with one paper on Long COVID showing potential ties to neurocognitive deficits. No relevant items based on specified interests.
 
-**Included:** 15 (score ≥ 0.35)  
-**Scored:** 20 total items
+**Included:** 14 (score ≥ 0.35)  
+**Scored:** 19 total items
+
+---
+
+## [Spatiotemporal coordination of specialized cerebellar networks supports episodic memory in older adults](https://www.biorxiv.org/content/10.64898/2026.08.03.742395v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **1.00**  
+Published: 2026-08-03T00:00:00+00:00
+Tags: memory, connectivity, episodic memory, cerebellum, fMRI
+
+This paper investigates the cerebellar network's role in episodic memory, a topic of significant relevance. It links specialized neuroanatomical circuits to cognitive functions, aligning with your interests in memory and connectivity.
+
+<details>
+<summary>RSS summary</summary>
+
+Episodic memory decline in ageing is typically attributed to the cortico hippocampal system, yet the cerebellar specific contribution via cerebellar-cerebral circuits remains underexplored. We analysed task based fMRI data from 821 older adults, including a longitudinal subset of 78 participants followed for four years. Using sparse dictionary learning on task-responsive activity, we identified three non motor networks: a bilateral lobule VI/Crus I mnemonic monitoring network, a right lobule Cru…
+
+</details>
 
 ---
 
@@ -11,9 +28,9 @@ Reviewed papers from cognitive neuroscience focusing on mental imagery, function
 *Journal of Cognitive Neuroscience*  
 Score: **1.00**  
 Published: 2026-08-01T00:00:00+00:00
-Tags: memory, hippocampus, fMRI, cognition
+Tags: memory, hippocampus, connectivity, neuroscience
 
-This paper investigates the hippocampal mechanisms behind the trade-off between episodic detail and semantic gist, directly connecting to memory-guided cognition and functional brain organization.
+This paper investigates how hippocampal reactivation balances episodic details and gist in memory, essential for understanding episodic memory and cognitive representation.
 
 <details>
 <summary>RSS summary</summary>
@@ -24,171 +41,18 @@ This paper investigates the hippocampal mechanisms behind the trade-off between 
 
 ---
 
-## [Endogenous Theta as a Function of Task Load and Working Memory Capacity: Revisiting the Role of Slower Frequencies in Theta–Gamma Coupling](https://direct.mit.edu/jocn/article/38/8/1589/136268/Endogenous-Theta-as-a-Function-of-Task-Load-and)
-*Journal of Cognitive Neuroscience*  
-Score: **0.85**  
-Published: 2026-08-01T00:00:00+00:00
-Tags: working memory, function connectivity, cognition, EEG
+## [Probing inter-areal computations with a two-photon holographic mesoscope](https://www.nature.com/articles/s41593-026-02350-9)
+*Nature Neuroscience*  
+Score: **0.90**  
+Published: 2026-08-03T00:00:00+00:00
+Tags: connectivity, methods, network neuroscience
 
-This research explores theta-gamma coupling's role in working memory, effectively linking cognitive neuroscience and functional connectivity.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Recent findings have shown the influential role of theta–gamma cross-frequency coupling in the maintenance of items in working memory (WM). Specifically, it has been proposed that individual items are represented within gamma oscillations that are nested within slower theta waves. Thus, longer theta cycles would theoretically allow the retention of more items. On the basis of this theory, the present preregistered study aimed to …
-
-</details>
-
----
-
-## [Distinct Patterns of Directed Brain Connectivity in Focused Attention, Open Monitoring, and Loving Kindness Meditation: An Electroencephalographic Granger Causality Study with Long-term Meditators](https://direct.mit.edu/jocn/article/38/8/1527/136267/Distinct-Patterns-of-Directed-Brain-Connectivity)
-*Journal of Cognitive Neuroscience*  
-Score: **0.75**  
-Published: 2026-08-01T00:00:00+00:00
-Tags: connectivity, meditation, network neuroscience, EEG
-
-This study examines brain connectivity across meditation types, connecting to both cognitive states and network neuroscience, albeit less focused on imagery or memory.
+This methodological advancement allows high precision in measuring inter-areal brain activity, targeting functional connectivity and neuroanatomy.
 
 <details>
 <summary>RSS summary</summary>
 
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>The present study applied spectral Granger causality (GC) analysis to EEG recordings obtained during focused attention meditation (FAM), open monitoring meditation (OMM), and loving kindness meditation (LKM) in highly experienced meditators. The aim of the investigation was to characterize distinct connectivity signatures associated with each meditation style by examining the strength, frequency, and direction of interregional in…
-
-</details>
-
----
-
-## [When thinking gets stuck: rumination and cognitive disengagement in depression](https://www.nature.com/articles/s44220-026-00699-1)
-*Nature Mental Health*  
-Score: **0.70**  
-Published: 2026-07-27T00:00:00+00:00
-Tags: cognition, depression, mental imagery
-
-The paper discusses cognitive disengagement, relevant to how mental imagery can be affected by emotional states. It connects rumination processes to cognitive neuroscience, aligning with the user's interest.
-
-<details>
-<summary>RSS summary</summary>
-
-This post hoc analysis of the MINT randomized clinical trial estimates bayesian posterior risk differences and posterior probabilities that a liberal vs restrictive transfusion strategy is associated with reduced risk of 30-day death or myocardial infarction.
-
-</details>
-
----
-
-## [Comparing Nonlinear Trajectories Across Brain Networks: A Key to Understanding Complex Brain Dynamics](https://www.biorxiv.org/content/10.64898/2026.07.24.740420v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.65**  
-Published: 2026-07-26T00:00:00+00:00
-Tags: connectivity, network, development, neuroimaging
-
-This study analyzes developmental trajectories of brain networks using MRI scans, focusing on functional connectivity dynamics, directly relevant to individual-level brain organization.
-
-<details>
-<summary>RSS summary</summary>
-
-Cognitive Science, Volume 50, Issue 7, July 2026.
-
-</details>
-
----
-
-## [Neural manifold connectomics reveals multiregime functional connectivity](https://www.biorxiv.org/content/10.64898/2026.07.24.740595v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.60**  
-Published: 2026-07-26T00:00:00+00:00
-Tags: connectivity, methods, neuroimaging
-
-The article discusses advanced methods in measuring neural connectivity which aligns with the user's interest in methodological improvements in neuroimaging.
-
-<details>
-<summary>RSS summary</summary>
-
-Neural activity is organized in low-dimensional structure, yet functional connectivity in fMRI typically represents each brain parcel by a single voxel-averaged time series. This scalar representation makes whole-brain connectivity tractable but discards potentially informative dimensions of within-parcel BOLD activity. Here, we represent each parcel by a low-dimensional temporal subspace derived from its principal-component time series and use the RV coefficient to quantify connectivity between…
-
-</details>
-
----
-
-## [Hippocampus–Ventral Striatum Connectivity Is Associated With Binge Drinking Frequency in Adults](https://onlinelibrary.wiley.com/doi/10.1002/hipo.70113?af=R)
-*Hippocampus*  
-Score: **0.55**  
-Published: 2026-07-25T17:25:39+00:00
-Tags: connectivity, hippocampus, memory, cognition
-
-This paper explores functional connectivity involving the hippocampus, an area of interest for memory-related research and cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-This secondary analysis of a cross-sectional study of older adults examines cardiovascular disease risk factor trends in the US, England, and South Korea.
-
-</details>
-
----
-
-## [Human Gaze Behaviors Track Abstract Stimulus Categories](https://direct.mit.edu/jocn/article/38/8/1513/135929/Human-Gaze-Behaviors-Track-Abstract-Stimulus)
-*Journal of Cognitive Neuroscience*  
-Score: **0.50**  
-Published: 2026-08-01T00:00:00+00:00
-Tags: cognition, gaze, visual perception
-
-Focuses on categorization and gaze tracking, relevant to cognition but not strongly tied to neuroimaging or individual differences.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Categorization, or the ability to group stimuli according to behavioral relevance, is a cornerstone of abstract cognition. Neurophysiological studies in nonhuman primates have revealed that category-selective signals are robustly encoded in oculomotor structures, including the lateral intraparietal area and superior colliculus, and that this encoding produces small, uninstructed eye movements that reflect learned category distinc…
-
-</details>
-
----
-
-## [Rule-dependent transformation of observed into self-actions in macaque ventral premotor cortex](https://www.biorxiv.org/content/10.64898/2026.07.24.740118v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.50**  
-Published: 2026-07-26T00:00:00+00:00
-Tags: action, premotor cortex, network
-
-This study touches on the functional features of premotor cortex in action representation, connecting to higher cognitive processes within a network context.
-
-<details>
-<summary>RSS summary</summary>
-
-The ventral premotor cortex (PMv) has been implicated in both action selection and the perception of observed actions, but it remains unclear whether PMv activity during action observation reflects the observed action itself, or variables related to the observer's own action when the observed action becomes behaviourally relevant. Here, we recorded neural activity in macaque PMv during a task that dissociated observed action, rule context, and the subsequently selected self-action. Population ac…
-
-</details>
-
----
-
-## [VAMP7-dependent mitochondria–lysosome contacts contribute to glial mitochondrial dynamics and dopaminergic neuron survival](https://www.pnas.org/doi/abs/10.1073/pnas.2603069123?af=R)
-*Proceedings of the National Academy of Sciences*  
-Score: **0.50**  
-Published: 2026-07-24T07:00:00+00:00
-Tags: neurodegeneration, connectivity, individual differences
-
-This paper touches on mitochondrial dynamics relevant to neurodegenerative diseases, potentially informing individual differences in brain organization, though it is not primarily focused on cognitive measures.
-
-<details>
-<summary>RSS summary</summary>
-
-Proceedings of the National Academy of Sciences, Volume 123, Issue 30, July 2026. <br />SignificanceMitochondrial dysfunction is a central feature of neurodegenerative diseases, yet research has largely focused on neurons, leaving the contribution of glial cells poorly understood. We identify the SNARE protein VAMP7 as a critical regulator ...
-
-</details>
-
----
-
-## [For this week's updates on the cognitive neuroscience research landscape, covering recent papers from a variety of fields, let’s reflect on cutting-edge methodologies, behavioral insights, and significant interconnections between cognition and the underlying neural architecture. Stay tuned!]()
-*N/A*  
-Score: **0.45**  
-Published: 2026-07-27T00:00:00+00:00
-Tags: cognition, methods, updates
-
-While not a specific paper, the commentary provides an overview of emerging methodologies that could influence current research directions in cognitive neuroscience, although it lacks depth in specific findings.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Nature Mental Health, Published online: 27 July 2026; <a href="https://www.nature.com/articles/s44220-026-00699-1">doi:10.1038/s44220-026-00699-1</a></p>Depression can leave people feeling mentally ‘stuck’ in recurring negative thoughts, even when structured tests do not fully capture the problem. Using Munch’s Melancholy as a visual entry point, we argue that difficulty disengaging and working-memory discarding may sustain rumination, and that assessment should better capture these processes…
+<p>Nature Neuroscience, Published online: 03 August 2026; <a href="https://www.nature.com/articles/s41593-026-02350-9">doi:10.1038/s41593-026-02350-9</a></p>The authors developed a new microscope that can measure and manipulate brain activity across multiple brain regions simultaneously with high precision, enabling scientists to study how spatially distributed brain circuits communicate and process information.
 
 </details>
 
@@ -196,11 +60,11 @@ While not a specific paper, the commentary provides an overview of emerging meth
 
 ## [Synergistic Short-Term Synaptic Plasticity Mechanisms for Working Memory](https://direct.mit.edu/jocn/article/38/8/1554/136624/Synergistic-Short-Term-Synaptic-Plasticity)
 *Journal of Cognitive Neuroscience*  
-Score: **0.40**  
+Score: **0.90**  
 Published: 2026-08-01T00:00:00+00:00
-Tags: working memory, plasticity, neurobiology
+Tags: memory, working memory, neuroplasticity
 
-While it pertains to working memory, it lacks a direct focus on functional imaging, which is key for the user's interests.
+The study focuses on mechanisms of working memory, which relates closely to cognitive neuroscience and memory systems.
 
 <details>
 <summary>RSS summary</summary>
@@ -211,35 +75,18 @@ While it pertains to working memory, it lacks a direct focus on functional imagi
 
 ---
 
-## [SFPQ dysregulation promotes TDP-43 pathology through a pathogenic feedback loop](https://www.biorxiv.org/content/10.64898/2026.07.22.740184v1?rss=1)
+## [The aging rhythm: spatio-temporal dynamics of resting alpha oscillations in young and older brains](https://www.biorxiv.org/content/10.64898/2026.07.30.741790v1?rss=1)
 *bioRxiv neuroscience*  
-Score: **0.40**  
-Published: 2026-07-25T00:00:00+00:00
-Tags: molecular, neurodegeneration, TDP-43
+Score: **0.80**  
+Published: 2026-08-03T00:00:00+00:00
+Tags: cognition, connectivity, aging, oscillations
 
-While this paper touches on neurodegenerative aspects, it primarily focuses on molecular mechanisms, which do not directly align with the user's neuroimaging interests.
-
-<details>
-<summary>RSS summary</summary>
-
-TDP-43 proteinopathies comprise a group of clinically distinct neurodegenerative disorders unified by common pathological changes in the RNA-binding protein TDP-43, including nuclear loss of function (LOF), cytoplasmic mislocalisation and aggregation. The presence of these hallmarks across diverse diseases, such as frontotemporal dementia (FTD), amyotrophic lateral sclerosis (ALS), alzheimers disease (AD) and Limbic-predominant Age-related TDP-43 Encephalopathy (LATE), suggests the involvement o…
-
-</details>
-
----
-
-## [Inference and Imagination](https://onlinelibrary.wiley.com/doi/10.1111/tops.70066?af=R)
-*Topics in Cognitive Science*  
-Score: **0.40**  
-Published: 2026-07-24T08:39:56+00:00
-Tags: imagery, cognition
-
-The title suggests an exploration of imagery and cognitive processes, aligning with user interests in cognitive neuroscience, though specifics on methodology or contribution are unclear from the title alone.
+This study examines how age affects brain oscillatory activity, which is crucial for understanding the neural basis of cognitive decline, connecting to your interests in intrinsic brain organization.
 
 <details>
 <summary>RSS summary</summary>
 
-Topics in Cognitive Science, Volume 18, Issue 3, July 2026.
+Aging is associated with substantial alterations in brain oscillatory activity, particularly within the alpha band (8 -12 Hz). Yet, little is known about how aging affects the spatial propagation of alpha oscillations across cortical networks. In addition, although previous EEG studies have consistently reported age-related slowing of alpha peak frequency and changes in alpha power, the interpretation of these findings remains debated because oscillatory measures are influenced by age-related mo…
 
 </details>
 
@@ -247,16 +94,152 @@ Topics in Cognitive Science, Volume 18, Issue 3, July 2026.
 
 ## [Spatial Grouping Modulates the Link between Individual Alpha Frequency and Temporal Integration Windows in Crowding](https://direct.mit.edu/jocn/article/38/8/1501/136405/Spatial-Grouping-Modulates-the-Link-between)
 *Journal of Cognitive Neuroscience*  
-Score: **0.35**  
+Score: **0.80**  
 Published: 2026-08-01T00:00:00+00:00
-Tags: alpha frequency, visual perception, cognition
+Tags: imagery, perception, cognitive neuroscience
 
-Explores alpha frequency in visual perception but is less relevant to core interests in memory or imagery.
+This paper explores the link between alpha rhythms and temporal integration in perception, touching on imagery and cognitive processes.
 
 <details>
 <summary>RSS summary</summary>
 
 <span class="paragraphSection"><div class="boxTitle">Abstract</div>Previous research has linked endogenous alpha oscillations (∼7–13 Hz) to temporal integration windows in visual perception, with higher individual alpha frequency predicting improved temporal segregation. Here, we investigated whether alpha-rhythmic temporal integration is a factor in visual crowding and whether this relationship is mediated by spatial grouping mechanisms. Forty-seven participants performed a Vernier discriminati…
+
+</details>
+
+---
+
+## [Endogenous Theta as a Function of Task Load and Working Memory Capacity: Revisiting the Role of Slower Frequencies in Theta–Gamma Coupling](https://direct.mit.edu/jocn/article/38/8/1589/136268/Endogenous-Theta-as-a-Function-of-Task-Load-and)
+*Journal of Cognitive Neuroscience*  
+Score: **0.80**  
+Published: 2026-08-01T00:00:00+00:00
+Tags: working memory, theta-gamma coupling, neuroimaging
+
+Examines theta-gamma coupling in working memory, relevant to cognitive processes and network dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Recent findings have shown the influential role of theta–gamma cross-frequency coupling in the maintenance of items in working memory (WM). Specifically, it has been proposed that individual items are represented within gamma oscillations that are nested within slower theta waves. Thus, longer theta cycles would theoretically allow the retention of more items. On the basis of this theory, the present preregistered study aimed to …
+
+</details>
+
+---
+
+## [Neuroanatomical subtypes of Long COVID reveal distinct cognitive profiles alongside longitudinal brain changes](https://www.biorxiv.org/content/10.64898/2026.07.30.741878v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.75**  
+Published: 2026-07-31T00:00:00Z
+Tags: cognition, neuroanatomy, individual differences
+
+This paper investigates cognitive deficits in Long COVID patients, linking neuroanatomical changes with cognitive impairments, which aligns with interests in individual-level brain organization.
+
+<details>
+<summary>RSS summary</summary>
+
+Background: Long COVID is characterized by persistent symptoms following SARS-CoV-2 infection, including cognitive deficits among its most disabling manifestations. However, their neurobiological basis is poorly understood. Previous neuroimaging studies reported structural brain alterations, but few have integrated cognitive assessment, network-based analyses, and longitudinal imaging to identify neurobiological subtypes. Methods: We studied 42 individuals with persistent post-COVID cognitive sy…
+
+</details>
+
+---
+
+## [Distinct Patterns of Directed Brain Connectivity in Focused Attention, Open Monitoring, and Loving Kindness Meditation: An Electroencephalographic Granger Causality Study with Long-term Meditators](https://direct.mit.edu/jocn/article/38/8/1527/136267/Distinct-Patterns-of-Directed-Brain-Connectivity)
+*Journal of Cognitive Neuroscience*  
+Score: **0.70**  
+Published: 2026-08-01T00:00:00+00:00
+Tags: connectivity, cognitive neuroscience, meditation
+
+Investigates brain connectivity during different meditation types, offering insights into cognitive control and network organization.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>The present study applied spectral Granger causality (GC) analysis to EEG recordings obtained during focused attention meditation (FAM), open monitoring meditation (OMM), and loving kindness meditation (LKM) in highly experienced meditators. The aim of the investigation was to characterize distinct connectivity signatures associated with each meditation style by examining the strength, frequency, and direction of interregional in…
+
+</details>
+
+---
+
+## [A neuroanatomical basis for co-occurring low attention and low reading ability](https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhag100/8748257?rss=1)
+*Cerebral Cortex*  
+Score: **0.65**  
+Published: 2026-07-31T00:00:00Z
+Tags: neuroanatomy, attention, reading ability, ADHD
+
+The study focuses on ADHD and dyslexia, highlighting neuroanatomical markers that could lend insight into cognitive profiles and brain organization.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Attention deficit hyperactivity disorder (ADHD) and dyslexia are two common disorders that can have devastating impacts on child development and occur together more often than one would expect by chance. Identifying imaging markers characteristic of a combined ADHD and dyslexia phenotype could improve our ability to diagnose these entities early and inform our understanding of the underlying disease processes. In this study, we s…
+
+</details>
+
+---
+
+## [AMYPAD-PNHS: A Pan-European, Multi-Site & Multimodal MRI Dataset of Older Adults Without Dementia](https://www.nature.com/articles/s41597-026-07988-5)
+*Scientific Data*  
+Score: **0.60**  
+Published: 2026-08-03T00:00:00+00:00
+Tags: MRI, connectivity, neuroimaging
+
+This dataset could facilitate future neuroimaging studies related to age and cognitive decline, relevant for understanding brain organization.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Scientific Data, Published online: 03 August 2026; <a href="https://www.nature.com/articles/s41597-026-07988-5">doi:10.1038/s41597-026-07988-5</a></p>AMYPAD-PNHS: A Pan-European, Multi-Site &amp; Multimodal MRI Dataset of Older Adults Without Dementia
+
+</details>
+
+---
+
+## [Demographically adjusted norms for a French-Quebec version of the face–name associative recognition test](https://academic.oup.com/acn/article/doi/10.1093/arclin/acag053/8748594?rss=1)
+*Archives of Clinical Neuropsychology*  
+Score: **0.55**  
+Published: 2026-07-31T00:00:00Z
+Tags: memory, recognition, episodic memory
+
+Establishing normative data for a recognition-based memory test preserves sensitivity to hippocampal processes, which relates to episodic memory interests.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div><div class="boxTitle">Objective</div>The Face–Name Associative Recognition Test (FNART) is a recognition-based measure of associative episodic memory designed to reduce retrieval demands while preserving sensitivity to hippocampal-dependent binding processes. The absence of normative data currently limits its clinical use. This study aimed to establish normative data for a Quebec French version (FNART-Q).<div class="boxTitle">Met…
+
+</details>
+
+---
+
+## [Comprehensive characterization of human color discrimination thresholds](https://elifesciences.org/articles/108943)
+*eLife neuroscience*  
+Score: **0.40**  
+Published: 2026-07-31T00:00:00Z
+Tags: perception, color discrimination
+
+While the paper discusses color discrimination, it lacks a clear neurophysiological focus that aligns with the user's research interests, though it touches upon perceptual aspects.
+
+<details>
+<summary>RSS summary</summary>
+
+Color discrimination thresholds—the smallest detectable color differences—provide a benchmark for models of color vision, enable quantitative evaluation of eye diseases, and inform the design of display technologies. Despite their importance, a comprehensive characterization of these thresholds has long been considered intractable due to the psychophysical curse of dimensionality. Here, we address this challenge using a novel semiparametric Wishart process psychophysical model (WPPM), which leve…
+
+</details>
+
+---
+
+## [Adgrd1 deficiency reveals increased hippocampal vulnerability and selective behavioral alterations in mice](https://www.biorxiv.org/content/10.64898/2026.07.28.741204v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.35**  
+Published: 2026-07-31T00:00:00Z
+Tags: hippocampus, behavior, genetics
+
+This study connects a genetic deficiency to behavioral alterations, hinting at implications for hippocampal functioning but lacks direct ties to cognitive neuroscience methods or theories.
+
+<details>
+<summary>RSS summary</summary>
+
+ADGRD1 (GPR133) is an orphan adhesion G protein-coupled receptor (aGPCR) that primarily signals through Gs to regulate intracellular cAMP levels and is increasingly recognized for its roles across multiple tissues, including the central nervous system. Its conserved expression in neural tissues, the presence of splice variants in the fetal brain, and its structural similarity to other aGPCRs all suggest that it might play important roles in the organization of neural circuits. Recent studies hav…
 
 </details>
 
