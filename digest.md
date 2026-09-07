@@ -1,265 +1,279 @@
-# Weekly ToC Digest (week of 2026-08-31)
+# Weekly ToC Digest (week of 2026-09-07)
 
-Highlighted papers focus on cognitive neuroscience related to memory, imagery, and functional connectivity, aligning closely with the user's interest in brain organization and cognitive processes. No highly relevant items were found related to mental imagery, functional connectivity, or neuroimaging methods based on user's interests. Most of the papers focused on health-related or molecular aspects, with no clear connections to cognitive neuroscience. This week's RSS items primarily consisted of broad medical topics or biological studies without significant relevance to cognitive neuroscience, mental imagery, and functional mapping. The following items are filtered based on their relevance to cognitive neuroscience, mental imagery, and neural connectivity, while minimizing emphasis on molecular or pharmaceutical studies not directly tied to cognitive topics.
+The following items are triaged based on their relevance to the user's interests in cognitive neuroscience, especially focusing on neural organization, memory, functional connectivity, and methodologies in imaging. This week's highlights prioritize studies focusing on functional brain organization, specifically targeting mental imagery, memory retrieval, and related neuroimaging techniques. No high-priority papers directly aligned with the user's interests were found this week. Most items are outside the specified domain of cognitive neuroscience, neuroimaging methods, or associated topics. No papers relevant to the specified interests were found this week, most items were outside the cognitive neuroscience domain.
 
 **Included:** 16 (score ≥ 0.35)  
-**Scored:** 20 total items
+**Scored:** 19 total items
 
 ---
 
-## [Theta oscillations tag episodic memories for sleep-dependent consolidation](https://journals.plosbiology/article?id=10.1371/journal.pbio.3003938)
-*PLOS Biology*  
-Score: **1.00**  
-Published: 2026-08-27T14:00:00+00:00
-Tags: memory, theta oscillations, EEG, cognition
-
-This paper discusses theta oscillations as a mechanism for tagging episodic memories, linking EEG data to memory consolidation during sleep, which is directly relevant to memory systems.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>by Dan Denis, Zhiyi Chen, Manroop Kaur, Benjamin Clayden, Thomas Schreiner, Scott A. Cairney</p> How does the brain select which experiences to consolidate into long-term memory? Numerous neurobiological frameworks suggest that certain memories are “tagged” at learning for consolidation during later sleep. However, experimental evidence of such a tagging mechanism in the human brain is lacking. Employing multivariate classification of human electroencephalography data, we reliably decoded bra…
-
-</details>
-
----
-
-## [Visual Perceptual Learning Enhances Functional Connectivity in Retinotopic Space](https://direct.mit.edu/jocn/article/38/9/1695/136687/Visual-Perceptual-Learning-Enhances-Functional)
-*Journal of Cognitive Neuroscience*  
-Score: **0.90**  
-Published: 2026-09-01T00:00:00+00:00
-Tags: connectivity, perceptual learning, fMRI
-
-This paper discusses perceptual learning and its impact on functional connectivity, closely related to user interests in brain network organization and cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Repeated exposure to perceptual tasks improves behavioral performance. Several neural mechanisms have been proposed to account for such perceptual learning. Computational modeling suggests that plasticity in the connectivity between cortical sites may be responsible, by increasing the fidelity with which task-relevant information is transmitted through sensory hierarchies. Here, we explore this theory in humans using fMRI, testin…
-
-</details>
-
----
-
-## [Single‐Unit Activity in the Human Medial Temporal Lobe Reflects Reduced Error Monitoring During Mind Wandering](https://onlinelibrary.wiley.com/doi/10.1002/hipo.70125?af=R)
-*Hippocampus*  
-Score: **0.90**  
-Published: 2026-08-27T09:48:08+00:00
-Tags: mind-wandering, medial temporal lobe, neuroimaging, memory
-
-This study examines neural activity in relation to mind wandering in the medial temporal lobe, connecting neural dynamics to cognitive introspection and memory processes.
-
-<details>
-<summary>RSS summary</summary>
-
-Hippocampus, Volume 36, Issue 5, September 2026.
-
-</details>
-
----
-
-## [Preserved anticorrelated brain networks and prognostic stratification after traumatic brain injury](https://www.pnas.org/doi/abs/10.1073/pnas.2605279123?af=R)
-*PNAS Neuroscience*  
-Score: **0.80**  
-Published: 2026-08-28T07:00:00+00:00
-Tags: connectivity, neuroscience, brain networks
-
-This study investigates brain network organization post-brain injury, closely relating to individual-level brain functional organization and connectivity.
-
-<details>
-<summary>RSS summary</summary>
-
-Proceedings of the National Academy of Sciences, Volume 123, Issue 36, September 2026. <br />
-
-</details>
-
----
-
-## [Neuronal selectivity and geometric alignment in the human hippocampus support abstract generalization](https://www.biorxiv.org/content/10.64898/2026.08.25.746980v1?rss=1)
+## [Hippocampal stimulation timed to memory reactivation shapes human sleep oscillatory dynamics and consolidation](https://www.biorxiv.org/content/10.64898/2026.09.02.748628v1?rss=1)
 *bioRxiv neuroscience*  
-Score: **0.80**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: hippocampus, neural selectivity, cognitive processes
+Score: **0.95**  
+Published: 2026-09-07T00:00:00+00:00
+Tags: memory, hippocampus, functional connectivity, fMRI
 
-The focus on how hippocampal neuronal selectivity contributes to abstract generalization connects directly to cognitive processes and neural architectures.
+This paper investigates hippocampal stimulation during sleep, linking memory reactivation with sleep dynamics, which closely relates to episodic memory and functional pathways in cognitive neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+Memory consolidation during sleep depends on the precisely timed coordination of hippocampal reactivation with cortical slow oscillations and spindles. In humans this coupling has been characterised correlationally, while causal investigations have required intracranial stimulation in restricted patient cohorts or used non-invasive approaches targeting cortical regions, often obscuring the underlying sleep rhythms. Here we stimulated the human hippocampus during sleep for the first time, applyin…
+
+</details>
 
 ---
 
-## [Hippocampal CA2 Inhibition Disrupts Prefrontal and Thalamic Connectivity](https://www.biorxiv.org/content/10.64898/2026.08.25.746953v1?rss=1)
+## [Distinct tuning properties of human hippocampal neurons along the longitudinal axis during working memory](https://www.biorxiv.org/content/10.64898/2026.09.03.749046v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.90**  
+Published: 2026-09-07T00:00:00+00:00
+Tags: hippocampus, memory, individual differences, functional architecture
+
+This study provides insights into the differential roles of hippocampal regions in working memory, directly relevant to individual-level brain organization and cognitive mappings.
+
+<details>
+<summary>RSS summary</summary>
+
+Working memory (WM) is among the most sophisticated and fundamental capabilities of the mammalian brain. While the roles of prefrontal and sensory areas are heavily explored, there is little knowledge on how the hippocampus (HPC) contributes to this process. Here, we studied human HPC neuronal activities during a verbal WM task and reveal that neurons in the posterior HPC (PH) show more robust rate-modulations during WM. On the other hand, anterior HPC (AH) neurons are more prominently modulated…
+
+</details>
+
+---
+
+## [Functional connectivity of the locus coeruleus in anxiety and posttraumatic stress disorder reveals convergent mapping to the cingulate cortex and insula using ultra-high field 7 Tesla MRI](https://www.nature.com/articles/s41398-026-04338-2)
+*Translational Psychiatry*  
+Score: **0.90**  
+Published: 2026-09-05T00:00:00+00:00
+Tags: connectivity, anxiety, PTSD, neuroimaging
+
+This paper examines connectivity across specific brain areas related to anxiety, which aligns with interests in functional connectivity and network organization.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 05 September 2026; <a href="https://www.nature.com/articles/s41398-026-04338-2">doi:10.1038/s41398-026-04338-2</a></p>Functional connectivity of the locus coeruleus in anxiety and posttraumatic stress disorder reveals convergent mapping to the cingulate cortex and insula using ultra-high field 7 Tesla MRI
+
+</details>
+
+---
+
+## [Ethical considerations for implantable human brain–computer interfaces](https://www.nature.com/articles/s41593-026-02447-1)
+*Nature Neuroscience*  
+Score: **0.80**  
+Published: 2026-09-07T00:00:00+00:00
+Tags: methods, neuroimaging, brain-computer interfaces
+
+This paper addresses ethical frameworks for brain-computer interfaces, highly relevant for discussions surrounding neuroimaging and emerging methodologies.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Neuroscience, Published online: 07 September 2026; <a href="https://www.nature.com/articles/s41593-026-02447-1">doi:10.1038/s41593-026-02447-1</a></p>Implanted brain–computer interfaces hold great promise for restoring communication and other functions and for revealing new aspects of human brain physiology. Yet as the number of implantations in humans expands, ethical clarity must keep pace with technical ambition. We propose that this should involve distinguishing research participat…
+
+</details>
+
+---
+
+## [Preserved intrinsic neural timescale organization with hierarchical variation in autism spectrum disorder](https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhag121/8787152?rss=1)
+*Cerebral Cortex*  
+Score: **0.75**  
+Published: 2026-09-07T00:00:00+00:00
+Tags: connectivity, individual differences, neuroscience
+
+The study explores intrinsic neural dynamics and individual differences in autism, relating to neural organization and connectivity principles.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Intrinsic neural timescales (INTs) index the temporal decay of neural activity and form a hierarchy from fast sensorimotor to slow transmodal regions. Although altered INTs have been reported in autism spectrum disorder (ASD), it remains unclear whether this hierarchical organization is preserved and how individual variability along it relates to sensory traits. Using resting-state fMRI from 182 participants (67 ASD, 115 typicall…
+
+</details>
+
+---
+
+## [Spatial navigation and the basal forebrain in Alzheimer’s disease and other neurodegenerative diseases](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(26)00165-7?rss=yes)
+*Trends in Neurosciences*  
+Score: **0.75**  
+Published: 2026-09-05T00:00:00+00:00
+Tags: Alzheimer's, spatial navigation, cognitive neuroscience
+
+This article discusses spatial navigation related to basal forebrain degeneration in Alzheimer's disease, tying into memory and cognitive neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+Neurodegenerative diseases such as Alzheimer’s disease (AD) and Lewy body disease (LBD) are frequently associated with spatial navigation impairments. However, these impairments are less pronounced in frontotemporal dementia and limbic-predominant age-related TDP-43 encephalopathy. While basal forebrain degeneration occurs in all of these diseases, disruption of cholinergic pathways and related cholinergic deficits has been primarily observed in AD and LBD, and in both of these conditions, basal…
+
+</details>
+
+---
+
+## [REM sleep prefrontal high-frequency oscillation chains mediate distinct cortical – hippocampal reactivation patterns compared to NREM sleep](https://elifesciences.org/articles/110795)
+*eLife neuroscience*  
+Score: **0.70**  
+Published: 2026-09-07T00:00:00+00:00
+Tags: memory, connectivity, REM sleep
+
+This research investigates the mechanisms underlying REM sleep and its effect on memory processes, linking memory reconsolidation with brain oscillatory dynamics.
+
+<details>
+<summary>RSS summary</summary>
+
+REM (rapid eye movement) and non-REM (NREM) sleep stages contribute to systems memory consolidation in hippocampal–cortical circuits. However, the physiological mechanisms underlying REM memory processes remain relatively unclear compared to NREM memory reactivation. Here we report, in rodents, the existence of prefrontal cortical (PFC) high-frequency oscillation (HFO) chains in REM sleep during the consolidation of recently acquired spatial memory. High-density tetrode recordings in hippocampal…
+
+</details>
+
+---
+
+## [Glucocorticoids impair memory inference through noradrenergic disruption of GABAergic regulation in hippocampal CA3](https://www.biorxiv.org/content/10.64898/2026.09.02.748771v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.70**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: connectivity, hippocampus, networks, functional imaging
+Published: 2026-09-06T00:00:00+00:00
+Tags: memory, hippocampus, GABA, stress
 
-This paper discusses the effects of hippocampal CA2 inhibition on connectivity with prefrontal and thalamic areas, which relates to functional connectivity and network organization.
+The focus on memory inference processes aligns with memory research interests while linking stress-induced mechanisms in the hippocampus.
 
 <details>
 <summary>RSS summary</summary>
 
-Disturbances in the CA2-subfield of the hippocampus have been associated with symptoms of psychiatric disorders, including impaired social behavior. Using chemogenetic inhibition during functional ultrasound imaging, we found that dorsal CA2 pyramidal neurons broadly control prefrontal and thalamic communication, in addition to hippocampal and thalamic activity. Correspondingly, chronic CA2 inhibition altered social interaction.
+The integration of separate memories sharing overlapping elements allows for inferring relationships between events that have never been experienced together. Recent findings indicate that stress impairs this process of mnemonic inference, which may have important implications for stress-related psychopathologies. However, the mechanisms underlying such impairments remain largely unknown. To elucidate the neuroendocrine mechanisms by which stress affects mnemonic inference, mice were first train…
 
 </details>
 
 ---
 
-## [Value-guided attention links what we learn to how much we learn](https://www.biorxiv.org/content/10.64898/2026.08.25.747046v1?rss=1)
+## [Cortical isolation separates rhythmic synchrony from network integration in the human neocortex.](https://www.biorxiv.org/content/10.64898/2026.09.02.748777v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.65**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: cognition, learning, neuroscience
+Published: 2026-09-06T00:00:00+00:00
+Tags: connectivity, neocortex, methods
 
-This paper discusses mechanisms of learning in uncertain environments, which may connect to individual differences in cognitive processing.
+This article explores the dynamics of network integration in the cortex, which is fundamental for understanding neural connectivity and organization.
 
 <details>
 <summary>RSS summary</summary>
 
-Learning in uncertain environments requires identifying the relevant associations between stimuli, actions, and outcomes and determining how strongly to update these associations. Although often treated separately, these components likely interact in the brain. We hypothesized that this interaction shapes individual learning rates according to cue-choice alignment and reward outcome, thereby improving discrimination between competing cues. We tested this hypothesis using a probabilistic learning…
+Human cortical activity reflects interactions between local recurrent circuits and distributed brain-wide inputs, but how these contributions shape cortical dynamics remains unclear. We compared oscillatory and single unit activity in laminar recordings from the same human cortical regions in eight patients across wakefulness, NREM sleep, and acute slices after surgical isolation. Gamma-band spike-field synchronization increased from wakefulness to sleep and isolated cortex, whereas population c…
 
 </details>
 
 ---
 
-## [Neural Sensitivity to Word Frequency Modulated by Morphological Structure: Univariate and Multivariate Functional Magnetic Resonance Imaging Evidence from Korean](https://direct.mit.edu/jocn/article/38/9/1843/136736/Neural-Sensitivity-to-Word-Frequency-Modulated-by)
-*Journal of Cognitive Neuroscience*  
-Score: **0.60**  
-Published: 2026-09-01T00:00:00+00:00
-Tags: neuroimaging, language processing, fMRI
+## [From feasibility to neuroanatomic validity of remote cognitive smartphone assessments in early Alzheimer’s disease](https://www.nature.com/articles/s41746-026-03108-0)
+*npj Digital Medicine*  
+Score: **0.65**  
+Published: 2026-09-05T00:00:00+00:00
+Tags: Alzheimer's, cognitive assessment, neuroimaging
 
-This paper addresses neural response to language processing, indicating insight into individual differences in processing mechanisms, relevant to cognitive neuroscience.
+This study touches on cognitive assessments in Alzheimer's, relevant for understanding individual-level brain organization and cognition.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>npj Digital Medicine, Published online: 05 September 2026; <a href="https://www.nature.com/articles/s41746-026-03108-0">doi:10.1038/s41746-026-03108-0</a></p>From feasibility to neuroanatomic validity of remote cognitive smartphone assessments in early Alzheimer’s disease
+
+</details>
 
 ---
 
-## [Heartbeat-Related Bodily Processing Shapes Transition Patterns in Self-Related Spontaneous Thought](https://www.biorxiv.org/content/10.64898/2026.08.25.747022v1?rss=1)
+## [Predation risk reweights reward preference through coordinated amygdala-prelimbic dynamics](https://www.biorxiv.org/content/10.64898/2026.09.02.748813v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.60**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: spontaneous thought, mental imagery, cognition
+Published: 2026-09-06T00:00:00+00:00
+Tags: amygdala, cognitive control, reward
 
-This study explores how bodily sensations influence spontaneous thought, suggesting links to intentionality and mental imagery.
+The study links amygdala function to behavioral decisions, reflecting on motivation-related neural mechanisms, which are vital for understanding internal representations.
 
 <details>
 <summary>RSS summary</summary>
 
-Spontaneous thought changes over time, yet the moment-to-moment factors shaping these changes remain poorly understood. We examined whether heartbeat-related bodily processing, operating largely outside explicit awareness, is associated with the organization of ongoing thought. Forty adults performed an auditory attention task with intermittent thought probes in which auditory events were scheduled either 200 ms after each detected R peak (synch condition) or independently of ongoing cardiac tim…
+A fundamental challenge for animals and humans is resolving competing survival demands under naturalistic threat, yet circuit-level mechanisms remain poorly understood. We developed a paradigm recapitulating a predator-prey encounter: Long-Evans rats emerged from a nest to forage in an open arena, choosing between preferred and standard reward locations while facing a robotic predator. We simultaneously recorded single-unit activity from the basolateral amygdala (BLA) and the prelimbic cortex (P…
 
 </details>
 
 ---
 
-## [An explainable AI latent space of brain dynamics reveals a cerebello-prefrontal signature of schizophrenia symptoms](https://www.biorxiv.org/content/10.64898/2026.08.25.746991v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.60**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: schizophrenia, brain dynamics, AI, neuroimaging
-
-The study investigates the dynamics of brain networks using AI, offering insights into individual-level brain dynamics linked to schizophrenia, relevant for neuroimaging methods.
-
-<details>
-<summary>RSS summary</summary>
-
-Schizophrenia presents with several partially independent symptom dimensions, including positive symptoms, negative symptoms, and cognitive impairment; yet no neuroimaging framework has provided individual-level markers of symptom severity that remain anatomically interpretable. Here, we present an interpretable AI-based framework that addresses this gap by mapping high-dimensional resting-state rs-fMRI dynamics onto a low-dimensional latent manifold using self-supervised contrastive learning wi…
-
-</details>
-
----
-
-## [Joint experience-dependent representations of odors and temporal context in the zebrafish homolog of piriform cortex](https://www.biorxiv.org/content/10.64898/2026.08.25.747023v1?rss=1)
+## [Computer vision-aided locomotor behavioral analysis identifies therapeutic motor signatures in a mouse model of Huntington disease](https://www.biorxiv.org/content/10.64898/2026.09.03.749147v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.55**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: neuroscience, olfaction, representational learning
+Published: 2026-09-07T00:00:00+00:00
+Tags: motor control, behavior, neurophysiology
 
-Investigating how olfactory experiences are encoded may connect to broader representations in cognitive neuroscience.
+This paper uses computer vision to analyze behavior in Huntington's disease, linking motor functionality to neurophysiological outcomes, relevant for cognitive assessments in pathology.
 
 <details>
 <summary>RSS summary</summary>
 
-Intelligent behavior requires experience-dependent internal representations of relevant information. We examined representational learning in telencephalic area pDp of adult zebrafish, the homolog of piriform cortex. Activity was measured by multiphoton imaging through a prism in head-fixed fish trained in an odor discrimination task. Population dynamics could be decomposed into independent modes, each consisting of distributed activity across mixed-selectivity neurons, that encoded odor identit…
+Huntington disease (HD) is a neurodegenerative disorder characterized by progressive motor dysfunction. Traditional open-field tests quantify spontaneous locomotor parameters; however, fine mouse motor signatures, particularly disease stage-specific changes in HD motor symptoms and pharmacodynamic responses to therapeutic treatments. Here, we employed a computer vision-aided behavioral flow analysis designed to quantify fine, HD-relevant motor dysfunction in the zQ175DN HD mouse model, ranging f…
 
 </details>
 
 ---
 
-## [Common Brain Network Dynamics Capture Attention Fluctuations in Tasks and Movies](https://direct.mit.edu/jocn/article/38/9/1708/136735/Common-Brain-Network-Dynamics-Capture-Attention)
-*Journal of Cognitive Neuroscience*  
+## [The Adhesion GPCR Flamingo-Like 1 (FMIL-1) Directs Synapse Formation in a Nociceptive Circuit](https://www.biorxiv.org/content/10.64898/2026.09.01.748526v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.55**  
+Published: 2026-09-06T00:00:00+00:00
+Tags: neuroscience, synapses, circuit organization
+
+Although it primarily deals with synapse formation, the implications for circuit organization may be relevant to network neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+The species-specific anatomy of nervous systems suggests that circuit architecture is largely encoded by genetic blueprints. In C. elegans, PVD nociceptive neurons synapse with PVC and AVA interneurons to drive escape responses to noxious stimuli. We used fluorescent markers for PVD synapses with PVC and AVA in a candidate screen to detect connectivity genes. This approach revealed that the LIM homeodomain transcription factor MEC-3 and its target, FMIL-1 (Flamingo-like), function in PVD to dire…
+
+</details>
+
+---
+
+## [Aging rises, yet the double burden of illness remains](https://www.nature.com/articles/s43587-026-01218-8)
+*Nature Aging*  
 Score: **0.50**  
-Published: 2026-09-01T00:00:00+00:00
-Tags: functional connectivity, attention, neuroscience methods
+Published: 2026-09-07T00:00:00+00:00
+Tags: aging, cognition
 
-The study explores functional brain reorganization and attention dynamics, introducing a methodology relevant for understanding cognitive processes.
+This article connects aging with health burdens but lacks a direct focus on neuroscience or the neural mechanisms involved, making it less relevant.
 
 <details>
 <summary>RSS summary</summary>
 
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Attentional states are highly dynamic and variable, fluctuating from moment to moment and showing stark differences across contexts. To what extent does functional brain reorganization capture variability in attentional states? In the present study, we utilize a time-resolved measure of fMRI connectivity to examine and compare the extent to which univariate activity and functional networks reflect second-to-second sustained atten…
+<p>Nature Aging, Published online: 07 September 2026; <a href="https://www.nature.com/articles/s43587-026-01218-8">doi:10.1038/s43587-026-01218-8</a></p>Ashwin and colleagues propose a statistical framing of the epidemiological transition that categorizes global diseases into four life-stages, identifying aging-related diseases as the dominant category. As aging-related diseases tend to cluster and span many years, health systems must pivot from treating disease to preserving health through inve…
 
 </details>
 
 ---
 
-## [Gradients of function between sensory drive and working memory in human frontal cortex](https://www.biorxiv.org/content/10.64898/2026.08.25.747005v1?rss=1)
+## [Seizures induce c-fos expression in a subset of astrocytes, termed fostrocytes, that dampen subsequent seizures](https://www.biorxiv.org/content/10.64898/2026.09.01.748637v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.50**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: working memory, sensory processing, cognitive neuroscience
+Published: 2026-09-05T00:00:00+00:00
+Tags: seizures, astrocytes, neuroscience
 
-This addresses interactions between sensory processing and working memory, important for cognitive architecture understanding.
+This paper addresses neuronal activation in the context of seizures but lacks a direct tie to cognitive networks or imagery.
 
 <details>
 <summary>RSS summary</summary>
 
-The coordination of sensory processing and working memory (WM) is fundamental to cognition. Spatial organization of sensory processing and WM is known to be broadly distributed across the cortex, but finer-scale organization at the interfaces between these functions remains understudied. Although the notion of sharp parcellations of cortex into distinct functional modules dominates the field, a growing body of works support graded changes in function and anatomy in some cortical zones. Based on …
+Objective: The original goal was to map neuronal circuits activated by spontaneous seizures in models of temporal lobe epilepsy. Studies used the c-fos driven TRAP2 system, which has been used successfully to label neurons after seizures. Unexpectedly, astrocytes were also labeled, then shown to express c-fos in a sustained manner after seizures. The role of these so-called fostrocytes in spontaneous seizures was studied using novel Cre-dependent AAVs. Methods: Studies used a homozygous mouse li…
 
 </details>
 
 ---
 
-## [Noradrenergic infraslow rhythm during sleep is the critical link between heart-rate dynamics and memory consolidation](https://elifesciences.org/articles/110252)
-*eLife neuroscience*  
-Score: **0.50**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: memory, sleep, neuroimaging
-
-This paper discusses how rhythmic brain activity during sleep influences memory consolidation, which is relevant to cognitive neuroscience and memory systems.
-
-<details>
-<summary>RSS summary</summary>
-
-Recent work shows that the brain’s arousal system remains active during sleep, with rhythmic locus coeruleus (LC) activity shaping sleep architecture and supporting memory consolidation. The LC releases norepinephrine (NE) in infraslow (~0.02 Hz) bouts that gate NREM sleep spindles. Here, we demonstrate that heart rate (HR) fluctuations during NREM are tightly phase-locked to these NE rhythms, identifying the LC as a key driver of very-low-frequency HR variability (VLF-HRV), an understudied auto…
-
-</details>
-
----
-
-## [Disentangling Uncertainty Signals in Neural Reward Dynamics](https://direct.mit.edu/jocn/article/38/9/1787/136404/Disentangling-Uncertainty-Signals-in-Neural-Reward)
-*Journal of Cognitive Neuroscience*  
+## [Beyond breathing: multimodal pathways connecting olfaction to autonomic nervous system modulation](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(26)00164-5?rss=yes)
+*Trends in Neurosciences*  
 Score: **0.40**  
-Published: 2026-09-01T00:00:00+00:00
-Tags: reward dynamics, decision-making, neuroscience
+Published: 2026-09-06T00:00:00+00:00
+Tags: olfaction, autonomic nervous system, neuroscience
 
-This research investigates reward dynamics under uncertainty, linking cognitive decision-making processes to neural mechanisms, important for cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Most decisions are made under uncertainty, which manifests in either risk (know probability) or ambiguity (unknown probability). However, it is not well understood how the two forms of uncertainty signal differ in value-based decision-making. This ERP study aimed to disentangle them by examining how their neural reward dynamics are influenced by individual attitudes and their derived subjective value (SV). Thirty-six participants…
-
-</details>
-
----
-
-## [Dynamic fMRI networks of human emotion](https://elifesciences.org/articles/106070)
-*eLife neuroscience*  
-Score: **0.40**  
-Published: 2026-08-28T00:00:00+00:00
-Tags: emotions, fMRI, connectivity
-
-The exploration of dynamic fMRI networks during emotional tasks could provide insights into the functional connectivity underlying emotional cognition.
+While it discusses sensory pathways, the focus is not closely related to memory systems or neuroimaging methods of interest.
 
 <details>
 <summary>RSS summary</summary>
 
-The experience of emotions is that of dynamic, time-changing processes. Yet, many functional MRI (fMRI) studies of emotion average across time to focus on maps of static activations, overlooking the temporal dimension of emotional responses. In this study, we used time-resolved fMRI, group spatial independent component analysis (ICA), dual regression, and Gaussian curve fitting to examine both the spatial and temporal properties of whole-brain networks during a behavioral task. This task include…
+The interaction between olfaction and respiration has recently emerged as a central aspect of brain–body interactions. To date, most studies in this context, both in rodents and humans, have focused on how respiratory airflow rhythmically drives brain activity. In this review, we shift the focus to the modulatory effects of odorant molecules, which engage chemical, affective, and trigeminal pathways to elicit integrated sensory experiences and robust autonomic responses. We synthesize recent fin…
 
 </details>
 
