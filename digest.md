@@ -1,19 +1,104 @@
-# Weekly ToC Digest (week of 2026-10-26)
+# Weekly ToC Digest (week of 2026-11-02)
 
-This week's triage highlights items focusing on cognitive neuroscience, particularly mental imagery, functional connectivity, and episodic memory. Methodological advancements that enhance neuroimaging techniques are also prioritized. Triage has been completed based on specified user interests, focusing on titles and topics relevant to cognitive neuroscience, mental imagery, memory systems, and functional connectivity. The selected articles were evaluated based on user interests in cognitive neuroscience, focusing on mental imagery, functional connectivity, episodic memory, and related methods. No relevant topics were identified from the RSS feed, resulting in a low scoring across all items.
+Triage of weekly journal items returned based on relevance to interests in cognitive neuroscience, functional connectivity, episodic memory, and neuroimaging methods. This week's items largely focused on various aspects of neuroscience, especially relevant to memory, cognitive processes, and functional connectivity, providing some promising leads for further exploration. No directly relevant items found for the user's specified interests in cognitive neuroscience and related fields. All reviewed papers were down-weighted due to their lack of connection to mental imagery, functional connectivity, episodic memory, or neuroimaging methods. No relevant articles aligned with user interests.
 
-**Included:** 17 (score ≥ 0.35)  
-**Scored:** 30 total items
+**Included:** 13 (score ≥ 0.35)  
+**Scored:** 20 total items
+
+---
+
+## [In-vivo MRI of noradrenergic and dopaminergic nuclei predicts future cognition and Alzheimers disease progression](https://www.biorxiv.org/content/10.64898/2026.10.29.762942v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **1.00**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: connectivity, cognition, neuroimaging, Alzheimer's, functional mapping
+
+This study connects MRI measures of noradrenergic and dopaminergic nuclei to cognition and Alzheimer’s disease, emphasizing individual-level brain organization.
+
+<details>
+<summary>RSS summary</summary>
+
+Noradrenergic and dopaminergic nuclei modulate cognition, and post-mortem data indicate they are affected early in the neurodegenerative cascade of Alzheimers disease. We derived in-vivo locus coeruleus (LC) and substantia nigra-ventral tegmental area (SN-VTA) MRI integrity measures from 739 ADNI participants, examined MRI-histology correspondence in individuals with both in-vivo imaging and post-mortem data, and tested whether these measures reflect early MRI-indexed degeneration predicting lat…
+
+</details>
+
+---
+
+## [Functional Connectivity at Birth and Neurocognitive Development](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856145)
+*JAMA Network Open*  
+Score: **0.85**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: connectivity, cognitive development, neuroimaging
+
+This study examines the relationship between early functional connectivity and cognitive performance, which aligns with interests in functional connectivity and brain organization.
+
+<details>
+<summary>RSS summary</summary>
+
+This cohort study examines the association between functional connectivity at birth and cognitive performance at age 2 and 3 years among children born very preterm.
+
+</details>
+
+---
+
+## [Expertise modifies neural responses to causal inference during language comprehension](https://www.biorxiv.org/content/10.64898/2026.11.01.763546v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.80**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: cognitive neuroscience, individual differences, neural responses, language
+
+This paper explores how individual expertise influences neural processing during language understanding, linking cognitive neuroscience with functional inference.
+
+<details>
+<summary>RSS summary</summary>
+
+Linguistic communication relies on shared common ground, yet different individuals in a community have specialized semantic knowledge. As a key example, physicians acquire rich knowledge about the causes of illness. An open question is whether such "causal expertise" influences the neural basis of language comprehension. Here we tested the hypothesis that when understanding everyday language like, "Holly used a grimy faucet during her overseas plane ride. Now she has the stomach flu," medical ex…
+
+</details>
+
+---
+
+## [Sleep-sensitive neurons mediate consolidation](https://www.nature.com/articles/s41583-026-01101-w)
+*Nature Reviews Neuroscience*  
+Score: **0.75**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: memory, sleep, hippocampus, neuroscience
+
+The paper discusses how specific neurons in the hippocampus facilitate memory consolidation during sleep, directly connecting to episodic memory and cognitive neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Reviews Neuroscience, Published online: 02 November 2026; <a href="https://www.nature.com/articles/s41583-026-01101-w">doi:10.1038/s41583-026-01101-w</a></p>A population of acetylcholine-sensitive GABAergic neurons in the mouse hippocampus regulates sharp wave ripples and memory consolidation during sleep.
+
+</details>
+
+---
+
+## [Nucleus accumbens acetylcholine dips track reward value and temporal costs to shape delay discounting](https://www.biorxiv.org/content/10.64898/2026.10.30.760841v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.70**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: reward, decision-making, neurotransmitters, nucleus accumbens
+
+The study directly links neurotransmitter dynamics in the nucleus accumbens to reward processing and decision-making, relevant to neural and cognitive modeling.
+
+<details>
+<summary>RSS summary</summary>
+
+As an organism chooses between competing rewards, it must often integrate learned reward value with the changing costs associated with obtaining them. Yet, the brain mechanisms through which these factors jointly guide choice are not well understood. Previous studies have shown that dopamine signals in the nucleus accumbens (NAc) track reward value and are modulated by their associated delay costs. Our prior work further implicated NAc cholinergic interneurons by demonstrating that dopamine D2 r…
+
+</details>
 
 ---
 
 ## [Memory Traces Reflect How They Were Last Accessed](https://direct.mit.edu/jocn/article/38/11/2095/138035/Memory-Traces-Reflect-How-They-Were-Last-Accessed)
 *Journal of Cognitive Neuroscience*  
-Score: **0.90**  
+Score: **0.70**  
 Published: 2026-11-01T00:00:00+00:00
-Tags: memory, cognition, fMRI, episodic memory
+Tags: episodic memory, fMRI, cognitive neuroscience
 
-The study examines how the process of episodic memory retrieval influences memory representation, directly linking memory dynamics to cognitive processes, which aligns with key interests in memory and cognitive neuroscience.
+This fMRI study on episodic memories and their reactivation patterns provides insights into individual-level brain organization and retrieval processes.
 
 <details>
 <summary>RSS summary</summary>
@@ -24,137 +109,35 @@ The study examines how the process of episodic memory retrieval influences memor
 
 ---
 
-## [Harmonized Protocol for Segmentation of the Hippocampal Tail on High‐Resolution In Vivo MRI From the Hippocampal Subfields Group (HSG)](https://onlinelibrary.wiley.com/doi/10.1002/hipo.70143?af=R)
-*Hippocampus*  
-Score: **0.80**  
-Published: 2026-10-24T03:09:25+00:00
-Tags: memory, hippocampus, precision imaging
-
-The study focuses on a standardized MRI protocol for segmenting key memory-related structures, directly connecting to memory systems and precision imaging.
-
-<details>
-<summary>RSS summary</summary>
-
-Hippocampus, Volume 36, Issue 6, November 2026.
-
-</details>
-
----
-
-## [Is the Proust phenomenon fact or fiction? A systematic review and meta-analysis of odor-evoked autobiographical memory](https://link.springer.com/article/10.3758/s13423-026-03025-z)
-*Psychonomic Bulletin & Review*  
-Score: **0.75**  
-Published: 2026-10-26T00:00:00+00:00
-Tags: memory, cognition, autobiographical memory
-
-This meta-analysis explores the olfactory-triggered autobiographical memory phenomenon, linking odors to memory retrieval which aligns with cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Odors are widely believed to be the most powerful trigger for autobiographical memory (AM). This meta-analysis provides the first comprehensive meta-analytic test of this claim, known as the Proust phenomenon. Eighteen experimental/quasi-experimental studies were included in this meta-analysis. Olfactory cueing was compared with a variety of cueing modalities, and seven key characteristics of evoked AMs (specificity, vividness, emotional intensity, pleasantness, rarity, evocativeness, and age…
-
-</details>
-
----
-
-## [Slow Oscillations Modulate Overnight Brain Changes in Working Memory Function](https://direct.mit.edu/jocn/article/38/11/2141/137902/Slow-Oscillations-Modulate-Overnight-Brain-Changes)
+## [Exploring Neural Mechanisms Underlying Error-related Impairments in Active Working Memory Suggests an Adaptive Shielding of Contents during Cognitive Control](https://direct.mit.edu/jocn/article/38/11/2164/137903/Exploring-Neural-Mechanisms-Underlying-Error)
 *Journal of Cognitive Neuroscience*  
-Score: **0.70**  
-Published: 2026-11-01T00:00:00+00:00
-Tags: working memory, cognition, memory, neural oscillations
-
-This research connects slow brain oscillations during sleep to improvements in working memory, touching on both neural dynamics and cognitive function, which are relevant to the interest in brain organization.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Working memory (WM), the transient storage and manipulation of information, is a cognitive function that can improve with training. Accumulating evidence suggests that sleep, particularly slow oscillations (SOs) that occur during nonrapid eye movement sleep, supports this improvement. Yet, how sleep and SOs in particular relate to neural processes supporting WM remains poorly understood. In this study, we investigated how WM-rela…
-
-</details>
-
----
-
-## [Anti-GABAB receptor autoimmunity causes cognitive decline by presynaptic pathology](https://www.biorxiv.org/content/10.64898/2026.10.22.761036v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.70**  
-Published: 2026-10-25T00:00:00+00:00
-Tags: cognition, memory, functional connectivity
-
-The paper investigates cognitive decline and memory dysfunction connected to neural pathways, aligning with functional connectivity and cognitive neuroscience interests.
-
-<details>
-<summary>RSS summary</summary>
-
-The GABAB receptor is a central regulator of neuronal transmission and excitability by pre- and postsynaptic mechanisms. Its dysfunction causes severe neurological disease, but the underlying pathomechanisms remain elusive. Here, we exploit a distinct CNS autoimmune disorder in which patients develop specific autoantibodies against GABAB receptors causing autoimmune encephalitis with severe memory dysfunction and epilepsy. We demonstrate that human autoantibodies target the sushi-domains of the …
-
-</details>
-
----
-
-## [Memory-Based Learning Disabilities: A Syndrome without a Pigeonhole—Towards a Mechanism-First Assessment Framework](https://link.springer.com/article/10.1007/s11065-026-09720-x)
-*Neuropsychology Review*  
-Score: **0.70**  
-Published: 2026-10-23T00:00:00
-Tags: memory, cognition, neuropsychology
-
-This paper discusses a syndrome linked to neuropsychological vulnerabilities in memory systems, aligning with the user's interests in memory and cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Memory-based learning disabilities represent a distinct and underrecognized clinical entity that current diagnostic classification systems fail to capture. This theoretical synthesis argues that these difficulties constitute an identifiable syndrome defined by neuropsychological vulnerabilities in declarative memory systems, particularly those dependent on hippocampal function. Evidence from cognitive neuroscience, developmental neuropsychology, and educational psychology converges to identif…
-
-</details>
-
----
-
-## [Shared control-network recruitment and task-dependent brain–behavior associations in bilingual language and rule switching](https://link.springer.com/article/10.3758/s13415-026-01511-4)
-*Cognitive, Affective, & Behavioral Neuroscience*  
-Score: **0.67**  
-Published: 2026-10-26T00:00:00+00:00
-Tags: connectivity, bilingualism, cognitive control
-
-This paper investigates neural recruitment in bilingual language processing and cognitive control, relevant to functional networks in cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-<p>Bilingual language control is thought to draw on domain-general cognitive control, yet it remains unclear whether cross-task overlap in neural recruitment is accompanied by similar brain–behavior relationships. Previous connectivity studies have typically estimated functional connectivity (FC) across entire tasks or blocks, obscuring network changes specific to switch trials. We combined hierarchical drift–diffusion modeling, regional activation, and beta-series FC in 126 Chinese–English bili…
-
-</details>
-
----
-
-## [Cortical folding and reduced connection distances in the human brain](https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhag176/9002283?rss=1)
-*Cerebral Cortex*  
 Score: **0.65**  
-Published: 2026-10-26T00:00:00+00:00
-Tags: connectivity, cortex, neuroimaging
+Published: 2026-11-01T00:00:00+00:00
+Tags: working memory, cognitive control, neuroscience
 
-This study examines how cortical folding affects connectivity distances, directly relevant to functional connectivity and network organization.
+The study ties error processing with cognitive control in working memory, touching on relevant mechanisms for understanding functional architecture.
 
 <details>
 <summary>RSS summary</summary>
 
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Why do sulci occur in the human brain in particular parts of the cortical sheet? To obtain quantitative evidence on how folding may help to reduce the amount of white matter involved in connecting cortical regions, we measured the geodesic distance (GD) across the cortical white-matter surface, and the length of the connections and the number of streamlines (SN), between 180 cortical regions in the Human Connectome Project (HCP) …
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Goal-directed behavior relies on cognitive flexibility—the ability to rapidly adapt ongoing thoughts and behaviors while preserving task-relevant information. The performance monitoring system optimizes such behavior by detecting and evaluating errors, whereas the working memory (WM) system maintains relevant information and protects it from interference. We previously showed that motor errors impaired active WM maintenance (Erro…
 
 </details>
 
 ---
 
-## [Temporal Progression of Prior Precision, Surprisal, Model Updating and Tone Adaptation in Human Auditory Cortices](https://www.biorxiv.org/content/10.64898/2026.10.25.761658v1?rss=1)
+## [Assessing reinforcement learning and vigor with an online decision-making battery](https://www.biorxiv.org/content/10.64898/2026.10.30.763028v1?rss=1)
 *bioRxiv neuroscience*  
-Score: **0.63**  
-Published: 2026-10-26T00:00:00+00:00
-Tags: auditory, cognition, prediction
+Score: **0.60**  
+Published: 2026-11-02T00:00:00+00:00
+Tags: reinforcement learning, decision-making, neuroimaging, methods
 
-This research on auditory processing models relates to predictive dynamics in cognition, connecting sensory processing with internal brain models.
+This work develops a comprehensive model to assess reinforcement learning dynamics, greatly contributing to methods in cognitive neuroimaging.
 
 <details>
 <summary>RSS summary</summary>
 
-Auditory perception emerges from the continuous integration of incoming acoustic signals with statistical predictions, a process complemented by simpler local adaptation. Yet, how all these concurrent mechanisms unfold in time remains underexplored. Using magnetoencephalography (MEG) in participants listening to stochastic tone sequences with periodically shifting inferential statistics, we modelled the temporal, spatial, and spectral dynamics of stimulus-specific repetition suppression, surpris…
+Reinforcement learning and vigor are two fundamental aspects of decision-making modulated by dopamine. Although vigor is highly relevant for mood disorders, it has been overlooked by previous batteries characterizing decision-making abilities. We developed a test battery with two RL tasks (RL/working memory, go/no-go task) and two vigor tasks (physical effort discounting, foraging task) and administered it to an online community sample (N = 162). We used computational modeling and factor analysi…
 
 </details>
 
@@ -164,9 +147,9 @@ Auditory perception emerges from the continuous integration of incoming acoustic
 *Journal of Cognitive Neuroscience*  
 Score: **0.60**  
 Published: 2026-11-01T00:00:00+00:00
-Tags: memory, cognitive neuroscience, representation
+Tags: memory, cognitive neuroscience, parietal
 
-The exploration of how visual perspective influences memory construction ties into cognitive processes and subjective experience, which is pertinent to understanding memory systems.
+This review connects subjective memory experiences with neural processes, focusing on the role of visual perspective in memory, relevant to cognitive neuroscience.
 
 <details>
 <summary>RSS summary</summary>
@@ -177,86 +160,35 @@ The exploration of how visual perspective influences memory construction ties in
 
 ---
 
-## [Dissociable contributions of cortical thickness and surface area to cognitive aging: evidence from multiple longitudinal cohorts](https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhag181/9002280?rss=1)
-*Cerebral Cortex*  
-Score: **0.60**  
-Published: 2026-10-26T00:00:00+00:00
-Tags: cognition, aging, cortical thickness
-
-This paper relates cortical morphometry to cognitive aging, providing insights into individual differences and brain organization.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Cortical volume, a widely-used marker of brain aging, is the product of two genetically and developmentally dissociable morphometric features: thickness and area. However, it remains unclear whether these two features have dissociable consequences for cognitive aging. To address this, we analyze cross-sectional and longitudinal neuroimaging and cognitive data from one discovery cohort (Cam-CAN) and two independent, pre-registered…
-
-</details>
-
----
-
-## [Nanoarchitecture of the presynaptic cell adhesion molecule PTPσ in relation to prospective vesicle fusion sites and postsynaptic NMDA receptors](https://www.biorxiv.org/content/10.64898/2026.10.21.760724v1?rss=1)
+## [Infection-related images reduce cortical edge metastability: a specification-curve analysis of a block-design fMRI study](https://www.biorxiv.org/content/10.64898/2026.10.27.762178v1?rss=1)
 *bioRxiv neuroscience*  
-Score: **0.60**  
-Published: 2026-10-25T00:00:00+00:00
-Tags: synaptic, connectivity, neuroscience
+Score: **0.55**  
+Published: 2026-11-01T00:00:00+00:00
+Tags: cortical dynamics, fMRI, immune system
 
-Focuses on synaptic architecture which influences neural connectivity, potentially connecting to cognitive neuroscience via synaptic transmission.
+The paper discusses interactions between infection-related stimuli and neural dynamics, providing indirect insights into cortical organization.
 
 <details>
 <summary>RSS summary</summary>
 
-Protein organization at individual synapses tunes synaptic function. Presynaptic release-regulating proteins and postsynaptic receptors each concentrate into subsynaptic nanoclusters, and their precise alignment across the cleft into nanocolumns can maximize receptor activation following vesicle fusion. However, both the molecular organization defining presynaptic fusion sites and the mechanisms by which they are spatially coordinated with postsynaptic complexes remains unclear. Presynaptic tran…
+Cues of infection evoke disgust, attentional capture, withdrawal and shifts in social orientation, a set of responses attributed to the behavioral immune system. Responses this varied have to be coordinated, as the effects of inflammation are, so they should be visible in whole-cortex coupling. We predicted that infection-related images hold cortical dynamics in a narrower repertoire, reducing cortical edge metastability, the temporal variability of mean cofluctuation across parcel pairs. In two…
 
 </details>
 
 ---
 
-## [Sex-dependent Aβ RA-Low threshold mechanoreceptors alteration in diabetic conditions](https://www.biorxiv.org/content/10.64898/2026.10.24.761523v1?rss=1)
-*bioRxiv neuroscience*  
+## [A multi-institutional investigation of psilocybin’s effects on mouse behavior](https://www.nature.com/articles/s41593-026-02500-z)
+*Nature Neuroscience*  
 Score: **0.50**  
-Published: 2026-10-25T00:00:00+00:00
-Tags: diabetes, mechanoreceptors, neuroscience
+Published: 2026-11-02T00:00:00+00:00
+Tags: psilocybin, behavior, cognitive neuroscience
 
-While focused on molecular mechanisms, this paper addresses sensory neuron contributions which may interest those investigating neural organization linked to behavior.
+Investigates effects of psilocybin on behavior, linking neuropsychiatric outcomes to brain functions, although primarily behavioral.
 
 <details>
 <summary>RSS summary</summary>
 
-Diabetic peripheral neuropathy (DPN) is a major complication of diabetes that profoundly affects quality of life, yet its cellular mechanisms remain poorly defined. Neuropathic pain and sensory loss in DPN are thought to arise from progressive alterations in peripheral nerves usually described as a glove-stocking distribution, but the specific contribution of sensory neuron subtypes has received little attention. Here, we focused on A{beta} rapidly adapting low-threshold mechanoreceptors (A{beta…
-
-</details>
-
----
-
-## [From hours to days: prolonging the functional viability of acute brain slices to >36 h](https://www.biorxiv.org/content/10.64898/2026.10.23.760385v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.50**  
-Published: 2026-10-24T00:00:00+00:00
-Tags: methods, neuroimaging, cognitive neuroscience
-
-This methodology improves acute brain slice viability for neuronal studies, playing a role in advancing neuroimaging techniques.
-
-<details>
-<summary>RSS summary</summary>
-
-We have developed an experimental protocol for acute brain slices of juvenile and adult mice which, in our hands, enables whole-cell patch-clamp experiments on healthy neurons with intact electrophysiological characteristics for more than 36 hours after preparation. This drastically expands the conventional viability window of brain slices of 8-12 hours, using only standard laboratory equipment and procedures. We successfully applied this protocol to evaluate neurons of the medial prefrontal cor…
-
-</details>
-
----
-
-## [Action features dominate cortical representation during natural vision](https://www.pnas.org/doi/abs/10.1073/pnas.2625018123?af=R)
-*PNAS Neuroscience*  
-Score: **0.50**  
-Published: 2026-10-23T07:00:00
-Tags: cognition, action features, neuroscience
-
-The exploration of cortical representation during vision may link to cognitive processes, although it lacks a direct connection to imaging or functional connectivity.
-
-<details>
-<summary>RSS summary</summary>
-
-Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2026. <br />SignificanceHuman cortex is functionally organized to prioritize the most important features of our external world. In perceiving the natural world, however, these features are often overlapping and intermixed. How can we fairly assess which features of ...
+<p>Nature Neuroscience, Published online: 02 November 2026; <a href="https://www.nature.com/articles/s41593-026-02500-z">doi:10.1038/s41593-026-02500-z</a></p>In a study across five independent labs, 2 mg kg−1 psilocybin in mice acutely increased avoidance-related behaviors in a robust, reproducible manner and acutely reduced fear expression, but previously reported persistent effects were modest or inconsistent.
 
 </details>
 
@@ -264,11 +196,11 @@ Proceedings of the National Academy of Sciences, Volume 123, Issue 43, October 2
 
 ## [Intracranial Evidence for the Cerebellum’s Role in Semantic Processing](https://direct.mit.edu/jocn/article/38/11/2209/138034/Intracranial-Evidence-for-the-Cerebellum-s-Role-in)
 *Journal of Cognitive Neuroscience*  
-Score: **0.40**  
+Score: **0.50**  
 Published: 2026-11-01T00:00:00+00:00
-Tags: semantic processing, cerebellum, cognitive neuroscience, functional connectivity
+Tags: cerebellum, language processing, memory
 
-While the cerebellum’s role in language is investigated here, the focus on neural processing contributes to the wider understanding of network organization in cognitive tasks.
+The study presents evidence on the role of the cerebellum in language processing, contributing to the understanding of functional connectivity in memory systems.
 
 <details>
 <summary>RSS summary</summary>
@@ -279,19 +211,12 @@ While the cerebellum’s role in language is investigated here, the focus on neu
 
 ---
 
-## [Adrenal remodeling encodes stress axis memory to shape fentanyl seeking](https://www.biorxiv.org/content/10.64898/2026.10.20.760432v1?rss=1)
-*bioRxiv neuroscience*  
+## [Correction: The specific nature of the statistical learning deficit in developmental dyslexia: Impaired temporal and spared spatial learning abilities](https://link.springer.com/article/10.3758/s13423-026-03040-0)
+*Psychonomic Bulletin & Review*  
 Score: **0.40**  
-Published: 2026-10-25T00:00:00+00:00
-Tags: memory, cognitive neuroscience, addiction
+Published: 2026-11-02T00:00:00+00:00
+Tags: dyslexia, learning, cognitive neuroscience
 
-Explores the interplay of stress and memory systems, primarily regarding addiction, relevant to memory-guided cognition.
-
-<details>
-<summary>RSS summary</summary>
-
-The hypothalamic-pituitary-adrenal (HPA) axis is implicated in substance use disorders, yet the features of this circuit that contribute to addiction vulnerability remain unclear. Here, we show that fentanyl engages with different components of the HPA axis, and this engagement varies across timescales. Within minutes, fentanyl activated corticotropin-releasing hormone neurons in the paraventricular nucleus of the hypothalamus (PVNCRH) and transiently increased adrenocorticotropic hormone (ACTH)…
-
-</details>
+While discussing statistical learning in developmental dyslexia, it doesn’t provide substantial direct insights into cognitive neuroscience or neuroimaging methods.
 
 ---
