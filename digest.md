@@ -1,222 +1,280 @@
-# Weekly ToC Digest (week of 2026-11-02)
+# Weekly ToC Digest (week of 2026-11-09)
 
-Triage of weekly journal items returned based on relevance to interests in cognitive neuroscience, functional connectivity, episodic memory, and neuroimaging methods. This week's items largely focused on various aspects of neuroscience, especially relevant to memory, cognitive processes, and functional connectivity, providing some promising leads for further exploration. No directly relevant items found for the user's specified interests in cognitive neuroscience and related fields. All reviewed papers were down-weighted due to their lack of connection to mental imagery, functional connectivity, episodic memory, or neuroimaging methods. No relevant articles aligned with user interests.
+Triaged weekly RSS items based on user interests in brain organization, connectivity, memory, and imagery. Focused on high-relevance articles connected to cognitive neuroscience, methodology advancements, and functional mapping. No items closely align with the user's interests in mental imagery, network neuroscience, or related fields. Most papers focus on broader behavioral or medical topics without significant connections to cognitive neuroscience or neuroimaging methods. Relevant studies heavily weighted on mental imagery, functional connectivity, memory systems, and cognitive neuroscience methods were prioritized. Many papers were downweighted as they lacked significant ties to the user's interests or focused on molecular or pharmacological aspects. No relevant papers were found in this week's RSS feed that specifically match the user's research interests in mental imagery, functional connectivity, episodic memory, or neuroimaging methodologies.
 
-**Included:** 13 (score ≥ 0.35)  
+**Included:** 16 (score ≥ 0.35)  
 **Scored:** 20 total items
 
 ---
 
-## [In-vivo MRI of noradrenergic and dopaminergic nuclei predicts future cognition and Alzheimers disease progression](https://www.biorxiv.org/content/10.64898/2026.10.29.762942v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **1.00**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: connectivity, cognition, neuroimaging, Alzheimer's, functional mapping
-
-This study connects MRI measures of noradrenergic and dopaminergic nuclei to cognition and Alzheimer’s disease, emphasizing individual-level brain organization.
-
-<details>
-<summary>RSS summary</summary>
-
-Noradrenergic and dopaminergic nuclei modulate cognition, and post-mortem data indicate they are affected early in the neurodegenerative cascade of Alzheimers disease. We derived in-vivo locus coeruleus (LC) and substantia nigra-ventral tegmental area (SN-VTA) MRI integrity measures from 739 ADNI participants, examined MRI-histology correspondence in individuals with both in-vivo imaging and post-mortem data, and tested whether these measures reflect early MRI-indexed degeneration predicting lat…
-
-</details>
-
----
-
-## [Functional Connectivity at Birth and Neurocognitive Development](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856145)
-*JAMA Network Open*  
-Score: **0.85**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: connectivity, cognitive development, neuroimaging
-
-This study examines the relationship between early functional connectivity and cognitive performance, which aligns with interests in functional connectivity and brain organization.
-
-<details>
-<summary>RSS summary</summary>
-
-This cohort study examines the association between functional connectivity at birth and cognitive performance at age 2 and 3 years among children born very preterm.
-
-</details>
-
----
-
-## [Expertise modifies neural responses to causal inference during language comprehension](https://www.biorxiv.org/content/10.64898/2026.11.01.763546v1?rss=1)
+## [Linking Covariates to State Durations in Dynamic Brain Networks via Hidden Semi-Markov Models](https://www.biorxiv.org/content/10.64898/2026.11.06.764975v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.80**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: cognitive neuroscience, individual differences, neural responses, language
+Published: 2026-11-09T00:00:00Z
+Tags: connectivity, functional connectivity, methods
 
-This paper explores how individual expertise influences neural processing during language understanding, linking cognitive neuroscience with functional inference.
+Utilizes hidden Markov models to explore dynamic functional connectivity, addressing individual differences and state durations in brain networks, important for understanding cognitive processes.
 
 <details>
 <summary>RSS summary</summary>
 
-Linguistic communication relies on shared common ground, yet different individuals in a community have specialized semantic knowledge. As a key example, physicians acquire rich knowledge about the causes of illness. An open question is whether such "causal expertise" influences the neural basis of language comprehension. Here we tested the hypothesis that when understanding everyday language like, "Holly used a grimy faucet during her overseas plane ride. Now she has the stomach flu," medical ex…
+Hidden semi-Markov models (HSMMs) provide a flexible framework for studying dynamic functional connectivity because they represent brain activity as transitions between latent network states with explicit dwell time distributions. Although dwell times are often associated with behavioral and demographic variables, these associations are typically assessed only after model fitting using indirect group comparisons, limiting formal covariate modeling and the simultaneous inclusion of multiple predi…
 
 </details>
 
 ---
 
-## [Sleep-sensitive neurons mediate consolidation](https://www.nature.com/articles/s41583-026-01101-w)
-*Nature Reviews Neuroscience*  
+## [Replicable Connectivity and Spectral Alterations of Functional Networks in Major Depression](https://www.biorxiv.org/content/10.64898/2026.11.06.764930v1?rss=1)
+*bioRxiv neuroscience*  
 Score: **0.75**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: memory, sleep, hippocampus, neuroscience
+Published: 2026-11-09T00:00:00Z
+Tags: network, connectivity, depression, cognitive neuroscience
 
-The paper discusses how specific neurons in the hippocampus facilitate memory consolidation during sleep, directly connecting to episodic memory and cognitive neuroscience.
+Examines connectivity and spectral content in functional networks relevant to major depression, linking these changes to cognitive and emotional processes, a crucial aspect of cognitive neuroscience.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Reviews Neuroscience, Published online: 02 November 2026; <a href="https://www.nature.com/articles/s41583-026-01101-w">doi:10.1038/s41583-026-01101-w</a></p>A population of acetylcholine-sensitive GABAergic neurons in the mouse hippocampus regulates sharp wave ripples and memory consolidation during sleep.
+Major depressive disorder (MDD) is usually characterized in functional MRI through connectivity alone, often in samples too small to resolve its modest effects. Here we applied multi-scale, template-guided independent component analysis to resting-state data from the multi-site MDD-DIRECT cohort and jointly examined the connectivity, spectral content and spatial composition of 105 intrinsic brain networks. Differences between patients and controls were widespread, small and structured: cerebello…
 
 </details>
 
 ---
 
-## [Nucleus accumbens acetylcholine dips track reward value and temporal costs to shape delay discounting](https://www.biorxiv.org/content/10.64898/2026.10.30.760841v1?rss=1)
+## [Quantifying Excitation-Inhibition Harmony and Its Breakdown during Epileptogenesis in a Spiking Neural Network of the Hippocampal CA1](https://www.biorxiv.org/content/10.64898/2026.11.02.763777v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.70**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: reward, decision-making, neurotransmitters, nucleus accumbens
+Published: 2026-11-09T00:00:00Z
+Tags: connectivity, hippocampus, neural networks
 
-The study directly links neurotransmitter dynamics in the nucleus accumbens to reward processing and decision-making, relevant to neural and cognitive modeling.
+Focuses on the balance of excitation and inhibition in networks, particularly within the hippocampus, which is vital for memory encoding and cognitive function.
 
 <details>
 <summary>RSS summary</summary>
 
-As an organism chooses between competing rewards, it must often integrate learned reward value with the changing costs associated with obtaining them. Yet, the brain mechanisms through which these factors jointly guide choice are not well understood. Previous studies have shown that dopamine signals in the nucleus accumbens (NAc) track reward value and are modulated by their associated delay costs. Our prior work further implicated NAc cholinergic interneurons by demonstrating that dopamine D2 r…
+Epileptogenesis is often linked to disruptions in excitation-inhibition (E-I) balance, yet its quantitative characterization remains limited. Understanding and quantifying this E-I balance could enable earlier diagnosis and targeted treatment of epilepsy. We investigate competitive E-I harmony and its breakdown using a biologically grounded spiking neural network model of hippocampal CA1 that incorporates two structural pathological mechanisms: pyramidal cell (PC) axonal sprouting and loss of in…
 
 </details>
 
 ---
 
-## [Memory Traces Reflect How They Were Last Accessed](https://direct.mit.edu/jocn/article/38/11/2095/138035/Memory-Traces-Reflect-How-They-Were-Last-Accessed)
-*Journal of Cognitive Neuroscience*  
+## [Respiratory phase orchestrates human olfactory cortical dynamics](https://www.pnas.org/doi/abs/10.1073/pnas.2619920123?af=R)
+*PNAS Neuroscience*  
 Score: **0.70**  
-Published: 2026-11-01T00:00:00+00:00
-Tags: episodic memory, fMRI, cognitive neuroscience
+Published: 2026-11-06T08:00:00+00:00
+Tags: memory, cognitive neuroscience, connectivity
 
-This fMRI study on episodic memories and their reactivation patterns provides insights into individual-level brain organization and retrieval processes.
+This paper explores the dynamics of olfactory processing in relation to respiratory phases, which could shed light on perceptual and memory systems involving sensory representations. It connects to cognitive processes relevant to neural connectivity and perception.
 
 <details>
 <summary>RSS summary</summary>
 
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Episodic memories are known to change with each act of retrieval. We hypothesize that accessing semantic knowledge in different ways during episodic retrieval—from unique perceptual features to taxonomic and thematic context—shapes how those memories are subsequently represented during recognition. In this fMRI study, human participants learned novel word–image pairs and underwent re-exposure that required accessing semantic know…
+Proceedings of the National Academy of Sciences, Volume 123, Issue 45, November 2026. <br />SignificanceDiagnosing smell loss in patients with cognitive disorders remains challenging because conventional tests demand complex responses that measure memory and literacy instead of basic sensory function. We present a task-free alternative where ...
 
 </details>
 
 ---
 
-## [Exploring Neural Mechanisms Underlying Error-related Impairments in Active Working Memory Suggests an Adaptive Shielding of Contents during Cognitive Control](https://direct.mit.edu/jocn/article/38/11/2164/137903/Exploring-Neural-Mechanisms-Underlying-Error)
-*Journal of Cognitive Neuroscience*  
+## [A Common Recognition Architecture Across Memory Scales](https://www.biorxiv.org/content/10.64898/2026.11.04.764437v1?rss=1)
+*bioRxiv neuroscience*  
 Score: **0.65**  
-Published: 2026-11-01T00:00:00+00:00
-Tags: working memory, cognitive control, neuroscience
+Published: 2026-11-09T00:00:00Z
+Tags: memory, cognitive neuroscience, recognition
 
-The study ties error processing with cognitive control in working memory, touching on relevant mechanisms for understanding functional architecture.
+Explores recognition memory across different scales, identifying neural mechanisms involved in memory retrieval, aligning closely with cognitive neuroscience focused on memory.
 
 <details>
 <summary>RSS summary</summary>
 
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Goal-directed behavior relies on cognitive flexibility—the ability to rapidly adapt ongoing thoughts and behaviors while preserving task-relevant information. The performance monitoring system optimizes such behavior by detecting and evaluating errors, whereas the working memory (WM) system maintains relevant information and protects it from interference. We previously showed that motor errors impaired active WM maintenance (Erro…
+Recognition decisions occur across memory episodes that vary vastly in scale, from compact single-item episodes to extended experiences involving hundreds of items. To test how memory scale shapes the neural mechanisms underlying old/new judgments, we recorded EEG while participants performed a recognition memory task across set sizes ranging from 1 to 128 items (spanning 2 to 256 recognition judgments). Classic electrophysiological signatures of recognition, including frontal and parietal old/n…
 
 </details>
 
 ---
 
-## [Assessing reinforcement learning and vigor with an online decision-making battery](https://www.biorxiv.org/content/10.64898/2026.10.30.763028v1?rss=1)
+## [Creative cognition in frontotemporal dementia and brain health](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(26)00231-6?rss=yes)
+*Trends in Neurosciences*  
+Score: **0.65**  
+Published: 2026-11-07T00:00:00+00:00
+Tags: cognitive neuroscience, creativity, connectivity
+
+Discusses the impact of brain disease on creative cognitive functions, linking neural circuits and brain health. This paper may provide insights into connectivity and cognitive processing variations.
+
+<details>
+<summary>RSS summary</summary>
+
+Creative cognition is central to human thought and is affected by brain disease. Recent findings by Altmayer and colleagues link creative impairment in frontotemporal dementia to rostral prefrontal functional differentiation. These findings motivate a framework for investigating network coordination, circuit physiology, experience-dependent plasticity, and bodily and social regulation in creativity and health.
+
+</details>
+
+---
+
+## [Human medial frontal neurons represent integrated semantic content and sensory evidence to inform decision-making](https://www.biorxiv.org/content/10.64898/2026.11.06.764954v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.60**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: reinforcement learning, decision-making, neuroimaging, methods
+Published: 2026-11-09T00:00:00Z
+Tags: decision-making, memory, cognitive neuroscience
 
-This work develops a comprehensive model to assess reinforcement learning dynamics, greatly contributing to methods in cognitive neuroimaging.
+Investigates neural representations that combine semantic content and sensory information relevant for decision-making, connecting crucial memory and cognitive processes important to neuroscience.
 
 <details>
 <summary>RSS summary</summary>
 
-Reinforcement learning and vigor are two fundamental aspects of decision-making modulated by dopamine. Although vigor is highly relevant for mood disorders, it has been overlooked by previous batteries characterizing decision-making abilities. We developed a test battery with two RL tasks (RL/working memory, go/no-go task) and two vigor tasks (physical effort discounting, foraging task) and administered it to an online community sample (N = 162). We used computational modeling and factor analysi…
+Humans can reconfigure how they act on the world from a single verbal instruction. Central to this capacity is the ability to represent what an instruction specifies and to bring that content to bear on incoming sensory evidence. However, little is known about where in the human brain instruction content is encoded, how it combines with sensory evidence to produce a choice, and how this integration relates to behavior. Here, we characterized single-neuron and population responses recorded in the…
 
 </details>
 
 ---
 
-## [Visual Perspective Shapes Subjective Experience: Dissociable Parietal Contributions to the Constructive Nature of Memory](https://direct.mit.edu/jocn/article/38/11/2113/133669/Visual-Perspective-Shapes-Subjective-Experience)
-*Journal of Cognitive Neuroscience*  
-Score: **0.60**  
-Published: 2026-11-01T00:00:00+00:00
-Tags: memory, cognitive neuroscience, parietal
-
-This review connects subjective memory experiences with neural processes, focusing on the role of visual perspective in memory, relevant to cognitive neuroscience.
-
-<details>
-<summary>RSS summary</summary>
-
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Subjective features of memory are often treated as secondary to the objective content of remembered events. However, growing evidence suggests that these features actively shape how memories are constructed, experienced, and used. Rather than treating visual perspective as a peripheral correlate of subjectivity, this review positions it as a key mechanism that shapes the memory. Because perspective can be flexibly controlled and …
-
-</details>
-
----
-
-## [Infection-related images reduce cortical edge metastability: a specification-curve analysis of a block-design fMRI study](https://www.biorxiv.org/content/10.64898/2026.10.27.762178v1?rss=1)
+## [Ergodic breakdown of brain dynamics under chronnectome complexity across cognitive states and age](https://www.biorxiv.org/content/10.64898/2026.11.06.764964v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.55**  
-Published: 2026-11-01T00:00:00+00:00
-Tags: cortical dynamics, fMRI, immune system
+Published: 2026-11-09T00:00:00Z
+Tags: connectivity, cognitive states, network neuroscience
 
-The paper discusses interactions between infection-related stimuli and neural dynamics, providing indirect insights into cortical organization.
+Examines how chronnectome complexity influences brain dynamics, an important aspect of understanding functional connectivity in cognitive states, particularly across ages.
 
 <details>
 <summary>RSS summary</summary>
 
-Cues of infection evoke disgust, attentional capture, withdrawal and shifts in social orientation, a set of responses attributed to the behavioral immune system. Responses this varied have to be coordinated, as the effects of inflammation are, so they should be visible in whole-cortex coupling. We predicted that infection-related images hold cortical dynamics in a narrower repertoire, reducing cortical edge metastability, the temporal variability of mean cofluctuation across parcel pairs. In two…
+Chronnectome complexity, the extent to which time-varying functional connectivity follows a structured sequence of distinct configurations, contributes to shaping large-scale brain dynamics. However, it remains unclear how this complexity influences the encoding of information that distinguishes resting state and task conditions. In ergodic theory, time averages represent ensemble behavior under ergodicity, which breaks down when dynamics are non-stationary, as when activity moves sequentially b…
 
 </details>
 
 ---
 
-## [A multi-institutional investigation of psilocybin’s effects on mouse behavior](https://www.nature.com/articles/s41593-026-02500-z)
-*Nature Neuroscience*  
+## [Reduced attenuation of neural activation during fear extinction learning in patients with anxiety disorders: a delayed fear extinction fMRI study](https://www.nature.com/articles/s41398-026-04430-7)
+*Translational Psychiatry*  
+Score: **0.55**  
+Published: 2026-11-07T00:00:00+00:00
+Tags: connectivity, fMRI, memory, anxiety
+
+Involves neural activation during a key cognitive task related to fear extinction, highlighting neural connectivity and memory processes associated with anxiety, relevant to understanding individual differences in functional brain architecture.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 07 November 2026; <a href="https://www.nature.com/articles/s41398-026-04430-7">doi:10.1038/s41398-026-04430-7</a></p>Reduced attenuation of neural activation during fear extinction learning in patients with anxiety disorders: a delayed fear extinction fMRI study
+
+</details>
+
+---
+
+## [Bayesian Modeling of Context-Specific Goal-Directed and Habitual Control in Sequential Decision Making](https://www.biorxiv.org/content/10.64898/2026.11.06.764848v1?rss=1)
+*bioRxiv neuroscience*  
 Score: **0.50**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: psilocybin, behavior, cognitive neuroscience
+Published: 2026-11-09T00:00:00Z
+Tags: decision-making, cognition, habits
 
-Investigates effects of psilocybin on behavior, linking neuropsychiatric outcomes to brain functions, although primarily behavioral.
+Explores how goal-directed and habitual control develop, with implications for understanding decision-making processes within cognitive neuroscience.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 02 November 2026; <a href="https://www.nature.com/articles/s41593-026-02500-z">doi:10.1038/s41593-026-02500-z</a></p>In a study across five independent labs, 2 mg kg−1 psilocybin in mice acutely increased avoidance-related behaviors in a robust, reproducible manner and acutely reduced fear expression, but previously reported persistent effects were modest or inconsistent.
+It is an open question how context-specific habits develop alongside goal-directed planning. We examined action sequence repetition, contingency change, and context switching using a three-step optimization task with interleaved planning and habit contexts. During an initial acquisition phase, optimal sequences varied in the planning context but remained constant in the habit context. When contingencies changed, the original habit sequence became suboptimal and another became optimal. Action seq…
 
 </details>
 
 ---
 
-## [Intracranial Evidence for the Cerebellum’s Role in Semantic Processing](https://direct.mit.edu/jocn/article/38/11/2209/138034/Intracranial-Evidence-for-the-Cerebellum-s-Role-in)
-*Journal of Cognitive Neuroscience*  
+## [Sparse Firing and Connectivity in Neurogenesis Improve Pattern Separation and Memory in a Simulated Dentate Gyrus](https://onlinelibrary.wiley.com/doi/10.1002/hipo.70146?af=R)
+*Hippocampus*  
 Score: **0.50**  
-Published: 2026-11-01T00:00:00+00:00
-Tags: cerebellum, language processing, memory
+Published: 2026-11-07T03:38:57+00:00
+Tags: memory, cognitive neuroscience, connectivity
 
-The study presents evidence on the role of the cerebellum in language processing, contributing to the understanding of functional connectivity in memory systems.
+This study connects synaptic firing and connectivity to cognitive processes, such as memory, relevant to the user's interests without directly addressing imagery or neuroimaging methods.
 
 <details>
 <summary>RSS summary</summary>
 
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>Language impairments in patients with cerebellar damage or dysfunction strongly implicate the cerebellum in language processing but the nature, timing, and specificity of its contributions are unclear. A clinical trial of cerebellar stimulation for motor recovery after middle cerebral artery stroke provided a rare opportunity to record invasive, intracranial local field potential activity from the cerebellar dentate nucleus of ei…
+Hippocampus, Volume 36, Issue 6, November 2026.
 
 </details>
 
 ---
 
-## [Correction: The specific nature of the statistical learning deficit in developmental dyslexia: Impaired temporal and spared spatial learning abilities](https://link.springer.com/article/10.3758/s13423-026-03040-0)
-*Psychonomic Bulletin & Review*  
+## [Brainstem enkephalinergic neural circuit underlying cold-induced pain relief in mice](https://www.science.org/doi/abs/10.1126/sciadv.aea3106?af=R)
+*Science Advances*  
+Score: **0.50**  
+Published: 2026-11-06T08:00:00+00:00
+Tags: neural circuits, cognitive neuroscience
+
+Explores neural circuits involved in pain relief, which may provide insights into emotional and sensory cognition, although less directly related to user interests than other items.
+
+<details>
+<summary>RSS summary</summary>
+
+Science Advances, Volume 12, Issue 45, November 2026. <br />
+
+</details>
+
+---
+
+## [Discourse Production Across the Adult Lifespan: Microlinguistic Processes](https://onlinelibrary.wiley.com/doi/10.1111/tops.12729?af=R)
+*Topics in Cognitive Science*  
+Score: **0.45**  
+Published: 2026-11-06T08:11:25+00:00
+Tags: cognitive processes, language, aging
+
+Explores language production processes across adulthood, highlighting cognitive and neural processing dynamics in discourse, relevant but somewhat distanced from core interests in memory and imagery.
+
+<details>
+<summary>RSS summary</summary>
+
+Topics in Cognitive Science, Volume 18, Issue 4, October 2026.
+
+</details>
+
+---
+
+## [Pre-synaptic facilitation of corticospinal output improves dexterity and finemotor control after stroke](https://www.biorxiv.org/content/10.64898/2026.11.06.764958v1?rss=1)
+*bioRxiv neuroscience*  
 Score: **0.40**  
-Published: 2026-11-02T00:00:00+00:00
-Tags: dyslexia, learning, cognitive neuroscience
+Published: 2026-11-09T00:00:00Z
+Tags: motor control, cognition, rehabilitation
 
-While discussing statistical learning in developmental dyslexia, it doesn’t provide substantial direct insights into cognitive neuroscience or neuroimaging methods.
+Investigates neural pathways controlling fine motor skills, linking it to motor function recovery—related to cognitive motor control and rehabilitation neuroscience.
+
+<details>
+<summary>RSS summary</summary>
+
+The corticospinal tract (CST) is a neural pathway that supports skilled use of the arm and hand. Lesions of corticospinal axons result in muscle weakness, deficits of gross motor function, and loss of proximal and distal dexterous control for which effective treatments are still lacking. Here we exploited excitatory connections from motor thalamus to primary motor cortex to potentiate surviving descending signals and restore volitional arm and hand control in three monkeys with corticospinal tra…
+
+</details>
+
+---
+
+## [Effectiveness of Verbal Fluency Tests for Detecting Cognitive Decline in Adults with Alzheimer’s Dementia and Frontotemporal Dementia: A Three-Level Meta-Analysis](https://link.springer.com/article/10.1007/s11065-026-09718-5)
+*Neuropsychology Review*  
+Score: **0.40**  
+Published: 2026-11-07T00:00:00+00:00
+Tags: dementia, memory, cognitive decline
+
+This meta-analysis focuses on cognitive decline detection relevant to Alzheimer's, which relates to memory systems but does not directly connect to neuroimaging or neural networks.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>As our population ages, the prevalence of dementia, including Alzheimer’s dementia (AD) and frontotemporal dementia (FTD), is increasing. Early dementia diagnoses facilitate access to interventions when they are most effective for prolonging and improving life. Verbal fluency tests (e.g., FAS and Animal Fluency) can aid in the diagnosis of AD and FTD through detecting declines in executive functioning and language. These tests may be particularly useful for diagnosing the behavioural variant …
+
+</details>
+
+---
+
+## [The mouse midbrain periaqueductal gray is organized into target-specific output populations](https://www.biorxiv.org/content/10.64898/2026.11.06.764863v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.35**  
+Published: 2026-11-09T00:00:00Z
+Tags: midbrain, cognition, neuroanatomy
+
+Explores organization within the midbrain that regulates behavior, relevant for understanding the neural basis of cognition and behavior.
+
+<details>
+<summary>RSS summary</summary>
+
+How brains select between behaviours and coordinate their execution is a central question in neuroscience. The vertebrate periaqueductal gray (PAG) controls a remarkable range of instinctive behaviours, from escape and freezing to hunting, vocalization, and micturition. Its columnar organization, the classical framework for mapping these functions, cannot explain how one region controls so many, often mutually exclusive, behaviours. To determine how PAG output is organized, we generated a whole-…
+
+</details>
 
 ---
