@@ -1,262 +1,408 @@
-# Weekly ToC Digest (week of 2026-11-16)
+# Weekly ToC Digest (week of 2026-11-24)
 
-This week's items include relevant research on neural mechanisms for various cognitive functions, notably mental imagery and network organization. Emphasis was placed on connectivity methodologies and individual differences, as well as memory-related studies. Further exploration of neural dynamics continues to be a rich area of interest. The top-ranking papers relate directly to the user's focus on mental imagery, episodic memory, and functional connectivity, particularly emphasizing neuroimaging methods and individual differences. Papers with lesser relevance pertained primarily to molecular, pharmacological, or broad behavioral scopes without a meaningful tie to cognitive neuroscience or neuroimaging. No items of high relevance to cognitive neuroscience or mental imagery were found this week. Items have been triaged for relevance based on user interests in cognitive neuroscience, particularly focusing on mental imagery, functional connectivity, and episodic memory.
+The relevance of the selected items has been assessed based on the scoring calibration for the user's interests in cognitive neuroscience and neuroimaging. Items focused on mental imagery, memory, functional connectivity, and innovative methodologies in neuroimaging were prioritized. Broader behavioral and clinical papers not directly related to these themes were down-weighted. Items were triaged based on a focus on cognitive neuroscience topics such as mental imagery, functional connectivity, and memory-related cognition. The scoring reflects relevance based on the user's specified interests, prioritizing articles that explore the interactions between brain networks and cognitive processes. The selected items largely focus on cognitive neuroscience, particularly emphasizing brain networks and memory-related themes, which align with the user’s research interests. Several articles in cognitive psychology and neuroscience directly connect individual differences and emotional regulation.
 
-**Included:** 15 (score ≥ 0.35)  
-**Scored:** 25 total items
+**Included:** 24 (score ≥ 0.35)  
+**Scored:** 31 total items
 
 ---
 
-## [Mental imagery vividness and aphantasia judgements are supported by convergent evidence: A reply to Sulfaro (2026)](https://link.springer.com/article/10.3758/s13423-026-03043-x)
-*Psychonomic Bulletin & Review*  
+## [Mental Imagery and Cognitive Function: A Theory-Driven Systematic Review of Behavioral Outcomes and Neuroplastic Mechanisms Across Clinical and Healthy Populations](https://link.springer.com/article/10.1007/s11065-026-09722-9)
+*Neuropsychology Review*  
 Score: **1.00**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: imagery, methods
+Published: 2026-11-20T00:00:00
+Tags: imagery, cognitive function, neuroplasticity, methods
 
-This paper focuses on mental imagery and aphantasia, providing insights into individual differences in imaginative capabilities, directly aligning with key interests.
+This paper directly addresses mental imagery and its cognitive implications, making it highly relevant to my interests in cognitive function and neuroplasticity.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Visual imagery refers to an imagined pictorial experience that the majority of people report that they can have by volition when they are awake. In recent years there has been an upsurge in research on this topic, due to growing awareness of the possibility that there might be substantial individual differences in people’s experiences of imagery – inclusive of aphantasics, who cannot experience visual imagery at all. Much of this research has been informed by subjective ratings that describe …
+<p>Cognitive decline is a growing concern across the lifespan, impacting quality of life and functional independence. While imagery-based interventions have shown promise for enhancing cognitive function, the strength of evidence, neurobiological mechanisms, and optimal protocols remain unclear. This systematic review synthesized behavioral and neurobiological evidence on imagery-based interventions for cognitive enhancement across healthy and clinical populations, using a theory-driven framewor…
 
 </details>
 
 ---
 
-## [More Than the Visual Cortex, Age‐Related Differences in Representational Momentum Stem From Network Reorganization: Insights From Dynamic Functional Connectivity](https://onlinelibrary.wiley.com/doi/10.1111/cogs.70288?af=R)
-*Cognitive Science*  
+## [Free recall reveals novel effects of semantic relatedness on recall structure and memory performance](https://link.springer.com/article/10.3758/s13414-026-03350-4)
+*Attention, Perception & Psychophysics*  
+Score: **0.92**  
+Published: 2026-11-22T00:00:00+00:00
+Tags: memory, cognition, recall
+
+This study directly explores memory recall, emphasizing semantic relationships which closely relates to your focus on memory and cognition.
+
+<details>
+<summary>RSS summary</summary>
+
+Abstract <p>Research into human memory has consistently shown that recall is not random but organized by systematic regularities, such as temporal and semantic contiguity. While semantic relationships between items are known to influence memory performance, their impact on the organization of retrieval in unconstrained (free) recall remains less understood. The present study investigated how semantic structure influences both on retrieval organization and memory performance. Across two experimen…
+
+</details>
+
+---
+
+## [Neural Organization of Episodic Memory and Navigation in Children and Adults](https://direct.mit.edu/jocn/article/38/12/2363/138355/Neural-Organization-of-Episodic-Memory-and)
+*Journal of Cognitive Neuroscience*  
 Score: **0.90**  
-Published: 2026-11-16T07:45:30+00:00
-Tags: connectivity, imagery, network
+Published: 2026-12-01T00:00:00+00:00
+Tags: memory, navigation, neuroimaging, cognitive neuroscience
 
-This paper explores age-related differences in representational momentum through network reorganization, directly connecting to imagery and connectivity across brain functions.
+This paper investigates the interconnections between episodic memory and navigation, which relates directly to internal representations and neuroimaging methodologies.
 
 <details>
 <summary>RSS summary</summary>
 
-Cognitive Science, Volume 50, Issue 11, November 2026.
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Episodic memory and spatial navigation are often viewed as interlinked, in part due to their shared reliance on medial-temporal lobe (MTL) structures. At the same time, there are important differences, for example, natural spatial navigation requires moving one's body through space while episodic memory does not. We investigated whether naturalistically encoded memories that were either episodic or additionally embedded in a navi…
 
 </details>
 
 ---
 
-## [Causal role of human hippocampus in relational structure learning and inference](https://www.nature.com/articles/s41562-026-02627-w)
-*Nature Human Behaviour*  
-Score: **0.90**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: memory, hippocampus
+## [Long-term Memory Contributions to Working Memory: A Contralateral Delay Activity Study](https://direct.mit.edu/jocn/article/38/12/2335/139018/Long-term-Memory-Contributions-to-Working-Memory-A)
+*Journal of Cognitive Neuroscience*  
+Score: **0.85**  
+Published: 2026-12-01T00:00:00+00:00
+Tags: memory, working memory, cognitive neuroscience, EEG
 
-The paper explores hippocampal function in relational structuring, which is crucial for episodic memory and cognitive frameworks in neuroimaging.
+This study explores how long-term memory influences working memory, directly addressing mechanisms of memory-guided cognition and connectivity.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Human Behaviour, Published online: 16 November 2026; <a href="https://www.nature.com/articles/s41562-026-02627-w">doi:10.1038/s41562-026-02627-w</a></p>Pan and colleagues show that the human hippocampus represents relational structures that support inference in changing environments and provide causal evidence that disrupting hippocampal activity impairs this ability.
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>How does long-term memory (LTM) support working memory (WM) performance? Proposed mechanisms include “boosting,” where LTM enhances WM representations through additional activation but does not reduce WM load; “chunking,” where WM holds references to LTM, reducing WM load; and “offloading,” where LTM substitutes active maintenance in WM. To distinguish between these mechanisms, we measured the contralateral delay activity (CDA) a…
 
 </details>
 
 ---
 
-## [Waveform morphology links local circuit kinetics to cortical interactions](https://www.biorxiv.org/content/10.64898/2026.11.13.766469v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.80**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: functional connectivity, neural dynamics
-
-This research examines how local circuit dynamics influence cortical interactions, shedding light on functional connectivity that is crucial for understanding brain network organization.
-
-<details>
-<summary>RSS summary</summary>
-
-How does local cortical physiology shape interactions between brain regions? We combined neural mass modelling with human and macaque intracranial recordings to examine how synaptic kinetics link oscillatory waveform morphology to cortical interactions. In a modified excitatory-inhibitory Wilson-Cowan model, synaptic rise and decay kinetics shaped waveform geometry and phase-dependent responsiveness. Local kinetics and coupling symmetry jointly influenced interaction measures and temporal irreve…
-
-</details>
-
----
-
-## [Restrictive eating is linked to weaker recollection of food in young adults](https://www.biorxiv.org/content/10.64898/2026.11.12.766220v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.80**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: memory, cognition
-
-This study examines episodic memory in the context of food recollection, tying individual differences to memory processes.
-
-<details>
-<summary>RSS summary</summary>
-
-Affective significance often enhances episodic memory, with stronger effects on recollection than on familiarity, but prior research has focused primarily on within-person manipulations of emotional valence. Here, we tested a novel question: whether stable individual differences in the personal significance of food were associated with long-term memory across individuals, given that food ranges from highly appetitive to strongly avoided. Across two experiments, we examined familiarity-based memo…
-
-</details>
-
----
-
-## [The many facets of human brain asymmetry](https://www.nature.com/articles/s41583-026-01099-1)
+## [Reappraising emotion regulation](https://www.nature.com/articles/s41583-026-01112-7)
 *Nature Reviews Neuroscience*  
+Score: **0.85**  
+Published: 2026-11-23T00:00:00+00:00
+Tags: emotion, regulation, neuroscience
+
+The article investigates cognitive reappraisal in emotional regulation and its neural correlates, relevant to both cognitive neuroscience and emotional memory.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Nature Reviews Neuroscience, Published online: 23 November 2026; <a href="https://www.nature.com/articles/s41583-026-01112-7">doi:10.1038/s41583-026-01112-7</a></p>The assumed link between cognitive reappraisal and activity in regulatory prefrontal circuits in humans is shown to be absent in task-based functional MRI datasets.
+
+</details>
+
+---
+
+## [Effective connectivity reveals hippocampal disruptions during conditioning and extinction are associated with adolescent anxiety](https://www.nature.com/articles/s41398-026-04574-6)
+*Translational Psychiatry*  
+Score: **0.80**  
+Published: 2026-11-21T00:00:00
+Tags: connectivity, hippocampus, anxiety, memory
+
+The study examines connectivity in the hippocampus related to anxiety, linking functional connectivity to memory processes in a developmental context.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 21 November 2026; <a href="https://www.nature.com/articles/s41398-026-04574-6">doi:10.1038/s41398-026-04574-6</a></p>Effective connectivity reveals hippocampal disruptions during conditioning and extinction are associated with adolescent anxiety
+
+</details>
+
+---
+
+## [Neighbourhood influence on health in epilepsy](https://www.nature.com/articles/s41582-026-01296-7)
+*Nature Reviews Neurology*  
 Score: **0.78**  
-Published: 2026-11-13T00:00:00+00:00
-Tags: brain asymmetry, individual differences, neuroscience
+Published: 2026-11-23T00:00:00+00:00
+Tags: epilepsy, social factors, neuroimaging
 
-Discusses brain asymmetry, a key aspect in understanding individual-level brain organization and the variables that affect cognitive function.
+This study connects socio-economic factors with neurological health, potentially relevant to understanding individual differences in cognitive function.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Reviews Neuroscience, Published online: 13 November 2026; <a href="https://www.nature.com/articles/s41583-026-01099-1">doi:10.1038/s41583-026-01099-1</a></p>Contrasting the right and left hemisphere has undergone a methodological and conceptual transformation. In this Review, Francks and colleagues focus on brain asymmetry as a multivariate and multiscale organizational feature of the human brain while discussing its variability across individuals and how left–right asymmetry supports …
+<p>Nature Reviews Neurology, Published online: 23 November 2026; <a href="https://www.nature.com/articles/s41582-026-01296-7">doi:10.1038/s41582-026-01296-7</a></p>A retrospective study of epilepsy-surgery candidates shows that the socioeconomic status of the neighbourhood in which the candidate lived is linked to network-level brain alterations. The finding adds to the growing body of evidence that supports an important role for social factors in shaping health outcomes in epilepsy.
 
 </details>
 
 ---
 
-## [Inter-protocol reproducibility of multi-shell diffusion MRI metrics across major neuroimaging study protocols](https://www.biorxiv.org/content/10.64898/2026.11.13.766526v1?rss=1)
-*bioRxiv neuroscience*  
+## [Evoked Electroencephalographic Responses to Naturalistic Speech: A Review of Analytic Methods, Current Insights, and Future Directions](https://direct.mit.edu/jocn/article/38/12/2395/139017/Evoked-Electroencephalographic-Responses-to)
+*Journal of Cognitive Neuroscience*  
 Score: **0.75**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: methods, connectivity, neuroimaging
+Published: 2026-12-01T00:00:00+00:00
+Tags: methods, EEG, cognitive neuroscience
 
-The study focuses on the reproducibility of diffusion MRI metrics, vital for improving neuroimaging methodology in connectivity studies.
+This review addresses EEG methodologies for understanding processing, which ties into neuroimaging innovations and the study of cognition.
 
 <details>
 <summary>RSS summary</summary>
 
-Diffusion MRI is a core component of large-scale neuroimaging initiatives, yet the reproducibility of quantitative dMRI metrics across different acquisition protocols remains unclear. We acquired seven multi-shell diffusion protocols representative of major consortia and clinical settings on a single scanner in 41 healthy adults, isolating protocol effects from hardware and site variability. A linear mixed-effects model was used to estimate the inter-protocol coefficient of variation (CV) and th…
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>The use of natural and naturalistic speech, including continuous narratives, is increasingly popular among researchers who use EEG to study speech and language processing. Despite bridging the gap between laboratory studies and real-life situations, its continuous, multidimensional, and overlapping nature poses several difficulties to the classic ERP analysis. This review provides a conceptual overview of more recent analytic met…
 
 </details>
 
 ---
 
-## [Tracking single neurons across days reveals acute and persistent effects of psilocybin in the mouse brain](https://www.biorxiv.org/content/10.64898/2026.11.14.766632v1?rss=1)
+## [N1 Suppression to Audiovisual Self-generated Sensory Events](https://direct.mit.edu/jocn/article/38/12/2270/139019/N1-Suppression-to-Audiovisual-Self-generated)
+*Journal of Cognitive Neuroscience*  
+Score: **0.70**  
+Published: 2026-12-01T00:00:00+00:00
+Tags: cognitive neuroscience, EEG
+
+This paper investigates neural responses to self-generated events, which contribute to understanding cognitive processes and prediction in neural functioning.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>The ability to discriminate between self-generated and externally generated events is crucial for adaptive behavior. Attenuated N1 responses to self-initiated sensory events indicate a successful discrimination process based on internal prediction models. The sensory attenuation in the N1 (and P2) component has been shown across different sensory modalities (audition, vision, touch), emphasizing the modality independence of the u…
+
+</details>
+
+---
+
+## [Shared Neural Dynamics of Sentence-Level Language Processing in Verbally Proficient Autistic and Non-Autistic Adults](https://www.biorxiv.org/content/10.64898/2026.11.20.768199v1?rss=1)
 *bioRxiv neuroscience*  
-Score: **0.72**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: memory, cognition, neural connectivity
+Score: **0.70**  
+Published: 2026-11-23T00:00:00+00:00
+Tags: neural dynamics, cognitive neuroscience, EEG, memory
 
-This paper investigates long-term neural changes following a psilocybin treatment, relevant for understanding memory and cognitive effects through altered neural connectivity.
+This study utilizes EEG to investigate neural dynamics during sentence processing, which connects directly to cognitive neuroscience through language processing and potentially memory.
 
 <details>
 <summary>RSS summary</summary>
 
-The psychedelic psilocybin offers a novel approach to treat depression and other psychiatric disorders. A single dose of psilocybin induces rapid neuroplastic effects that persist for many weeks to months. However, psilocybin's effect on neural firing beyond its systemic presence, and the neural mechanisms linking these acute and sustained effects remain unknown. Using chronically implanted Neuropixels probes, we tracked 1,692 neurons spanning prefrontal and hippocampal regions following saline …
+Autistic individuals often show atypical language development during childhood, yet many attain typical language proficiency by adulthood. This raises the question of whether the neural processes supporting language differ in autism once language has been acquired. Using electroencephalography (EEG), we compared verbally proficient autistic and non-autistic adults during rapid serial visual presentation of structured sentences and pseudoword lists. Sentence processing elicited oscillatory respon…
 
 </details>
 
 ---
 
-## [Structure learning and context inference emerge from next-state prediction in a cerebellar-medial temporal lobe circuit](https://www.biorxiv.org/content/10.64898/2026.11.14.765964v1?rss=1)
-*bioRxiv neuroscience*  
-Score: **0.68**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: memory, connectivity, cognition
+## [Multimodal alterations of brain structure and function after electroconvulsive therapy in psychiatric disorders: a voxel-based meta-analysis](https://www.nature.com/articles/s41398-026-04582-6)
+*Translational Psychiatry*  
+Score: **0.70**  
+Published: 2026-11-21T00:00:00
+Tags: neuroimaging, meta-analysis, psychiatric disorders, functional connectivity
 
-This research on predictive structures in neural circuits may contribute insight into memory-guided processes and the underlying functional architecture of brain networks.
+This meta-analysis presents multimodal imaging data which can provide insights into brain function and organization relevant for neuroimaging methods.
 
 <details>
 <summary>RSS summary</summary>
 
-Humans learn many context-dependent behaviors; yet the contexts driving these behavior are rarely explicit and must instead be inferred. Further, we are rarely exposed to the same context multiple times, so we must learn how to generalize to new contexts from our experiences in prior ones. Motor learning relies on both. People can hold multiple conflicting visuomotor mappings and recall the appropriate mapping when needed. Much as cricket is easier to learn for someone who already plays baseball…
+<p>Translational Psychiatry, Published online: 21 November 2026; <a href="https://www.nature.com/articles/s41398-026-04582-6">doi:10.1038/s41398-026-04582-6</a></p>Multimodal alterations of brain structure and function after electroconvulsive therapy in psychiatric disorders: a voxel-based meta-analysis
 
 </details>
 
 ---
 
-## [The neuroscience of delirium: a perfect storm for acute brain dysfunction](https://www.nature.com/articles/s41583-026-01092-8)
-*Nature Reviews Neuroscience*  
+## [Enhanced Episodic Memory Encoding Following Modulation of the Amygdala via Transcranial Low-intensity Focused Ultrasound](https://direct.mit.edu/jocn/article/38/12/2349/138338/Enhanced-Episodic-Memory-Encoding-Following)
+*Journal of Cognitive Neuroscience*  
 Score: **0.65**  
-Published: 2026-11-13T00:00:00+00:00
-Tags: delirium, neurophysiology, cognitive dysfunction
+Published: 2026-12-01T00:00:00+00:00
+Tags: memory, amygdala, transcranial stimulation
 
-Explores neurophysiological mechanisms associated with delirium, which may connect to cognitive dysfunction and provide insights into individual differences.
+This study examines the role of the amygdala in episodic memory modulation, intersecting emotional and cognitive neuroscience.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Reviews Neuroscience, Published online: 13 November 2026; <a href="https://www.nature.com/articles/s41583-026-01092-8">doi:10.1038/s41583-026-01092-8</a></p>Delirium is a highly prevalent, but much neglected, acute neuropsychiatric syndrome strongly associated with dementia. In this Review, Cunningham and Kimchi detail the neurophysiological and neuroanatomical basis of delirium and the metabolic and neuroinflammatory mechanisms that may drive it.
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>The amygdala is considered crucial to the formation of emotional episodic memories, yet causal evidence in humans is limited due to challenges in noninvasive neuromodulation of deep brain structures. In a double-blind, sham-controlled, repeated-measures study, we tested whether transcranial low-intensity focused ultrasound (tFUS) targeting the left amygdala before encoding emotional and neutral pictures impacted memory for these …
 
 </details>
 
 ---
 
-## [Preserved cognitive control with altered ventromedial prefrontal activity in lichen simplex chronicus: an fMRI study during the Multi-Source Interference Task.](https://www.biorxiv.org/content/10.64898/2026.11.12.766224v1?rss=1)
+## [Neural Reinstatement of Features in Audiovisual Working Memory Indicates Object-based Retrieval](https://direct.mit.edu/jocn/article/38/12/2319/139021/Neural-Reinstatement-of-Features-in-Audiovisual)
+*Journal of Cognitive Neuroscience*  
+Score: **0.60**  
+Published: 2026-12-01T00:00:00+00:00
+Tags: working memory, cognitive neuroscience, attention
+
+This paper investigates how attention influences audiovisual working memory, relating to individual-level organization in cognitive tasks.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Selective attention allows us to prioritize or retrieve task-relevant features and items from working memory. However, previous work has largely relied on unisensory paradigms, leaving open the question of how attentional mechanisms act on audiovisual working memory representations. Here, using an EEG-based audiovisual delayed-match-to-sample task, we investigate whether attention to audiovisual working memory contents operates o…
+
+</details>
+
+---
+
+## [Cross-domain competition for memory reactivation resources during sleep](https://www.biorxiv.org/content/10.64898/2026.11.20.768209v1?rss=1)
 *bioRxiv neuroscience*  
 Score: **0.60**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: cognitive control, fMRI
+Published: 2026-11-23T00:00:00+00:00
+Tags: memory, reactivation, cognition, neuroimaging
 
-This study employs an fMRI design but lacks a strong connection to key interests in mental imagery or memory systems.
+Explores the interaction of memory reactivation across domains during sleep, which is critical for understanding memory consolidation processes and networks.
 
 <details>
 <summary>RSS summary</summary>
 
-Lichen simplex chronicus (LSC) is a chronic pruritic skin condition, and one of its central features is the itch-scratch cycle. It has been hypothesized that resisting the urge to scratch, and thereby stopping this cycle, may depend on mechanisms of cognitive control. Here, we used the Multi-Source Interference Task (MSIT) during fMRI to examine whether patients with LSC (n = 9) differ from healthy controls (n = 11) in interference control or in the brain activity that supports it. Our results s…
+Targeted Memory Reactivation (TMR) enhances the consolidation of both declarative and procedural memories. As previous research highlights the importance of cross-domain interactions in shaping memory consolidation, we investigated here whether interacting memories from different domains can be co-reactivated by TMR during post-learning sleep, and in turn enhance consolidation. In a fully within-subject design, twenty-four young, healthy participants learned both a motor and an object sequence l…
 
 </details>
 
 ---
 
-## [Combined MEG and EEG suggest a limbic source network for the P3](https://academic.oup.com/cercor/article/doi/10.1093/cercor/bhag183/9040814?rss=1)
-*Cerebral Cortex*  
+## [Spectral envelopes of facial movements predict intention, cortical representations, and neural prosthetic control](https://www.cell.com/neuron/fulltext/S0896-6273(26)00812-3?rss=yes)
+*Neuron in press*  
 Score: **0.60**  
-Published: 2026-11-13T00:00:00+00:00
-Tags: P3, limbic system, neuroscience
+Published: 2026-11-20T00:00:00
+Tags: cortex, cognitive neuroscience, movement
 
-Investigates limbic systems related to P3 potential, essential in understanding cognitive processes like attention and memory.
+Explores neural representations and their implications for intention prediction which intersects with cognitive processes.
 
 <details>
 <summary>RSS summary</summary>
 
-<span class="paragraphSection"><div class="boxTitle">Abstract</div>The event-related P3 is evoked by most task-relevant or salient stimuli, but its neural sources remain controversial. Here we reevaluate the role of hippocampus, unambiguously demonstrated in intracranial recordings, and retro-splenial cortex as sources of the P3 in magneto- and electroencephalography. Observers detected rare visual targets of a deviant shape and ignored rare non-targets of a deviant color. Source analysis was ba…
+Hakim et al. introduce face-rhythm, an unsupervised method that tracks and decomposes rodent facial video into components that describe the instantaneous magnitude of movement patterns. Components are consistent across animals, predict expected outcomes during conditioning and operant control, and explain more cortical variance at a lower rank than other methods.
 
 </details>
 
 ---
 
-## [Predictors of learning the memory support system in individuals with amnestic mild cognitive impairment](https://www.tandfonline.com/doi/full/10.1080/13803395.2026.2762996?ai=z4&mi=3fqos0&af=R)
-*Journal of Clinical and Experimental Neuropsychology*  
-Score: **0.55**  
-Published: 2026-11-12T12:50:27+00:00
-Tags: memory, cognitive impairment, amnestic
-
-Focuses on memory support mechanisms, analyzing predictors in individuals with cognitive impairments, relevant to episodic memory and retrieval.
-
-<details>
-<summary>RSS summary</summary>
-
-. <br />
-
-</details>
-
----
-
-## [Neurophysiological evidence for rapid semantic integration via fast mapping](https://link.springer.com/article/10.3758/s13415-026-01502-5)
-*Cognitive, Affective, & Behavioral Neuroscience*  
+## [Animate–Inanimate Object Categorization from Minimal Visual Information in the Human Brain, Human Behavior, and Deep Neural Networks](https://direct.mit.edu/jocn/article/38/12/2287/139020/Animate-Inanimate-Object-Categorization-from)
+*Journal of Cognitive Neuroscience*  
 Score: **0.50**  
-Published: 2026-11-14T00:00:00+00:00
-Tags: memory, cognition
+Published: 2026-12-01T00:00:00+00:00
+Tags: visual cognition, category, cognitive neuroscience
 
-This paper discusses semantic integration relevant to memory systems, albeit not directly aligned with user interests in functional connectivity.
+This study's focus on object categorization touches on visual processing and cognition, but lacks a strong connection to memory or functional connectivity.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Theories of declarative memory consolidation hold that novel associative information is integrated into cortical semantic networks slowly and with hippocampal support. However, an encoding paradigm called <i>fast mapping</i> (FM) has been proposed to permit rapid cortical integration of novel item-label associations, particularly when the novel item shares substantial visual-semantic features with a simultaneously presented known concept. We tested whether associations encoded through FM imme…
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>The distinction between animate and inanimate things is a main organizing principle of information in perception and cognition. Yet, animacy, as a visual property, has so far eluded operationalization. Which visual features are necessary and sufficient to discriminate between animate and inanimate objects? At which level of the visual hierarchy does the animate–inanimate distinction emerge? Here, we show that the categorical boun…
 
 </details>
 
 ---
 
-## [Distinct prelimbic microcircuits control sensory and affective dimensions of neuropathic pain](https://www.nature.com/articles/s41593-026-02498-4)
-*Nature Neuroscience*  
-Score: **0.40**  
-Published: 2026-11-16T00:00:00+00:00
-Tags: circuitry, pain
+## [Cognitive Load modulates the exploration-exploitation trade-off Through Reconfiguration of an IPS-Centered Decision Network](https://www.biorxiv.org/content/10.64898/2026.11.21.768355v1?rss=1)
+*bioRxiv neuroscience*  
+Score: **0.50**  
+Published: 2026-11-23T00:00:00+00:00
+Tags: cognitive load, decision making, neuroscience
 
-While it presents an intriguing study on brain circuitry, it primarily focuses on pain rather than interests in neuroimaging or cognitive neuroscience frameworks.
+Investigates how cognitive load affects decision-making networks, linking individual cognitive processes and brain organization.
 
 <details>
 <summary>RSS summary</summary>
 
-<p>Nature Neuroscience, Published online: 16 November 2026; <a href="https://www.nature.com/articles/s41593-026-02498-4">doi:10.1038/s41593-026-02498-4</a></p>Gan et al. report the cellular mechanisms underlying dysbalance of prefrontal brain activity in mice with neuropathic pain and delineate the circuitry through which the prefrontal cortex exerts top-down control of sensory and emotional aspects of pain.
+In dynamic environments where rewards continuously change, adaptive decision-making requires ongoing updates of option-value and uncertainty estimates to balance exploration and exploitation. This process depends on cognitive resources and involves coordinated interactions among multiple brain regions; however, how cognitive load affects directed exploration in such dynamic environments, and whether these effects are accompanied by changes in interactions among exploration-related brain regions,…
+
+</details>
+
+---
+
+## [A shared meaning component across languages in the human brain](https://www.nature.com/articles/s41593-026-02523-6)
+*Nature Neuroscience*  
+Score: **0.50**  
+Published: 2026-11-23T00:00:00+00:00
+Tags: language, fMRI, cognition
+
+Utilizes fMRI to explore shared brain functions in language, connecting to cognitive representations and processing.
+
+---
+
+## [Aligning episodic memory scores from different time points](https://link.springer.com/article/10.3758/s13423-026-03046-8)
+*Psychonomic Bulletin & Review*  
+Score: **0.50**  
+Published: 2026-11-23T00:00:00+00:00
+Tags: episodic memory, cognition, assessment
+
+Discusses methods to align episodic memory assessments, relevant for understanding memory processes over time.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>To measure episodic memory, recall of sentences or words with or without cues or enactment is commonly used. In longitudinal studies, participants may join at different points or drop out, yet comparison of episodic memory is still desired. The aim of this study is to explore different methods of linking scores obtained at different time points, to allow for comparability between scores from various test administrations. When the same instrument is used across timepoints, a possibility is to …
+
+</details>
+
+---
+
+## [Attention and Explicit Knowledge Drive Predictive Sharpening in Early Visual Cortex](https://direct.mit.edu/jocn/article/38/12/2223/138353/Attention-and-Explicit-Knowledge-Drive-Predictive)
+*Journal of Cognitive Neuroscience*  
+Score: **0.45**  
+Published: 2026-12-01T00:00:00+00:00
+Tags: attention, cognitive neuroscience
+
+This paper explores the interaction of attention with sensory perception, relevant but indirectly related to the user's main interests.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Perception is increasingly understood as an inferential process in which sensory input is interpreted in light of prior knowledge. Although predictive effects are widely documented in sensory cortices and interact with higher cognitive functions such as attention, predictive processes are generally assumed to unfold implicitly. Consequently, research often overlooks the possibility that participants may possess explicit knowledge…
+
+</details>
+
+---
+
+## [Multimodal digital biomarker for asthma: complementary roles of vocal, clinical and demographic factors](https://www.nature.com/articles/s41746-026-03465-w)
+*npj Digital Medicine*  
+Score: **0.45**  
+Published: 2026-11-22T00:00:00+00:00
+Tags: methods, biomarkers, health
+
+While focusing on asthma, it employs multimodal analysis, a methodology highly relevant for neuroimaging and cognitive research.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>npj Digital Medicine, Published online: 22 November 2026; <a href="https://www.nature.com/articles/s41746-026-03465-w">doi:10.1038/s41746-026-03465-w</a></p>Multimodal digital biomarker for asthma: complementary roles of vocal, clinical and demographic factors
+
+</details>
+
+---
+
+## [Abstract Property-selective Clusters Link Continuous Property Representations to Discrete Category-selective Regions in Human Higher Visual Cortex](https://direct.mit.edu/jocn/article/38/12/2252/139022/Abstract-Property-selective-Clusters-Link)
+*Journal of Cognitive Neuroscience*  
+Score: **0.40**  
+Published: 2026-12-01T00:00:00+00:00
+Tags: visual perception, cognition
+
+While addressing visual perception, it lacks a direct tie to mental imagery, memory, or connectivity themes.
+
+<details>
+<summary>RSS summary</summary>
+
+<span class="paragraphSection"><div class="boxTitle">Abstract</div>Object representations in the human higher visual cortex (HVC) support complex recognition behaviors early in development, yet the principles linking continuous dimensional representations and discrete category-selective areas in the HVC remain incompletely understood. Here, we propose a “property–cluster–category” organization that bridges object conceptual dimensions and discrete category areas in the HVC. Using a large-scale n…
+
+</details>
+
+---
+
+## [Mindfulness-Oriented Recovery Enhancement and ED Visits in Opioid Use](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856965)
+*JAMA Network Open*  
+Score: **0.40**  
+Published: 2026-11-23T00:00:00+00:00
+Tags: mindfulness, cognitive interventions, health
+
+Examines psychological interventions and their impact on health, connecting to cognitive-behavioral aspects and recovery processes.
+
+<details>
+<summary>RSS summary</summary>
+
+Emergency Medicine
+
+</details>
+
+---
+
+## [Transcriptome changes of disinhibited somatostatin neurons in the medial prefrontal cortex mediating male-specific stress resilience](https://www.nature.com/articles/s41398-026-04576-4)
+*Translational Psychiatry*  
+Score: **0.40**  
+Published: 2026-11-22T00:00:00+00:00
+Tags: gene expression, neurology, stress resilience
+
+Although focused on genetics, this paper informs on neural mechanisms that influence individual variability in behaviour and stress response.
+
+<details>
+<summary>RSS summary</summary>
+
+<p>Translational Psychiatry, Published online: 22 November 2026; <a href="https://www.nature.com/articles/s41398-026-04576-4">doi:10.1038/s41398-026-04576-4</a></p>Transcriptome changes of disinhibited somatostatin neurons in the medial prefrontal cortex mediating male-specific stress resilience
 
 </details>
 
